@@ -1,5 +1,5 @@
 ---
-title: Comments Support
+title: Wir im Westend bekennen Farbe
 subtitle: Add Comments to Posts With Disqus
 category:
   - Third Party Integrations
@@ -13,7 +13,7 @@ Disqus brings the power of commenting to the Awake template. It provides feature
 
 Go to disqus.com and click on "Get Started"
 
-![Screenshot of Disqus homepage](/uploads/disqus-get-started.jpg)
+![Keine Geschenke den Hohenzollern](/uploads/goar8626.jpg "Wir waren dabei und zeigten Flagge")
 
 ## Step 2
 
