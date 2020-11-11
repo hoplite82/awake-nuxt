@@ -9,7 +9,7 @@ featureImage: /uploads/markup-hero.jpg
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
 
-# h1 Heading
+# h1 Heading So awsome
 
 ## h2 Heading
 
@@ -22,6 +22,8 @@ Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it
 ###### h6 Heading
 
 ## Horizontal Rules
+
+
 
 - - -
 
@@ -41,9 +43,9 @@ test.. test... test..... test?..... test!....
 
 **This is bold text**
 
-_This is italic text_
+*This is italic text*
 
-_This is italic text_
+*This is italic text*
 
 ~~Strikethrough~~
 
@@ -61,7 +63,9 @@ Unordered
 
 * Create a list by starting a line with `+`, `-`, or `*`
 * Sub-lists are made by indenting 2 spaces:
+
   * Marker character change forces new list start:
+
     * Ac tristique libero volutpat at
     * Facilisis in pretium nisl aliquet
     * Nulla volutpat aliquam velit
@@ -134,21 +138,21 @@ Autoconverted link https://danielkelly.io
 
 ## Footnotes
 
-Footnote 1 link\[^first].
+Footnote 1 link[^first].
 
-Footnote 2 link\[^second].
+Footnote 2 link[^second].
 
 Inline footnote^\[Text of inline footnote] definition.
 
-Duplicated footnote reference\[^second].
+Duplicated footnote reference[^second].
 
-\[^first]: Footnote **can have markup**
+[^first]: Footnote **can have markup**
 
 ```
 and multiple paragraphs.
 ```
 
-\[^second]: Footnote text.
+[^second]: Footnote text.
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
@@ -157,7 +161,7 @@ Term 1
 :   Definition 1
 with lazy continuation.
 
-Term 2 with _inline markup_
+Term 2 with *inline markup*
 
 :   Definition 2
 
@@ -167,7 +171,7 @@ Term 2 with _inline markup_
 Third paragraph of definition 2.
 ```
 
-_Compact style:_
+*Compact style:*
 
 Term 1
   ~ Definition 1
