@@ -22,7 +22,7 @@
                 He is so cool.
               </p>
               <figure class="image is-1by1">
-                <img width="500" height="500" src="assets/uploads/robert_pratersch_anzug.jpg"/>
+                <img width="500" height="500" src="assets/uploads/member/robert_pratersch_anzug.jpg"/>
               </figure>
             </article>
           </div>
@@ -35,7 +35,7 @@
                 Chief Master of Desaster
               </p>
               <figure class="image is-1by1">
-                <img width="500" height="500" src="assets/uploads/oefinger.jpg"/>
+                <img width="500" height="500" src="assets/uploads/member/oefinger.jpg"/>
               </figure>
             </article>
           </div>
