@@ -19,11 +19,11 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'Wer wir sind',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'Termine',
       link: '/contact'
     },
     {
