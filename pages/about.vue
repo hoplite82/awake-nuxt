@@ -22,7 +22,7 @@
                 He is so cool.
               </p>
               <figure class="image is-1by1">
-                <img width="500" height="500" src="../assets/uploads/member/robert_pratersch_anzug.jpg"/>
+                <nuxt-image width="500" height="500" src="../assets/uploads/member/robert_pratersch_anzug.jpg"/>
               </figure>
             </article>
           </div>
