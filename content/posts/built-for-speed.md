@@ -1,5 +1,5 @@
 ---
-title: Engels und die Revolution
+title: Friedrich Engels und die Revolution
 subtitle: 200. Geburtstag am 28.11.2020
 category:
   - Third Party Integrations
