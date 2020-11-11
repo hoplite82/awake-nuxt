@@ -2,10 +2,7 @@
   <main class="section page-main-section">
     <div class="container">
       <div class="columns">
-        <aside
-          v-if="computedTheme === 'sidebar-left'"
-          class="column left-sidebar is-one-quarter"
-        >
+        <aside v-if="computedTheme === 'sidebar-left'" class="column left-sidebar is-one-quarter">
           <slot name="sidebar"></slot>
         </aside>
         <div
