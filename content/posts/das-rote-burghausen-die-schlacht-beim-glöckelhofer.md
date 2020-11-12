@@ -2,9 +2,9 @@
 title: "Das rote Burghausen: Die Schlacht beim Glöckelhofer"
 subtitle: Arbeitereinheitsfront gegen die Nazis in Oberbayern
 category:
-  - Wohnraum schaffen, Leerstand beschlagnahmen, Spekulanten enteignen!
+  - LINKS wirkt
 author: Der Funke
-date: 2020-11-12T18:40:24.152Z
+date: 2020-11-12T18:43:19.868Z
 featureImage: /uploads/burghausen.jpg
 ---
 **Das rote Burghausen: Die Schlacht beim Glöckelhofer**
