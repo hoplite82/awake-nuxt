@@ -2,8 +2,7 @@
 title: Friedrich Engels und die Revolution
 subtitle: 200. Geburtstag am 28.11.2020
 category:
-  - Third Party Integrations
-  - About Awake
+  - LINKS wirkt
 author: Hans-Gerd Öfinger
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/kiel135.jpg
