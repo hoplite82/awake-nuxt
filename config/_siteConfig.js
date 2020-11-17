@@ -20,7 +20,7 @@ export default {
   mainMenu: [
     {
       name: 'Wer wir sind',
-      link: '/about'
+      link: '/members'
     },
     {
       name: 'Termine',
@@ -30,6 +30,11 @@ export default {
       name: 'Themen',
       link: '/categories'
     },
+
+    {
+      name: 'Kontakt',
+      link: '/contact'
+    }
     
     
   ],
@@ -93,7 +98,14 @@ export default {
     },
     perRow: 3,
     perPage: 6
-  }
+  },
+  // Categories
+  members: {
+    on: true,
+    perPage: 6,
+    imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
+    theme: null // See card.theme (can be unique for categories if set here)
+  },
 }
 
 export const CMS = theCMS
