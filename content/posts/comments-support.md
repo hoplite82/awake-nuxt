@@ -2,7 +2,7 @@
 title: Wir im Westend bekennen Farbe
 subtitle: Add Comments to Posts With Disqus
 category:
-  - Third Party Integrations
+  - Administratives
 author: Daniel Kelly
 date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/disqus-hero.jpg

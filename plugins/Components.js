@@ -11,7 +11,7 @@ import SiteHero from '../components/SiteHero'
 import SiteLogo from '../components/SiteLogo'
 import SiteNav from '../components/SiteNav'
 import ResourceGrid from '~/components/grids/ResourceGrid'
-
+// import Navbar from 'nuxt-buefy/lib/module'
 Vue.component(CategoriesGrid.name, CategoriesGrid)
 Vue.component(DisqusComments.name, DisqusComments)
 Vue.component(IntersectionObserver.name, IntersectionObserver)

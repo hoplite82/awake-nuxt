@@ -2,7 +2,7 @@
 title: Ist NetiflyCMS & Nuxt.js mit Awake Template geeignet?
 subtitle: little testing
 category:
-  - About Awake
+  - Administratives
 author: Robert Pratersch
 date: 2020-11-11T13:49:32.393Z
 featureImage: /uploads/robert_pratersch_anzug.png

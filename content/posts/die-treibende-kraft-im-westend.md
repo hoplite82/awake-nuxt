@@ -2,7 +2,7 @@
 title: "Unser Programm: Die treibende Kraft im Westend"
 subtitle: LINKS wirkt!
 category:
-  - LINKS wirkt
+  - Lokales
 author: Hans-Gerd Öfinger
 date: 2020-11-12T16:42:52.492Z
 featureImage: /uploads/whgdemo.jpg

@@ -2,7 +2,7 @@
 title: "Das rote Burghausen: Die Schlacht beim Glöckelhofer"
 subtitle: Arbeitereinheitsfront gegen die Nazis in Oberbayern
 category:
-  - LINKS wirkt
+  - General
 author: Der Funke
 date: 2020-11-12T18:43:19.868Z
 featureImage: /uploads/burghausen.jpg

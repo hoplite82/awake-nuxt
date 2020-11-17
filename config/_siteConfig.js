@@ -9,10 +9,10 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake Nuxt&Netifly Testing',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Die Linke',
+  tagline: 'Stadtteil Wiesbaden Westend',
   featureImage: '/uploads/banner_west.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/linke.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -27,7 +27,7 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Themen',
       link: '/categories'
     },
     
@@ -45,7 +45,7 @@ export default {
 
   // Card Layout
   cards: {
-    imageDimensions: '2x1', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
+    imageDimensions: '3x2', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
     theme: 'boxes' // Options: boxes, grid, image-grid
   },
 

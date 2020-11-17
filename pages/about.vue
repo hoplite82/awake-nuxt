@@ -1,10 +1,6 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
-    <site-hero
-      title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
-    ></site-hero>
+   
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
@@ -22,7 +18,7 @@
                 He is so cool.
               </p>
               <figure class="image is-1by1">
-                <nuxt-image width="500" height="500" src="../assets/uploads/member/robert_pratersch_anzug.jpg"/>
+                <img width="500" height="500" src="../assets/uploads/member/robert_comic.png" />
               </figure>
             </article>
           </div>
