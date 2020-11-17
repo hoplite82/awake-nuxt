@@ -16,11 +16,15 @@ featureImage: /uploads/purge-css-hero.jpg
 
 - [ ] Nuxt und Awake Code base ersetzen.
 
+- [ ] Googles Analytics anschalten
+
+
+
 ## laufende Site
 
 - [ ] Bugfix Categories Menue.
 - [ ] Termine Section
 - [ ] Member Section
-- [ ] Contact-Email an Oefinger@WEB.de. (Account bei 3 Anbieter notwendig).
+- [ ] Contact-Email an Oefinger@WEB.de. ().
 - [ ] Newsletter Funktion einrichten. (Account MailChunk)
 

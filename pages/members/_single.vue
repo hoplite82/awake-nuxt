@@ -2,7 +2,7 @@
   <div id="post-page" class="page-wrapper post-page">
     <main-section :one-column-constrained="true">
       <h1>{{ $store.state.name }}</h1>
-     
+      <opti-img></opti-img>
         
           <strong>{{$store.state.image}}</strong> {{ image }}
          {{isAuthor}}
