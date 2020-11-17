@@ -19,18 +19,17 @@ export default {
   },
   mainMenu: [
     {
-      name: 'Wer wir sind',
-      link: '/members'
-    },
-    {
-      name: 'Termine',
-      link: '/contact'
-    },
-    {
       name: 'Themen',
       link: '/categories'
     },
-
+    {
+      name: 'Termine',
+      link: '/termine'
+    },
+    {
+      name: 'Wer wir sind',
+      link: '/members'
+    },
     {
       name: 'Kontakt',
       link: '/contact'
