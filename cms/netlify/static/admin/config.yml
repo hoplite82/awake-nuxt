@@ -16,8 +16,14 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Category", name: "category", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", multiple: true}
-      - {label: "Author", name: "author", widget: "string", default: "Daniel Kelly"}
+      - {
+        label: "Category", name: "category", widget: "relation", 
+        collection: "categories", searchFields: ["name"], valueField: "name", multiple: true
+        
+        }
+      - {label: "Author", name: "author", widget: "relation", 
+        collection: "members", searchFields: ["name"], valueField: "name"
+      }
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featureImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -31,3 +37,29 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
+  - name: "members"
+    label: "Mitglieder"
+    folder: "content/members"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: name
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "IstAuthor", name: "isAuthor", widget: "boolean", default: false}
+      - {label: "ShortDesc", name: "ShortDesc", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "termine"
+    label: "Termine und Veranstaltungen"
+    folder: "content/termine"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Beginn", name: "startdate", widget: "datetime"}
+      - {label: "Ende", name: "enddate", widget: "datetime"}
+      - {label: "Ist Veranstaltung", name: "isEvent", widget: "boolean", default: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}

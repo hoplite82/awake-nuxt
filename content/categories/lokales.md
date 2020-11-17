@@ -1,5 +1,5 @@
 ---
 name: Lokales
-image: /uploads/fastnacht1.jpg
+image: /uploads/westend_faz.jpg
 description: Lokale Ereignisse im Westend.
 ---

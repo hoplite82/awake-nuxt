@@ -1,5 +1,5 @@
 ---
 name: Theorie
-image: https://picsum.photos/1800/1801
+image: /uploads/karl-marx-peace-sign.jpg
 description: Theorie und Marxismus im 21 Jahrhundert
 ---
