@@ -4,7 +4,7 @@ backend:
 # This line should *not* be indented
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "/uploads" # The src attribute for uploaded media will begin with /images/uploads
-site_url: https://awake-nuxt-pratersch.netlify.app
+site_url: https://awake-template.netlify.com
 logo_url: https://awake-template.netlify.com/logo-frames/logo-f0.svg
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -16,11 +16,10 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Category", name: "category", widget: "relation", default: "Lokales", collection: "categories", search_fields: ["name"], value_field: "name",multiple: true}
-      - {label: "Author", name: "author", widget: "select", default: "Hans-Gerd Öfinger", collection: "members", search_fields: ["name"], value_field: "name"}
+      - {label: "Category", name: "category", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", multiple: true}
+      - {label: "Author", name: "author", widget: "string", default: "Daniel Kelly"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "featureImage", widget: "image", required: false}
-      - {label: "Ist VideoPost", name: "isVideoPost", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "featureImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "categories"
     label: "Categories"
@@ -30,32 +29,5 @@ collections:
     identifier_field: name
     fields:
       - {label: "Name", name: "name", widget: "string"}
-      - {label: "Image", name: "image", widget: "image" , required: false}
-      - {label: "Description", name: "description", widget: "markdown"}
-  - name: "members"
-    label: "Mitglieder"
-    folder: "content/members"
-    create: true
-    slug: "{{slug}}"
-    identifier_field: name
-    fields:
-      - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "IstAuthor", name: "isAuthor", widget: "boolean", default: false}
-      - {label: "ShortDesc", name: "ShortDesc", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-  - name: "termine"
-    label: "Termine und Veranstaltungen"
-    folder: "content/termine"
-    create: true
-    slug: "{{slug}}"
-    identifier_field: title
-    fields:
-      - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Beginn", name: "startdate", widget: "datetime"}
-      - {label: "Ende", name: "enddate", widget: "datetime"}
-      - {label: "Ist Veranstaltung", name: "isEvent", widget: "boolean", default: false}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-    
+      - {label: "Description", name: "description", widget: "markdown"}
