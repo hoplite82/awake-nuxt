@@ -1,10 +1,7 @@
 ---
 name: Hans Gerd Öfinger
-image: /uploads/member/oefinger.jpgs
+image: /uploads/oefinger.jpg
 isAuthor: true
-ShortDesc: "Webmaster"
+ShortDesc: Master of Disaster
 ---
-# Robert Pratersch Überschrift
-
-Ich bin relativ neu Wiesbaden und unterstütze die lokale Linke, wo ich kann.
-Siehe [pratersch](http://www.pratersch.de)
+Master of Disaster.
