@@ -17,7 +17,7 @@
         <input
           class="input is-medium"
           type="email"
-          placeholder="you@email.com"
+          placeholder="your@email.com"
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
