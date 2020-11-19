@@ -46,6 +46,7 @@
                     <input
                       class="input is-medium"
                       type="email"
+                      name="mail"
                       placeholder="your@email.com"
                     />
                     <span class="icon is-small is-left">
@@ -58,6 +59,7 @@
                   <label class="label is-medium">Subject</label>
                   <div class="control has-icons-left">
                     <input
+                      name="Betreff"
                       class="input is-medium"
                       type="text"
                       placeholder="Brief Summary"
@@ -72,6 +74,7 @@
                   <label class="label is-medium">Message</label>
                   <div class="control">
                     <textarea
+                      name="massage"
                       class="textarea"
                       placeholder="Detailed description of your comment, request, etc"
                       rows="8"
