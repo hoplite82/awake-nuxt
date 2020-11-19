@@ -15,69 +15,66 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-
               <!-- form start -->
               <form
-                name="form-contact"
+                name="kontakt-contact"
                 method="post"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
               >
-                <input type="hidden" name="form-name" value="form-contact" />
+                <input type="hidden" name="form-name" value="form-kontakt" />
                 <!-- Name -->
                 <div class="field">
                   <label class="label is-medium">Name</label>
-                  <div class="control has-icons-left">
-                    <input
-                      class="input is-medium"
-                      type="text"
-                      name="name"
-                      placeholder="John Smith"
-                    />
-                    <span class="icon is-small is-left">
-                      <font-awesome-icon icon="user" />
-                    </span>
-                  </div>
+
+                  <input
+                    class="input is-medium"
+                    type="text"
+                    name="name"
+                    placeholder="John Smith"
+                  />
+                  <span class="icon is-small is-left">
+                    <font-awesome-icon icon="user" />
+                  </span>
                 </div>
                 <!-- Email -->
                 <div class="field">
                   <label class="label is-medium">Email</label>
-                  <div class="control has-icons-left">
-                    <input
-                      class="input is-medium"
-                      type="email"
-                      placeholder="your@email.com"
-                    />
-                    <span class="icon is-small is-left">
-                      <font-awesome-icon icon="envelope" />
-                    </span>
-                  </div>
+
+                  <input
+                    class="input is-medium"
+                    type="email"
+                    placeholder="your@email.com"
+                    name="mail"
+                  />
+                  <span class="icon is-small is-left">
+                    <font-awesome-icon icon="envelope" />
+                  </span>
                 </div>
                 <!-- Subject -->
                 <div class="field">
                   <label class="label is-medium">Subject</label>
-                  <div class="control has-icons-left">
-                    <input
-                      class="input is-medium"
-                      type="text"
-                      placeholder="Brief Summary"
-                    />
-                    <span class="icon is-small is-left">
-                      <font-awesome-icon icon="briefcase" />
-                    </span>
-                  </div>
+
+                  <input
+                    class="input is-medium"
+                    type="text"
+                    placeholder="Brief Summary"
+                  />
+                  <span class="icon is-small is-left">
+                    <font-awesome-icon icon="briefcase" />
+                  </span>
                 </div>
                 <!-- Message -->
                 <div class="field">
                   <label class="label is-medium">Message</label>
-                  <div class="control">
-                    <textarea
-                      class="textarea"
-                      placeholder="Detailed description of your comment, request, etc"
-                      rows="8"
-                    ></textarea>
-                  </div>
+
+                  <textarea
+                    class="textarea"
+                    placeholder="Detailed description of your comment, request, etc"
+                    rows="8"
+                  ></textarea>
                 </div>
+
                 <div class="control">
                   <button class="button is-primary">Contact Uss</button>
                 </div>
@@ -101,6 +98,6 @@ export default {
     return {
       title: `Contact | ${this.$siteConfig.siteName}`,
     }
-  }
+  },
 }
 </script>
