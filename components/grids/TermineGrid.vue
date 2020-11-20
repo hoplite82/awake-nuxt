@@ -8,6 +8,7 @@
       <termin-card
         :title="item.title"
         :link="item.slug ? `/termine/${item.slug}` : ''"
+        :ort="item.ort"
         :startdate="item.startdate"
         :enddate="item.enddate"
       />
@@ -20,7 +21,7 @@ export default {
   name: 'TermineGrid',
   components: { TerminCard },
   props: {
-    perRow: { type: Number, default: 3 },
+    perRow: { type: Number, default: 1 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
     exclude: { type: String, default: '' }

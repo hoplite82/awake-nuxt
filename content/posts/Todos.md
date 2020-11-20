@@ -10,20 +10,23 @@ featureImage: /uploads/purge-css-hero.jpg
 
 ## Gernerell
 
-- [ ] Integration alter Daten der Website-Westend
-
-- [ ] Entscheidung wie generell vorgehen. Änderungen auf WordPress Server oder über Netlifly wie hier und damit neu.
-
-- [ ] Nuxt und Awake Code base ersetzen.
-
-- [ ] Googles Analytics anschalten
-
-
+* [ ] Integration alter Daten der Website-Westend
+* [ ] Entscheidung wie generell vorgehen. Änderungen auf WordPress Server oder über Netlifly wie hier und damit neu.
+* [x] Nuxt und Awake Code base ersetzen.
+  - Es bleibt jetzt dabei. Schon zuviel Zeit hierein gesteckt.
+* [ ] Googles Analytics anschalten
 
 ## laufende Site
 
-- [x] Bugfix Categories Menue.
-- [ ] Termine Section
-- [ ] Member Section
-- [x] Contact-Email an Oefinger@WEB.de. ()
-- [ ] Newsletter Funktion einrichten. (Account MailChunk)
+* [x] Bugfix Categories Menue.
+* [ ] Author Link to Posts
+* [ ] Termine Section
+  - [x] Add Ort
+* [ ] Member Section
+  - [ ] Bild load in Site only
+  - [ ] ...
+* [x] Contact-Email an Oefinger@WEB.de. ()
+* [ ] Newsletter Funktion einrichten. (Account MailChunk)
+* [ ] wichtige Termine mit auf die StartSite
+* [x] static links in Markdown. nuxt failure?
+ 

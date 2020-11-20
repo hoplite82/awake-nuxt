@@ -14,5 +14,3 @@ In der Tat war Engels äußerst **zurückhaltend** und bescheiden und betonte st
 „Was Marx geleistet, hätte ich nicht fertiggebracht. Marx stand höher, sah weiter, überblickte mehr und rascher als wir andern alle. Marx war ein Genie, wir andern höchstens Talente. Ohne ihn wäre die Theorie heute bei weitem nicht das, was sie ist. Sie trägt daher auch mit Recht seinen Namen.“ (Friedrich Engels, Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie, MEW 21, S.291)\
 \
 Trotz dieser Bescheidenheit ist es unbestreitbar, dass Engels einen umfassenden und herausragenden Beitrag zur marxistischen Theorie geleistet hat, und zwar nicht nur „auf einigen wenigen Spezialgebieten“. Seine fruchtbare Zusammenarbeit mit Marx war alles andere als einseitig.
-
-![Page speed insights score 99!!](/uploads/page-speed-insights.jpg)
