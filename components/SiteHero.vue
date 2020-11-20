@@ -1,5 +1,5 @@
 <template>
-  <section :class="`hero is-medium hero-theme-${computedTheme}`">
+  <section :class="`hero is-large hero-theme-${computedTheme}`">
     <img
       class="hero-bg-img"
       :src="responsiveImage.src"
@@ -62,21 +62,8 @@ export default {
   position: relative;
 }
 
-.title {
-  font-weight: 300;
-  @media (min-width: 768px) {
-    font-size: 3.2rem;
-  }
-}
-.subtitle,
-.under-subtitle {
-  padding: 0;
-  margin: 0;
-}
-.subtitle {
-  font-size: 1rem;
-  margin-bottom: 0 !important;
-}
+
+
 .under-subtitle {
   display: inline-block;
   font-size: 0.8rem;

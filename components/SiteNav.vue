@@ -4,8 +4,8 @@
     role="navigation"
     aria-label="main navigation"
   >
-    <div class="navbar-brand">
-      <nuxt-link class="navbar-item" to="/">
+    <div class="navbar-brand" >
+      <nuxt-link class="navbar-item is-size-3" to="/" >
         <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           v-else
@@ -23,11 +23,11 @@
         'is-active': active,
       }"
     >
-      <ul class="navbar-end">
+      <ul class="navbar-start">
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
-          class="navbar-item"
+          class="navbar-item is-size-3"
           @click="active = false"
         >
           <component
@@ -39,10 +39,13 @@
             {{ item.name }}
           </component>
         </li>
-         <li class="navbar-item site-search-wrapper">
+      </ul>
+      <ul class="navbar-end">
+         <li class="navbar-item site-search-wrapper is-size-3">
           <site-search />
-        </li> <li>
-          
+        </li>
+         <li class="navbar-item site-search-wrapper is-size-3">
+         
         </li>
       </ul>
     </div>
