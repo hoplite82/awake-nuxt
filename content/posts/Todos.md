@@ -22,9 +22,8 @@ featureImage: /uploads/purge-css-hero.jpg
 
 ## laufende Site
 
-- [ ] Bugfix Categories Menue.
+- [x] Bugfix Categories Menue.
 - [ ] Termine Section
 - [ ] Member Section
-- [ ] Contact-Email an Oefinger@WEB.de. ().
+- [x] Contact-Email an Oefinger@WEB.de. ()
 - [ ] Newsletter Funktion einrichten. (Account MailChunk)
-

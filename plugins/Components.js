@@ -12,7 +12,9 @@ import SiteLogo from '../components/SiteLogo'
 import SiteNav from '../components/SiteNav'
 import ResourceGrid from '~/components/grids/ResourceGrid'
 import MemberGrid from '~/components/grids/MemberGrid'
+import TermineGrid from '~/components/grids/TermineGrid'
 // import Navbar from 'nuxt-buefy/lib/module'
+Vue.component(TermineGrid.name, TermineGrid)
 Vue.component(CategoriesGrid.name, CategoriesGrid)
 Vue.component(DisqusComments.name, DisqusComments)
 Vue.component(IntersectionObserver.name, IntersectionObserver)

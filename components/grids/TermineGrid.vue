@@ -1,25 +1,24 @@
 <template>
-  <resource-grid
+   <resource-grid
     v-bind="$props"
-    :resource="$cms.category"
-    :theme="$siteConfig.categories.theme || $siteConfig.cards.theme || null"
+    :resource="$cms.termin"
+    :theme="$siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
-      <category-card
-        :title="item.name"
-        :link="item.slug ? `/categories/${item.slug}` : ''"
-        :image="item.image"
-        :description="item.description"
+      <termin-card
+        :title="item.title"
+        :link="item.slug ? `/termine/${item.slug}` : ''"
+        :startdate="item.startdate"
+        :enddate="item.enddate"
       />
     </template>
-  </resource-grid>
+  </resource-grid> 
 </template>
-
 <script>
-import CategoryCard from '~/components/cards/CategoryCard'
+import TerminCard from '~/components/cards/TerminCard'
 export default {
-  name: 'CategoriesGrid',
-  components: { CategoryCard },
+  name: 'TermineGrid',
+  components: { TerminCard },
   props: {
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },
