@@ -19,6 +19,10 @@ export default {
   },
   mainMenu: [
     {
+      name: 'Programm',
+      link: '/die-treibende-kraft-im-westend'
+    },
+    {
       name: 'Themen',
       link: '/categories'
     },
