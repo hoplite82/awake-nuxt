@@ -10,22 +10,35 @@ featureImage: /uploads/purge-css-hero.jpg
 
 ## Gernerell
 
-* [ ] Integration alter Daten der Website-Westend
-* [ ] Entscheidung wie generell vorgehen. Änderungen auf WordPress Server oder über Netlifly wie hier und damit neu.
-* [x] Nuxt und Awake Code base ersetzen.
-  * Es bleibt jetzt dabei. Schon zuviel Zeit hierein gesteckt.
-* [ ] Googles Analytics anschalten
+- [ ] Integration des alten Contents der Website-Westend
+- [x] Entscheidung wie generell vorgehen. Änderungen auf WordPress Server oder über Netlifly wie hier und damit neu.
+- [x] Nuxt und Awake Code base ersetzen.
+  - Es bleibt jetzt dabei. Schon zuviel Zeit hierein gesteckt.
+- [ ] Googles Analytics anschalten
+- [ ] Newsletter Funktion einrichten. (Account MailChunk)
 
 ## laufende Site
 
-* [x] Bugfix Categories Menue.
-* [ ] Author Link to Posts
-* [ ] Termine Section
-  * [x] Add Ort
-* [ ] Member Section
-  * [ ] Bild load in Site only
-  * [ ] ...
-* [x] Contact-Email an Oefinger@WEB.de. ()
-* [ ] Newsletter Funktion einrichten. (Account MailChunk)
-* [ ] wichtige Termine mit auf die StartSite
-* [x] static links in Markdown. nuxt failure?
+- [x] Bugfix Categories Menue.
+- [x] Bugfix Hamburger Menue Banner.
+- [ ] Author Link to Posts
+- [x] Termine Section
+  - [x] Add Ort
+  - [ ] vcard export
+  - [x] komplette Infos in Übersicht
+- [x] Member Section
+  - [x] Bild load in Site only
+  - [x] Formatieren
+  - [x] related Posts
+  - [ ] Kurzbeschreibung in Übersicht
+  - [ ] Facebook Links
+- [x] Contact-Email an Oefinger@WEB.de. ()
+
+- [ ] wichtige Termine mit auf die StartSite
+- [x] static links in Markdown. nuxt failure?
+- [ ] Verknüpfen der Autoren im cms.
+
+- [ ] Feld bei Posts ob auf StartSeite anzuzeigen ist
+
+- [ ] Kontakt
+- [ ] Footer

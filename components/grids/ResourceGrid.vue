@@ -38,7 +38,7 @@ export default {
         return []
       }
     },
-    exclude: { type: String, default: '' }
+    exclude: { type: String, default: '' }, author: {type: String, default: ''}
   },
   data() {
     return {
@@ -144,6 +144,9 @@ export default {
       }
       if (this.exclude) {
         return resource.slug !== this.exclude
+      }
+      if(this.author) {
+        return resource.author.includes(this.author)
       }
       return resource
     }

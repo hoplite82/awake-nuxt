@@ -25,6 +25,7 @@ export default {
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
+    author: {type: String},
     category: {
       type: Array,
       default() {

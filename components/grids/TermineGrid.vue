@@ -11,6 +11,7 @@
         :ort="item.ort"
         :startdate="item.startdate"
         :enddate="item.enddate"
+        :content="item.content"
       />
     </template>
   </resource-grid> 

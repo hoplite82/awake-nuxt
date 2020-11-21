@@ -1,12 +1,12 @@
 <template>
   <div id="post-page" class="page-wrapper post-page">
     <main-section :one-column-constrained="true">
-      <h1>{{ $store.state.name }}</h1>
+      <h1>{{ $store.state.title }}</h1>
      
-        
-          <strong>{{$store.state.image}}</strong> {{ image }}
-         {{isAuthor}}
-          {{ShortDesc}}
+          <strong>{{$store.state.ort}}</strong>
+          <strong>{{$store.state.startdate}}</strong>
+         <strong>{{$store.state.enddate}}</strong>
+          <strong>{{ ($store.state.isEvent) ? "Es ist eine Veranstaltung" : ""}}</strong>
       <markdown :markdown="$store.state.content" />
     </main-section>
   </div>
