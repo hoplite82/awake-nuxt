@@ -1,7 +1,7 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
     <!-- <site-hero title="Categories" image="https://picsum.photos/1800/1801" />     -->
-    <main-section theme="one-column">
+    <main-section>
       <member-grid />
     </main-section>
   </div>

@@ -6,7 +6,9 @@
   >
     <site-nav />
     <nuxt id="nuxtmain"/>
+    <!--
     <news-letter-slide-out v-if="$siteConfig.newsletter.on" />
+    -->
     <site-footer></site-footer>
   </div>
 </template>

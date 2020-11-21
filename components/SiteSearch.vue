@@ -174,7 +174,7 @@ export default {
 </style>
 <style>
 .search-wrapper .match-snippet span {
-  background: #eee;
+  background-color: rgb(238, 238, 238);
   padding: 0 3px;
   display: inline-block;
 }

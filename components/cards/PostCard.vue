@@ -1,5 +1,5 @@
 <template>
-  <generic-card
+  <generic-card 
     :title="title"
     :image="image"
     :link="link"
@@ -11,7 +11,7 @@
   >
     <span
       v-if="author && $siteConfig.posts.displayAuthor"
-      class="author-wrapper"
+      class="author-wrapper "
     >
       <strong>Autor:</strong> {{ author }} |
     </span><br />

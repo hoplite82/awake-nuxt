@@ -42,7 +42,7 @@ export default {
 }
 .spinner {
   opacity: 0.2;
-  background: $dark-invert;
+  background-color: $dark-invert;
   width: 75px;
   height: 75px;
   border-radius: 50%;

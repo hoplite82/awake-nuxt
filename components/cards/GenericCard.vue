@@ -22,7 +22,7 @@
             <h3
               :class="
                 `title
-                is-5
+                is-3
                 has-text-weight-light
                 ${title ? '' : 'empty-content-placeholder'}`
               "
@@ -89,7 +89,7 @@ export default {
   &:before {
     transform-origin: left;
     content: '';
-    background: #eee;
+    background-color: #eee;
     width: 100%;
     position: absolute;
     top: 0;
