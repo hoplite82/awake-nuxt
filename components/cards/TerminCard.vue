@@ -76,6 +76,6 @@ h4 {
 }
 
 .item:hover {
-  background: $primary;
+  background: #777777;
 }
 </style>

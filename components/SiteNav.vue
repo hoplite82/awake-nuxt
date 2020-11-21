@@ -5,13 +5,13 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand" >
-      <nuxt-link class="navbar-item is-size-3" to="/" >
-        <site-logo v-if="$siteConfig.logo === 'logo-component'" />
+      <nuxt-link class="navbar-item is-size-3" to="/">
+        
         <img
-          v-else
           :src="$siteConfig.logo"
           :alt="$siteConfig.siteName"
           class="logo"
+          @click="active = false"
         />
       </nuxt-link>
       <hamburger-button @click="active = !active" />
@@ -61,7 +61,7 @@ export default {
     return {
       active: false,
     }
-  },
+  }
 }
 </script>
 <style lang="scss" scoped>
