@@ -98,13 +98,21 @@ export default {
     perRow: 3,
     perPage: 6
   },
-  // Categories
+  // Categories (not sure if realy loaded)
   members: {
     on: true,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
   },
+   // Termine (not sure if realy loaded)
+    termine : {
+    on: true,
+    perRow: 1,	  
+    perPage: 6,
+    imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
+    theme: null // See card.theme (can be unique for categories if set here)
+  }
 }
 
 export const CMS = theCMS
