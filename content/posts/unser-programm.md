@@ -10,15 +10,9 @@ featureImage: /uploads/whgdemo.jpg
  
 ## LINKS wirkt
 
-<div style="text-align: justify;">
-
 Wiesbaden ist eine schöne Stadt, in der es sich gut leben lässt – wenn man nur genug Geld hat. Denn die Landeshauptstadt ist eine Stadt der Gegensätze: Wiesbaden verzeichnet Spitzenwerte sowohl bei Einkommen wie auch beim Anteil von Sozialhilfeempfängern und Erwerbslosen. Die Klassengegensätze sind in unserer Stadt unübersehbar. Armut trifft inzwischen nicht nur Erwerbslose und Rentner, sondern auch immer mehr berufstätige Menschen in unserer Nachbarschaft. Auf der anderen Seite haben wir in Wiesbaden die höchste Millionärsdichte in ganz Deutschland. Diese kleine wohlhabende Schicht wohnt in Parallelgesellschaften in bestimmten Nobel-Stadtvierteln. Sie verschanzt sich hinter immer höheren Mauern auf ihren Villengrundstücken und kennt das Westend höchstens von der Durchfahrt im Auto. Die soziale Kluft verläuft nicht zwischen Migranten und Deutschen, sondern zwischen Reich und Arm, zwischen Oben und Unten. Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend-Bleichstraße und in der Stadtverordnetenversammlung Wiesbaden auch weiterhin heiße Eisen an. Wir sind eine aktive Gruppe mitten im Wiesbadener Westend und engagieren uns in der Partei DIE LINKE. Das Westend liegt zwischen Emser, Schwalbacher, Dotzheimer, Klarenthaler, Lothringer, Kruse-, Westerwald- und Lahnstraße. Das Westend ist mit über 17.000 EinwohnerInnen mit Wurzeln in über 100 Nationen auf einer Fläche von 0,67 km² der am dichtesten besiedelte Stadtteil Deutschlands! Wir leben gerne im Westend und werden uns dafür einsetzen, dass unser Viertel l(i)ebenswert bleibt.
 
-</div>
-
 ## Mehr Grün im Westend
-
-<div style="text-align: justify;">
 
 Nach der Fertigstellung des Quartierplatzes muss die Fertigstellung des Stadtplatzes zwischen Elly-Heuss-Schule, altem Arbeitsamt und Sporthalle umgesetzt werden. Der Stadtplatz soll nicht versiegelt, sondern als eine generationsübergreifende Grün- und Spielfläche mit wetterfesten Trainings- und Fitnessgeräten für Jung und Alt genutzt werden. Stadt- und Quartiersplatz sollen zu einer Grünanlage mit einer Vielfalt von Pflanzen zusammengeführt werden und somit einen wesentlichen Beitrag zur Aufwertung des Westends leisten. Diese Grünanlage wäre somit gleichzeitig das Tor und Visitenkarte zum Viertel für aus der Fußgängerzone kommende Besucher.
 
@@ -30,11 +24,7 @@ Nach der Fertigstellung des Quartierplatzes muss die Fertigstellung des Stadtpla
 * Nach Abriss der alten Sporthalle der Blücherschule soll der neu entstehende Platz der Erweiterung des Blücherspielplatzes dienen.
 * Im Zuge des Projektes „Bäche ans Licht“ soll der Sedanplatz seinen Platzcharakter mit Aufenthaltsmöglichkeit zurückerhalten: Mit der Offenlegung des Kesselbachs soll auf dem Sedanplatz eine generationsübergreifende Grün- und Spielfläche entstehen. Umweltfreundliche Baumaßnahmen sollen den Platz vor den Verkehrsströmen auf dem 1. Ring schützen.
 
-</div>
-
-## Bezahlbaren Wohnraum im Westend erhalten!
-
-<div style="text-align: justify;">
+## Bezahlbaren Wohnraum im Westend erhalten
 
 Die meisten WestendbewohnerInnen müssen jeden Cent zweimal umdrehen und sind auf preisgünstigen Wohnraum angewiesen. Dabei ist das Angebot an erschwinglichen Mietwohnungen in Wiesbaden nicht ausreichend, um den Bedarf zu decken. Für uns steht daher die Förderung und Ausweitung des sozialen Wohnungsbaus im Mittelpunkt. Wir setzen uns für den großzügigen Ausbau und eine bessere personelle Ausstattung des kommunalen Wohnungsservice ein. Er muss in die Lage versetzt werden, Mietwohnungen im unteren und mittleren Preissegment zu vermitteln. Er hat ebenso die Aufgabe, neben den öffentlichen auch die privaten Wohnungseigentümer zu ermuntern, leer stehenden Wohnraum zu melden und bei der Suche nach Mietern keine privaten Maklerbüros einzuschalten. Die Praxis der Zwangsumzüge für Leistungsberechtigte nach dem Sozialgesetzbuch, deren Kosten der Unterkunft als „unangemessen“ gelten, muss beendet werden!
 
@@ -45,17 +35,9 @@ Die meisten WestendbewohnerInnen müssen jeden Cent zweimal umdrehen und sind au
 * Stärkerer Einbezug der Ortsbeiräte in Entscheidungen der Stadt. Ortsbeiräte kennen ihren Stadtteil, sind nah an den Problemen und bündeln lokalen Sachverstand, den die Stadt abrufen sollte.
 * Mit der Linken für soziales Wohnen in Wiesbaden!
 
-</div>
-
 ## Mobilität und Verkehr – Verkehrswende von unten
 
-<div style="text-align: justify;">
-
 Die aktuelle Berichterstattung über die starken Diskrepanzen der tatsächlichen Feinstaubbelastungen von den Laborergebnissen bei PKW’s zeigen, dass es sich hierbei nicht um „Messfehler“, sondern um kriminelle Machenschaften von Automobilkonzernen handelt, die zur Profitmaximierung noch nicht einmal vor der Gesundheit der Menschen zurückschrecken. Gerade in einem so dicht bewohnten und gleichzeitig so viel befahrenen Stadtteil wie dem Wiesbadener Westend muss die Verkehrswende jetzt angegangen werden. Und das mit konkreten Maßnahmen statt mit guten Absichtserklärungen!
-
-</div>
-
-<div style="text-align: justify;">
 
 **Fangen wir bei der Bleichstraße an:** Die LINKE im Westend begrüßt den geplanten durchgehenden Ausbau der Busspur in der Bleichstraße. Diese Investition macht aber nur dann Sinn, wenn gleichzeitig auch bauliche Maßnahmen zur Verhinderung des missbräuchlichen Parkens vorgenommen werden. Die bisher vorhandene Busspur wird durchgehend ohne jeglichen Sanktionsdruck zum verkehrswidrigen Parken genutzt und kann vom Linienverkehr faktisch nicht genutzt werden.
 
@@ -73,11 +55,7 @@ Somit beschränkt sich die durchgehende Nutzung der Straße auf Busse, Fahrräde
 * **LKW-Durchfahrtsverbot** auf dem 1. und 2. Ring.
 * Schaffung von öffentlichen **Fahrradabstellanlagen** und -plätzen mit Steckdosen für E-Räder. Radwege müssen auch für dreirädrige Lastfahrräder benutzbar sein.
 
-</div>
-
 ## Soziales Westend für Jung und Alt
-
-<div style="text-align: justify;">
 
 Die meisten Menschen im Westend sind auf gut funktionierende öffentliche Einrichtungen angewiesen. Wir setzen uns für den Erhalt und weiteren Ausbau der sozialen Infrastruktur ein. Zur sozialen Verantwortung gehört auch, dass die Arbeiten im öffentlichen Interesse ordentlich nach Tarif bezahlt werden.
 
@@ -98,10 +76,6 @@ Die meisten Menschen im Westend sind auf gut funktionierende öffentliche Einric
 * Im Inneren Westend gibt es zu wenig Briefkästen und seit den 1990er Jahren keine eigene Postfiliale mehr. Dies ist eine Folge der privatisierungsbedingten Rationalisierung bei der Deutschen Post AG. Wir werden uns gegenüber der Post für die Anbringung von Briefkästen insbesondere im Bereich Wellritzstraße und Bleichstraße einsetzen.
 * Für ein stadtweites drahtloses und allgemein zugängliches Datennetz (WLAN) in Wiesbaden, Unterstützung der Initiative Freifunk und Bereitstellung öffentlicher Gebäude.
 * Unterstützung und Förderung alternativer Initiativen in der Kulturszene sowie Vereine und Einrichtungen zum Aufbau von Gegenöffentlichkeit und Selbsthilfe.
-
-</div>
-
-<div style="text-align: justify;">
 
 ## Sauberes Westend
 
@@ -129,7 +103,7 @@ Nach der Fertigstellung des Quartierplatzes muss die Fertigstellung des Stadtpla
 * Nach Abriss der alten Sporthalle der Blücherschule soll der neu entstehende Platz der Erweiterung des Blücherspielplatzes dienen.
 * Im Zuge des Projektes „Bäche ans Licht“ soll der Sedanplatz seinen Platzcharakter mit Aufenthaltsmöglichkeit zurückerhalten: Mit der Offenlegung des Kesselbachs soll auf dem Sedanplatz eine generationsübergreifende Grün- und Spielfläche entstehen. Umweltfreundliche Baumaßnahmen sollen den Platz vor den Verkehrsströmen auf dem 1. Ring schützen.
 
-## Bezahlbaren Wohnraum im Westend erhalten
+## Bezahlbaren Wohnraum im Westend erhalten2
 
 Die meisten WestendbewohnerInnen müssen jeden Cent zweimal umdrehen und sind auf preisgünstigen Wohnraum angewiesen. Dabei ist das Angebot an erschwinglichen Mietwohnungen in Wiesbaden nicht ausreichend, um den Bedarf zu decken. Für uns steht daher die Förderung und Ausweitung des sozialen Wohnungsbaus im Mittelpunkt. Wir setzen uns für den großzügigen Ausbau und eine bessere personelle Ausstattung des kommunalen Wohnungsservice ein. Er muss in die Lage versetzt werden, Mietwohnungen im unteren und mittleren Preissegment zu vermitteln. Er hat ebenso die Aufgabe, neben den öffentlichen auch die privaten Wohnungseigentümer zu ermuntern, leer stehenden Wohnraum zu melden und bei der Suche nach Mietern keine privaten Maklerbüros einzuschalten. Die Praxis der Zwangsumzüge für Leistungsberechtigte nach dem Sozialgesetzbuch, deren Kosten der Unterkunft als „unangemessen“ gelten, muss beendet werden!
 
@@ -185,5 +159,3 @@ Die meisten Menschen im Westend sind auf gut funktionierende öffentliche Einric
 ## Sauberes Westend 2
 
 Ellenbogen- und Wegwerfmentalität, Egoismus und Gleichgültigkeit gegenüber Unrecht und dem Leiden anderer Menschen sind auch in unserem Stadtviertel spürbar. Die Verwahrlosung und Verrohung unserer Gesellschaft liegt maßgeblich auch im Konkurrenzkampf der kapitalistischen Klassengesellschaft begründet, der Solidarität untergräbt sowie Egoismus und ein „Nach mir die Sintflut“-Denken fördert. Wir im Westend spüren die Folgen hautnah – etwa im Straßenverkehr, beim rücksichtslosen Parken oder bei der wilden Müllablagerung. Wir rufen alle Menschen zu mehr Zivilcourage gegen asoziales Verhalten auf. Wir setzen uns für mehr öffentliche Papierkörbe und Mülleimer im Viertel und die Schaffung von mehr Stellen bei der Stadtreinigung (ELW) ein.
-
-</div>
