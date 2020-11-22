@@ -20,7 +20,7 @@ export default {
   mainMenu: [
     {
       name: 'Programm',
-      link: '/die-treibende-kraft-im-westend'
+      link: '/unser-programm'
     },
     {
       name: 'Themen',

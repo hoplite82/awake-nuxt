@@ -1,6 +1,6 @@
 import { getMixins } from './mixins'
 
-class Post {
+class Member {
   constructor(axios) {
     this.slug = 'member'
     this.slugPlural = 'members'
@@ -15,6 +15,6 @@ class Post {
 }
 
 // Mixins
-Object.assign(Post.prototype, getMixins)
+Object.assign(Member.prototype, getMixins)
 
-export default Post
+export default Member
