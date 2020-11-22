@@ -38,7 +38,9 @@ featureImage: /uploads/purge-css-hero.jpg
 - [x] static links in Markdown. nuxt failure?
 - [ ] Verknüpfen der Autoren im cms.
 
-- [ ] Feld bei Posts ob auf StartSeite anzuzeigen ist
+- [ ] Feld bei Posts ob auf StartSeite anzuzeigen ist. zb. Administratives ausblenden!
 
+- [ ] Font-Size bigger for big screen
+- [ ] meta tags Westend, Wiesbaden Westend, Linke Westend, ....
 - [ ] Kontakt
 - [ ] Footer
