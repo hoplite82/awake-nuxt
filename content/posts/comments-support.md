@@ -3,7 +3,7 @@ title: Wir ziehen Bilanz (2016-21)
 subtitle: "Fünf Jahre treibende Kraft "
 category:
   - Lokales
-author: Christoph Mürther
+author: Christoph Mürdter
 date: 2019-07-24T19:59:59.000Z
 featureImage: /uploads/westend_faz.jpg
 ---
