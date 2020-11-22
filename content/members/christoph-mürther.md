@@ -1,7 +1,7 @@
 ---
-name: Christoph Mürther
+name: Christoph Mürdter
 image: /uploads/murther.jpg
 isAuthor: true
-ShortDesc: aktives Mitglied der Linke im Westend, akitv bei der Funke
+ShortDesc: Aktivist im Westend
 ---
-aktives Mitglied der Linke im Westend, akitv bei der Funke
+Aktives Mitglied der Linke im Westend, aktiv bei der Funke

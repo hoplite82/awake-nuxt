@@ -1,7 +1,7 @@
 ---
 name: Hans-Gerd Öfinger
-image: /uploads/oefinger.jpg
+image: /uploads/bpt_hg.jpg
 isAuthor: true
-ShortDesc: Initiator der Seite, Verdi Mitarbeiter
+ShortDesc: "Wiesbaden "
 ---
-Master of Disaster.
+Gegen jede Privatisierung
