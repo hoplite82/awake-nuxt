@@ -25,15 +25,17 @@ export default {
  
   },
   computed: {
-    ...mapState([
-      'title',
-      'subtitle',
-      'featureImage',
-      'underSubtitle',
-      'author',
-      'category',
-      'slug',
-    ]),
+
+    // ...mapState([
+    //   'title',
+    //   'subtitle',
+    //   'featureImage',
+    //   'underSubtitle',
+    //   'author',
+    //   'category',
+    //   'slug',
+    // ]),
+
     date() {
       return getFormattedDate(this.$store.state.date)
     },
@@ -42,7 +44,7 @@ export default {
     },
   },
   fetch({ store, params }) {
-    setPageData(store, { resource: 'member', slug: params.single })
+    setPageData(store, { resource: 'termin', slug: params.single })
   },
 }
 </script>
