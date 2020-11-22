@@ -9,15 +9,20 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Die Linke',
-  tagline: 'Stadtteil Wiesbaden Westend',
+  siteName: 'DIE LINKE',
+  tagline: 'Stadtteilgruppe Wiesbaden-Westend',
   featureImage: '/uploads/banner_west.jpg',
-  logo: '/linke.png', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/linke.jpg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
+ 
+    {
+      name: 'Bilanz',
+      link: '/bilanz-rueck'// categorie
+    },
     {
       name: 'Programm',
       link: '/unser-programm'
@@ -30,10 +35,7 @@ export default {
       name: 'Termine',
       link: '/termine'
     },
-    {
-      name: 'Wer wir sind',
-      link: '/members'
-    },
+    
     {
       name: 'Kontakt',
       link: '/contact'

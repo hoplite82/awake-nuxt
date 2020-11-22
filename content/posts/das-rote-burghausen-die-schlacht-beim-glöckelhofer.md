@@ -7,9 +7,8 @@ author: Der Funke
 date: 2020-11-12T18:43:19.868Z
 featureImage: /uploads/burghausen.jpg
 ---
-**Das rote Burghausen: Die Schlacht beim Glöckelhofer**
 
-
+## Das rote Burghausen: Die Schlacht beim Glöckelhofer**
 
 **Geschichte ist geronnene Erfahrung. Wenn wir die Lehren aus den Niederlagen und Erfolgen der Vergangenheit nicht verstehen, werden wir in Zukunft auch nicht siegen können. Ein Blick nach Burghausen (Oberbayern) ist lehrreich.**
 

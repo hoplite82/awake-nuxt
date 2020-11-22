@@ -1,12 +1,16 @@
 ---
-title: "Unser Programm"
+title: "Unser Programm 2016-2021"
 subtitle: Die treibende Kraft im Westend
 category:
-  - Lokales
+  - Bilanz
 author: Hans-Gerd Öfinger
 date: 2020-11-12T16:42:52.492Z
 featureImage: /uploads/whgdemo.jpg
 ---
+ 
+
+
+
  
 ## LINKS wirkt
 

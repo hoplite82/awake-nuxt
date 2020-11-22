@@ -22,16 +22,19 @@ featureImage: /uploads/purge-css-hero.jpg
 - [x] Bugfix Categories Menue.
 - [x] Bugfix Hamburger Menue Banner.
 - [ ] Author Link to Posts
+
 - [x] Termine Section
   - [x] Add Ort
   - [ ] vcard export
   - [x] komplette Infos in Übersicht
+
 - [x] Member Section
   - [x] Bild load in Site only
   - [x] Formatieren
   - [x] related Posts
   - [ ] Kurzbeschreibung in Übersicht
   - [ ] Facebook Links
+
 - [x] Contact-Email an Oefinger@WEB.de. ()
 
 - [ ] wichtige Termine mit auf die StartSite
@@ -44,3 +47,7 @@ featureImage: /uploads/purge-css-hero.jpg
 - [ ] meta tags Westend, Wiesbaden Westend, Linke Westend, ....
 - [ ] Kontakt
 - [ ] Footer
+
+- [x] joben links logo. 
+- [ ] DIE LINKE gleich lang wie Untertitel
+- [ ] 
