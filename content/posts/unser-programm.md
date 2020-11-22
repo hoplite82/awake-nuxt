@@ -1,17 +1,9 @@
 ---
-<<<<<<< HEAD
 title: "Unser Programm 2016-2021"
 subtitle: Die treibende Kraft im Westend
 category:
   - Bilanz
 author: Hans-Gerd Öfinger
-=======
-title: Unser Programm
-subtitle: Die treibende Kraft im Westend
-category:
-  - Lokales
-author: DIE LINKE IM WESTEND
->>>>>>> 1ed1ca176fb47c0da67d8b3f4daa6a16a379aef4
 date: 2020-11-12T16:42:52.492Z
 featureImage: /uploads/whgdemo.jpg
 ---
