@@ -8,7 +8,7 @@
     />
     <div class="hero-body">
       <div class="container">
-        <h1 class="title animated fadeInUp">
+        <h1 class="title is-size-1 animated fadeInUp">
           {{ title }}
         </h1>
         <h2 class="subtitle animated fadeInUp slower">
@@ -66,7 +66,7 @@ export default {
 
 .under-subtitle {
   display: inline-block;
-  font-size: 0.8rem;
+  font-size: 1 rem;
   border-top: 2px solid $primary;
   padding-top: 5px;
 }
@@ -119,7 +119,7 @@ export default {
   }
   .hero-body {
     position: relative;
-    z-index: 2;
+    z-index: 1;
   }
 }
 .hero-theme-dark {

@@ -17,11 +17,12 @@ export default {
     content() {
       const md = new MarkdownIt({
         linkify: true,
-        typographer: true
+        typographer: true,
+        html: true
       })
        
       let html = md.render(this.markdown)
-
+      
       html = this.useResponsiveImages(html)
       html = this.wrapTable(html)
       html = html.replace(/<table>/g, '<table class="table is-striped">')
