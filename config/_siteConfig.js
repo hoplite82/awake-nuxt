@@ -19,21 +19,26 @@ export default {
   },
   mainMenu: [
  
-    {
-      name: 'Bilanz',
-      link: '/bilanz-rueck'// categorie
-    },
+    
     {
       name: 'Programm',
       link: '/unser-programm'
     },
     {
-      name: 'Themen',
-      link: '/categories'
+      name: 'Bilanz 2016-2021',
+      link: '/bilanz-rueck'// categorie
     },
+    
     {
       name: 'Termine',
       link: '/termine'
+    },{
+      name: 'Wer wir sind',
+      link: '/member'
+    },
+    {
+      name: 'Themen',
+      link: '/categories'
     },
     
     {
