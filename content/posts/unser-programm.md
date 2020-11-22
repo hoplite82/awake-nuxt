@@ -1,9 +1,9 @@
 ---
-title: "Unser Programm"
+title: Unser Programm
 subtitle: Die treibende Kraft im Westend
 category:
   - Lokales
-author: Hans-Gerd Öfinger
+author: DIE LINKE IM WESTEND
 date: 2020-11-12T16:42:52.492Z
 featureImage: /uploads/whgdemo.jpg
 ---
