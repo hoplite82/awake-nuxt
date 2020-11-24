@@ -1,5 +1,5 @@
 <template>
-  <div class="card quote-card">
+  <div class="card">
     
     <div class="card-content">
       <p class="content">
@@ -20,3 +20,19 @@
     </footer> -->
   </div>
 </template>
+<script>
+export default {
+  props: {
+    title: {
+      type: String,
+      default: ''
+    },
+    content: {type: String, default: "content"},
+    img: {type: String, default: "imgpath"}
+  },author: {
+      type: String,
+      default: ''
+    }
+}
+</script>
+

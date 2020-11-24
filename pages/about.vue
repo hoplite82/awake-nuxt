@@ -3,6 +3,7 @@
    
     <main-section theme="sidebar-right">
       <template v-slot:default>
+        <quote-card />
         <div class="content">
           <h3>Mitglieder</h3>
          <p></p>
@@ -61,8 +62,10 @@
   </div>
 </template>
 <script>
+import QuoteCard from '../components/cards/QuoteCard.vue'
 
 export default {
+  components: { QuoteCard },
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`

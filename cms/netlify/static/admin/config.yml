@@ -37,6 +37,9 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
+      - {label: "In Navigation", name: "innav", widget: "boolean", default: true }
+      - {label: "Position in Navigations Leiste", name: "pos", widget: "number" }
+      - {label: "KategorieTyp", name: "cattyp", widget: "select", options: ["Programm", "Bilanz", "Standard"]}
       - {label: "Description", name: "description", widget: "markdown"}
   - name: "members"
     label: "Mitglieder"

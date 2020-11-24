@@ -12,7 +12,8 @@ export default {
   components: { VRuntimeTemplate },
   props: {
     tag: { type: String, default: 'article' },
-    markdown: { type: String, required: true }
+    markdown: { type: String, required: true ,
+    tocards: {type: Boolean, default: false}}
   },
   computed: {
     content() {
@@ -25,8 +26,12 @@ export default {
       let html = md.render(this.markdown)
       
       html = this.useResponsiveImages(html)
-      html = this.wrapTable(html)
+      html = this.wrapTable(html) // hä doubled ??
+      
+      
       html = html.replace(/<table>/g, '<table class="table is-striped">')
+      
+      // html = html.replace(/<h2>/g, '<table class="table is-striped">')
 
       return `<div class="content has-text-justified">${html}</div>`
     }

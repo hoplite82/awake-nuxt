@@ -21,7 +21,13 @@
           <nuxt-link :to="link">
             <h3
               :class="
+<<<<<<< HEAD
                 `title is-size-4 has-text-weight-light
+=======
+                `title
+                is-4
+                has-text-weight-light
+>>>>>>> crap-branch
                 ${title ? '' : 'empty-content-placeholder'}`
               "
             >
