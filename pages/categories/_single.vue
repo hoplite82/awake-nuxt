@@ -12,7 +12,8 @@
     <main-section>
       <template v-slot:default>
         <!-- Posts in Category -->
-        <span class="is-size-4 has-text-weight-semibold is-family-monospace">{{$store.state.content}}</span>
+        <span class="is-size-4 has-text-weight-semibold is-family-monospace">
+          <markdown :markdown="$store.state.content" tag="Einleitung"></markdown></span>
         <posts-grid :category="[$store.state.name]" :per-row="2" />
       </template>
 
@@ -41,8 +42,10 @@
   </div>
 </template>
 <script>
+import Markdown from '../../components/Markdown.vue'
 import { setPageData } from '../../helper'
 export default {
+  components: { Markdown },
   data() {
     return {
       allCats: []

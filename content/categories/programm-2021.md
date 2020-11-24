@@ -1,7 +1,7 @@
 ---
-name: Programm
+name: Programm 2021
 image: /uploads/nopic.jpg
-innav: true
+innav: false
 pos: 1
 cattype: Programm
 description: "Das Programm für 2021-2026"
