@@ -10,7 +10,7 @@ featureImage: /uploads/disqus-hero.jpg
 
 ## Angaben gemäß § 5 TMG
 
- t1 | t2  
+| | |
 :--- | ---:
 | Name: | Hans-Gerd Öfinger
 | Adresse:  | Scharnhorststr. 24  

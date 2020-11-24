@@ -37,14 +37,14 @@ export default {
       name: 'Wer wir sind',
       link: '/members'
     },
-    // {
-    //   name: 'Themen',
-    //   link: '/categories'
-    // },
+     {
+       name: 'Themen',
+       link: '/categories'
+     },
     
     {
       name: 'Kontakt',
-      link: '/contact'
+      link: '/kontakt'
     }
     
     

@@ -1,7 +1,7 @@
 ---
 name: Grundsätzliches
 image: /uploads/nopic.jpg
-innav: true
+innav: false
 description: Linke Themen
 ---
 
