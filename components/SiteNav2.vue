@@ -24,26 +24,32 @@
       }"
     >
       <ul class="navbar-end">
+        
         <li
-          v-for="item in $siteConfig.mainMenu"
-          :key="item.link"
+          v-for="cat in $store.$cms.category"
+          :key="cat.slug"
           class="navbar-item"
           @click="active = false"
         >
-          <component
-            :is="item.link.startsWith('http') ? 'a' : 'nuxt-link'"
-            :href="item.link"
-            :to="item.link"
-            :target="item.target ? item.target : '_self'"
-          >
-            {{ item.name }}
-          </component>
-        </li>
-         <li class="navbar-item site-search-wrapper">
-          <site-search />
-        </li> <li>
+         <nuxt-link
+            :to="`/categories/${cat.slug}`"
+            
+            >{{ cat.name }} </nuxt-link>
           
-        </li>
+          <!-- <component
+            :is="nuxt-link"
+            
+            :to="item.name"
+            :target="item.target ? item.target : '_self'"
+          > </component>  -->
+        
+         
+       
+        <!-- </li><li>{{getAny}}</li> -->
+        <!-- <li class="navbar-item site-search-wrapper">
+          <site-search />
+        </li> -->
+        <li></li>
       </ul>
     </div>
   </nav>
@@ -52,13 +58,28 @@
 import SiteSearch from '~/components/SiteSearch'
 import HamburgerButton from '~/components/HamburgerButton'
 export default {
-  name: 'SiteNav',
+  name: 'SiteNav2',
   components: { SiteSearch, HamburgerButton },
   data() {
     return {
       active: false,
+      allCats: []
     }
   },
+  computed: {
+    // getCat() {
+    //  return this.$cms.category.getAll().then(r => console.log)
+    // },
+    // getAny() {
+    //  return "return was geht"
+    // },
+  
+  },
+    
+  // async created() {
+  //   this.allCats = await this.$cms.category.getAll()
+  // }
+  // //   
 }
 </script>
 <style lang="scss" scoped>
@@ -77,10 +98,9 @@ export default {
 
 .navbar-menu a {
   display: block;
-
 }
 .navbar-item {
   margin-left: 2rem;
-  font-weight: bold;  
+  font-weight: bold;
 }
 </style>

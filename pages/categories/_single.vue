@@ -4,12 +4,20 @@
       :title="$store.state.name"
       :subtitle="$store.state.content"
       :image="$store.state.image"
-    /> -->
-    <main-section theme="sidebar-right">
+    />  -->
+    <site-hero
+      :title="$store.state.name"
+      :image="$store.state.image"
+    /> 
+    <main-section>
       <template v-slot:default>
         <!-- Posts in Category -->
+        <span class="is-size-4 has-text-weight-semibold is-family-monospace">{{$store.state.content}}</span>
         <posts-grid :category="[$store.state.name]" :per-row="2" />
       </template>
+
+
+      <!--
       <template v-slot:sidebar>
         <h3 class="subtitle">
           All Categories
@@ -28,6 +36,7 @@
           </nuxt-link>
         </div>
       </template>
+      -->
     </main-section>
   </div>
 </template>
@@ -42,6 +51,9 @@ export default {
   fetch({ store, params }) {
     setPageData(store, { resource: 'category', slug: params.single })
   },
+  // async created() {
+  //   this.allCats = await this.$cms.category.getAll()
+  // }
   async created() {
     this.allCats = await this.$cms.category.getAll()
   }

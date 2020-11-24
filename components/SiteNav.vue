@@ -25,19 +25,23 @@
     >
       <ul class="navbar-start">
         <li
-          v-for="item in $siteConfig.mainMenu"
-          :key="item.link"
+          v-for="ni in $navitems"
+          :key="ni.name"
           class="navbar-item is-size-3"
           @click="active = false"
-        >
-          <component
+        > 
+        <nuxt-link
+            :to="ni.link"
+            
+            >{{ ni.name }} </nuxt-link>
+          <!-- <component
             :is="item.link.startsWith('http') ? 'a' : 'nuxt-link'"
             :href="item.link"
             :to="item.link"
             :target="item.target ? item.target : '_self'"
           >
             {{ item.name }}
-          </component>
+          </component> -->
         </li>
       </ul>
       <ul class="navbar-end">

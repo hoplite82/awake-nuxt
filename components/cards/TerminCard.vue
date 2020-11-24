@@ -4,7 +4,7 @@
       <h2 class="title">
         {{ title }}
       </h2>
-      <h4><pre class="is-size-4">Ort:  {{ ort }}</pre></h4>
+      <h4 class="is-size-4">Ort: <pre > {{ ort }}</pre></h4>
     </center>
     <div class="flex-container">
       <div class="item flex-item-left">

@@ -8,6 +8,7 @@ import theCMS from '../cms/netlify/cms'
 /**
  * General Site configurations
  */
+
 export default {
   siteName: 'DIE LINKE',
   tagline: 'Stadtteilgruppe Wiesbaden-Westend',
@@ -20,26 +21,26 @@ export default {
   mainMenu: [
  
     
-    {
-      name: 'Programm',
-      link: '/unser-programm'
-    },
-    {
-      name: 'Bilanz 2016-2021',
-      link: '/bilanz-rueck'// categorie
-    },
+    // {
+    //   name: 'Programm',
+    //   link: '/unser-programm'
+    // },
+    // {
+    //   name: 'Bilanz 2016-2021',
+    //   link: '/bilanz-rueck'// categorie
+    // },
     
     {
       name: 'Termine',
-      link: '/termine'
+      link: '/termine',
     },{
       name: 'Wer wir sind',
-      link: '/member'
+      link: '/members'
     },
-    {
-      name: 'Themen',
-      link: '/categories'
-    },
+    // {
+    //   name: 'Themen',
+    //   link: '/categories'
+    // },
     
     {
       name: 'Kontakt',
@@ -94,7 +95,7 @@ export default {
     on: true,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
-    theme: null // See card.theme (can be unique for categories if set here)
+    theme: 'boxes' // See card.theme (can be unique for categories if set here)
   },
 
   // Posts

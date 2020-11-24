@@ -22,7 +22,7 @@
             <h3
               :class="
                 `title
-                is-3
+                is-4
                 has-text-weight-light
                 ${title ? '' : 'empty-content-placeholder'}`
               "
