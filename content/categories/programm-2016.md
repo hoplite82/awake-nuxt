@@ -1,10 +1,11 @@
 ---
-name: Programm 2016
+name: Wahl 2021
 image: /uploads/nopic.jpg
 innav: true
-pos: 1
+pos: 2
 cattype: Programm
-description: "Das Programm für 2021-2026"
+cattyp: Programm
+description: Das Programm für 2021-2026
 ---
 
 [Komplettes Programm zum Download](/pdf/westend_programm.pdf)
