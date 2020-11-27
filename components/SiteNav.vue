@@ -5,7 +5,7 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand" >
-      <nuxt-link class="navbar-item is-size-3" to="/">
+      <nuxt-link class="navbar-item" to="/">
         
         <img
           :src="$siteConfig.logo"
@@ -70,7 +70,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .navbar-item img {
-  max-height: 2rem;
+  max-height: 4rem;
 }
 .site-search-wrapper {
   transform: translateX(5px);
@@ -90,4 +90,6 @@ export default {
   margin-left: 2rem;
   font-weight: bold;  
 }
+
+
 </style>

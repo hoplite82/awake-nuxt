@@ -52,3 +52,5 @@ featureImage: /uploads/purge-css-hero.jpg
 - [ ] DIE LINKE gleich lang wie Untertitel
 - [ ] Deutsche Begriffe Kontakt form
 
+- [ ] Kontaktiere ULI Schneider wegen seinem Impressum und Zusammenarbeit Zukunft.
+

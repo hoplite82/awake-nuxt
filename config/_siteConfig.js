@@ -13,7 +13,7 @@ export default {
   siteName: 'DIE LINKE',
   tagline: 'Stadtteilgruppe Wiesbaden-Westend',
   featureImage: '/uploads/banner_west.jpg',
-  logo: '/linke.jpg', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/linke_logo.jpg', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
     id: process.env.GOOGLE_ANALYTICS_ID

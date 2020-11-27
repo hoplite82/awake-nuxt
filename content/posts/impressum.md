@@ -1,11 +1,10 @@
 ---
 title: Impressum
-subtitle: 
 category:
   - Administratives
 author: Robert Pratersch
 date: 2020-07-24T19:59:59.000Z
-featureImage: /uploads/disqus-hero.jpg
+featureImage: /uploads/impressum_secred.jpg
 ---
 
 ## Angaben gemäß § 5 TMG

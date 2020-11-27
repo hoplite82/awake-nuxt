@@ -18,7 +18,7 @@
       </template>
 
 
-      <!--
+      
       <template v-slot:sidebar>
         <h3 class="subtitle">
           All Categories
@@ -37,7 +37,7 @@
           </nuxt-link>
         </div>
       </template>
-      -->
+    
     </main-section>
   </div>
 </template>
