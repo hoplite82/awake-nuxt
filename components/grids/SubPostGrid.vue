@@ -1,10 +1,12 @@
 <template>
+
   <resource-grid
     v-bind="$props"
     :resource="$cms.post"
     :theme="$siteConfig.posts.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
+      <h1>Iam a SubPost</h1>
       <sub-post-grid
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
@@ -19,7 +21,7 @@
 <script>
 import SubPostPost from '~/components/cards/SubPost'
 export default {
-  name: 'PostsGrid',
+  name: 'SubPostsGrid',
   components: { SubPostPost },
   props: {
     perRow: { type: Number, default: 3 },

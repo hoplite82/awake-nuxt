@@ -51,6 +51,4 @@ featureImage: /uploads/purge-css-hero.jpg
 - [x] joben links logo. 
 - [ ] DIE LINKE gleich lang wie Untertitel
 - [ ] Deutsche Begriffe Kontakt form
-
-- [ ] Kontaktiere ULI Schneider wegen seinem Impressum und Zusammenarbeit Zukunft.
-
+- [ ] Kontaktiere ULI Schneider wegen seinem Impressum und Zusammenarbeit in Zukunft.

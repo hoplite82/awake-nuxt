@@ -6,10 +6,12 @@
 import MarkdownIt from 'markdown-it'
 import taskList from 'markdown-it-task-lists'
 import VRuntimeTemplate from 'v-runtime-template'
+import quout from 'v-runtime-template'
+import QuoteCard from './cards/QuoteCard'
 
 export default {
   name: 'Markdown',
-  components: { VRuntimeTemplate },
+  components: { VRuntimeTemplate, QuoteCard },
   props: {
     tag: { type: String, default: 'article' },
     markdown: { type: String, required: true ,
@@ -25,12 +27,12 @@ export default {
       md.use(taskList, {label: false}); 
       let html = md.render(this.markdown)
       
-      html = this.useResponsiveImages(html)
+      // html = this.useResponsiveImages(html)
       html = this.wrapTable(html) // hä doubled ??
       
       
-      html = html.replace(/<table>/g, '<table class="table is-striped">')
-      
+      // html = html.replace(/<table>/g, '<table class="table is-striped">')
+      // html = html.replace(/<\/table>/g, `</table></div>`)
       // html = html.replace(/<h2>/g, '<table class="table is-striped">')
 
       return `<div class="content has-text-justified">${html}</div>`
@@ -71,7 +73,7 @@ export default {
       return html
     },
     wrapTable(html) {
-      html = html.replace(/<table/g, `<div class="table-wrapper"><table`)
+      html = html.replace(/<table>/g, `<div class="table-wrapper"> <table class="table is-striped" >`)
       html = html.replace(/<\/table>/g, `</table></div>`)
       return html
     }
