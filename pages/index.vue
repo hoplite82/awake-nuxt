@@ -7,7 +7,9 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <posts-grid />
+        
+        <posts-grid :category="['showstart']" :perRow="$siteConfig.posts.perRow"/>
+        <!-- <posts-grid exclude="administratives" /> -->
       </template>
       <template v-slot:sidebar>
         Nothing here

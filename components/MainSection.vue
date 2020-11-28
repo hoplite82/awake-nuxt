@@ -1,5 +1,5 @@
 <template>
-  <main class="section page-main-section">
+  <main class="section page-main-section is-size-4-desktop">
     <div class="container">
       <div class="columns">
         <aside
@@ -52,6 +52,7 @@ export default {
 </script>
 
 <style lang="scss">
+
 .page-main-section {
   margin-top: 52px;
 }

@@ -1,6 +1,6 @@
 ---
 name: Stadtteilgruppe
-image: /uploads/nopic.jpg
+image: /uploads/nopic.png
 isAuthor: true
 ShortDesc: "------"
 ---

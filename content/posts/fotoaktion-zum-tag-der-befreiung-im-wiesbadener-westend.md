@@ -3,7 +3,7 @@ title: Fotoaktion zum Tag der Befreiung im Wiesbadener Westend
 subtitle: Am 8. Mai 2020 in der Wellritzstraße
 category:
   - Lokales
-  - Theorie
+  - showstart
 author: Hans-Gerd Öfinger
 date: 2020-11-21T21:08:08.603Z
 featureImage: /uploads/8mai_o.jpg

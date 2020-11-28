@@ -21,7 +21,7 @@
           <nuxt-link :to="link">
             <h3
               :class="
-                `title is-size-4 has-text-weight-light
+                `has-text-weight-light
                 ${title ? '' : 'empty-content-placeholder'}`
               "
             >

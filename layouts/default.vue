@@ -4,7 +4,7 @@
       `site-layout-width-${$siteConfig.layout.width} posts-theme-${$siteConfig.posts.theme}`
     "
   >
-    <SiteNav />
+    <site-nav />
     <nuxt id="nuxtmain"/>
     <!--
     <news-letter-slide-out v-if="$siteConfig.newsletter.on" />
@@ -15,13 +15,7 @@
 
 <script>
 import 'animate.css/animate.min.css'
-
-
-import SiteNav from '../components/SiteNav.vue'
 export default {
-  components: {
-    SiteNav
-  },
   transition: 'slide-fade',
   head() {
     return {

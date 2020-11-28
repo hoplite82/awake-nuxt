@@ -8,7 +8,6 @@ import theCMS from '../cms/netlify/cms'
 /**
  * General Site configurations
  */
-
 export default {
   siteName: 'DIE LINKE',
   tagline: 'Stadtteilgruppe Wiesbaden-Westend',
@@ -19,29 +18,28 @@ export default {
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
- 
-    
-    // {
-    //   name: 'Programm',
-    //   link: '/unser-programm'
-    // },
-    // {
-    //   name: 'Bilanz 2016-2021',
-    //   link: '/bilanz-rueck'// categorie
-    // },
     
     {
-      name: 'Termine',
-      link: '/termine',
-    },{
-      name: 'Wer wir sind',
-      link: '/members'
+      name: 'Wahl 2021',
+      link: '/wahl-2021' // post
     },
-     {
-       name: 'Themen',
-       link: '/categories'
-     },
+    {
+      name: 'Bilanz 2016-21',
+      link: '/bilanz-2016-21'// post
+    },
+    {
+      name: 'Termine',
+      link: '/termine'
+    },
     
+    {
+      name: 'Themen',
+      link: '/categories'
+    },
+    //  {
+    //    name: 'Wer wir sind',
+    //    link: '/members'
+    //  },
     {
       name: 'Kontakt',
       link: '/kontakt'
@@ -61,7 +59,7 @@ export default {
 
   // Card Layout
   cards: {
-    imageDimensions: '3x2', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
+    imageDimensions: '5x4', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
     theme: 'boxes' // Options: boxes, grid, image-grid
   },
 
@@ -95,7 +93,7 @@ export default {
     on: true,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
-    theme: 'boxes' // See card.theme (can be unique for categories if set here)
+    theme: null // See card.theme (can be unique for categories if set here)
   },
 
   // Posts
@@ -107,8 +105,8 @@ export default {
     date: {
       display: true
     },
-    perRow: 3,
-    perPage: 6
+    perRow: 2,
+    perPage: 12
   },
   // Categories (not sure if realy loaded)
   members: {

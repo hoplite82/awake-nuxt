@@ -2,7 +2,7 @@
 title: Impressum
 category:
   - Administratives
-author: Robert Pratersch
+author: Hans-Gerd Öfinger
 date: 2020-07-24T19:59:59.000Z
 featureImage: /uploads/impressum_secred.jpg
 ---
@@ -41,6 +41,7 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 ### Content  
 
 [**Creative Commons BY | CC BY**]((https://creativecommons.org/licenses/?lang=de))
+
 ![CCBYPIC](/uploads/ccby.png)
 
 ### Quellcode

@@ -1,9 +1,11 @@
 ---
-title: Veranstaltung 1
-startdate: 2020-06-10T16:03:00.000Z
-enddate: 2020-06-10T20:03:00.000Z
-ort: Langgasse 38
+title: Mitgliederversammlung
+startdate: '2020-12-17T20:00'
+enddate: '2020-12-17T20:00'
+ort: Infoladen/Online
 isEvent: true
-image: /uploads/leerstand712_n.jpg
 ---
-Hier wird heftig demostriert.
+
+Mitgliederversammlung DIE LINKE IM WESTEND
+
+Themen: Aktuelles, Programm für das Westend, Wahlkampf vorbereiten. Ort: Infoladen. Mit Rücksicht auf Corona richten wir eine Videokonferenz ein. yea

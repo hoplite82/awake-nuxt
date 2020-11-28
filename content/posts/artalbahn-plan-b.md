@@ -2,7 +2,8 @@
 title: "Jetzt muss Plan B her: Aartalbahn zügig reaktivieren!"
 subtitle: Durchgangsverkehr reduzieren!
 category:
-  - Lokales
+    - Lokales
+    - showstart
 author: Hans-Gerd Öfinger
 date: 2020-11-21T21:02:18.149Z
 featureImage: /uploads/cbsc08418.jpg

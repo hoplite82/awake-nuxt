@@ -4,8 +4,7 @@
       <h3 class="title">{{ title }}</h3>
       <img v-if="image" :src="image" class="textwrap" />
       <div class="has-text-justified">
-        <slot
-          >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis
+        <slot>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis
           tempora, tenetur quo animi beatae obcaecati eligendi repellat omnis
           reprehenderit consectetur ipsum, distinctio non illo ex temporibus
           soluta accusamus ea vero! Lorem ipsum, dolor sit amet consectetur

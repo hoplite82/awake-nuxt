@@ -6,7 +6,7 @@
   >
     <div class="navbar-brand" >
       <nuxt-link class="navbar-item" to="/">
-        
+        <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           :src="$siteConfig.logo"
           :alt="$siteConfig.siteName"
@@ -25,23 +25,19 @@
     >
       <ul class="navbar-start">
         <li
-          v-for="ni in $navitems"
-          :key="ni.name"
+          v-for="item in $siteConfig.mainMenu"
+          :key="item.link"
           class="navbar-item is-size-3"
           @click="active = false"
-        > 
-        <nuxt-link
-            :to="ni.link"
-            
-            >{{ ni.name }} </nuxt-link>
-          <!-- <component
+        >
+          <component
             :is="item.link.startsWith('http') ? 'a' : 'nuxt-link'"
             :href="item.link"
             :to="item.link"
             :target="item.target ? item.target : '_self'"
           >
             {{ item.name }}
-          </component> -->
+          </component>
         </li>
       </ul>
       <ul class="navbar-end">
@@ -70,8 +66,12 @@ export default {
 </script>
 <style lang="scss" scoped>
 .navbar-item img {
-  max-height: 4rem;
+  max-width: auto;
+  max-height: 5rem;
+  
 }
+
+
 .site-search-wrapper {
   transform: translateX(5px);
   @media (max-width: 1023px) {
@@ -91,5 +91,11 @@ export default {
   font-weight: bold;  
 }
 
+@media (max-width: 769px) {
+  .navbar-item img {
+  max-width: 15rem;
+  max-height: auto;
+  }
+}
 
 </style>

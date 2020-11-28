@@ -1,5 +1,5 @@
 # CMS für linke-im-westend.de
-test
+
 ## Custom
 
 ## Todos

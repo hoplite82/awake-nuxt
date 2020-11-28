@@ -121,6 +121,7 @@ export default {
       }
     },
     resourceFilters(resource) {
+      // console.log(this.exclude +" Category: " +this.category)
       if (this.exclude && this.category.length) {
         if (Array.isArray(this.category)) {
           return (
@@ -134,6 +135,7 @@ export default {
           resource.slug !== this.exclude
         )
       }
+
       if (this.category.length) {
         if (Array.isArray(this.category)) {
           return resource.category.some((cat) => {
@@ -142,12 +144,14 @@ export default {
         }
         return resource.category.includes(this.category)
       }
+
       if (this.exclude) {
         return resource.slug !== this.exclude
       }
-      if(this.author) {
-        return resource.author.includes(this.author)
-      }
+      // if(this.author) {
+      //   return resource.author.includes(this.author)
+      // }
+      
       return resource
     }
   }

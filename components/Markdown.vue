@@ -14,8 +14,7 @@ export default {
   components: { VRuntimeTemplate, QuoteCard },
   props: {
     tag: { type: String, default: 'article' },
-    markdown: { type: String, required: true ,
-    tocards: {type: Boolean, default: false}}
+    markdown: { type: String, required: true }
   },
   computed: {
     content() {

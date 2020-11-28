@@ -4,7 +4,7 @@
       <h2 class="title">
         {{ title }}
       </h2>
-      <h4 class="is-size-4">Ort: <pre > {{ ort }}</pre></h4>
+      <h4><pre class="is-size-4">Ort:  {{ ort }}</pre></h4>
     </center>
     <div class="flex-container">
       <div class="item flex-item-left">
@@ -59,14 +59,14 @@ export default {
         ('0' + adate.getUTCMinutes()).slice(-2)
       )
     },
-    getFormattedDate(date) {
-      const adate = new Date(date)
+    getFormattedDate(pdate) {
+      const newdate = new Date(pdate)
       return (
-        ('0' + adate.getDay()).slice(-2) +
+        (newdate.getDate()) +
         '.' +
-        ('0' + adate.getMonth()).slice(-2) +
+        (newdate.getMonth()+1) +
         '.' +
-        adate.getFullYear()
+        newdate.getFullYear()
       )
     },
   },
