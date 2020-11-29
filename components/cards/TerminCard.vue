@@ -4,24 +4,31 @@
       <h2 class="title">
         {{ title }}
       </h2>
-      <h4><pre class="is-size-4">Ort:  {{ ort }}</pre></h4>
+      
     </center>
-    <div class="flex-container">
-      <div class="item flex-item-left">
-        <span class="is-size-4">
-              
-          <h4>
-            Datum: <pre>{{ startdatePretty }}</pre>
-            Beginn: <pre>{{ starttime }}</pre>
-          </h4>
+    <div>
+   
+    </div>
+    
 
-          <h4 v-if="startdatePretty == enddatePretty"></h4>
-          <h4 v-else>EndDatum: <pre>{{ enddatePretty }}</pre></h4>
-          <h4>Ende: <pre>{{ endtime }}</pre></h4>
+    <div class="flex-container">
+      <div class="item flex-item-break">  
+       <p>Ort:  <pre>{{ ort }} </pre></p>
+      </div>
+      <div class="item flex-item-left">
+        <span class="">
+              
+          
+          <p>  Datum: <pre>{{ startdatePretty }}</pre><p>
+          <p>  Beginn: <pre>{{ starttime }}</pre></p>
+
+          <p v-if="startdatePretty == enddatePretty"></p>
+          <p v-else>EndDatum: <pre>{{ enddatePretty }}</pre></p>
+          <p>Ende: <pre>{{ endtime }}</pre></p>
         </span>
       </div>
-      <div class="item flex-item-right is-size-4">
-        {{ content }}
+      <div class="item flex-item-right">
+       <p>{{ content }}</p> 
       </div>
     </div>
   </div>
@@ -31,8 +38,8 @@ export default {
   props: {
     title: { type: String, default: '' },
     link: { type: String, default: '' },
-    startdate: { type: Date, default: null },
-    enddate: { type: Date, default: null },
+    startdate: { type: String, default: null },
+    enddate: { type: String, default: null },
     ort: { type: String, default: 'keine Angabe' },
     content: { type: String, default: '' },
   },
@@ -54,17 +61,17 @@ export default {
     time(date) {
       const adate = new Date(date)
       return (
-        ('0' + adate.getUTCHours()).slice(-2) +
+        ('0' + adate.getHours()).slice(-2) +
         ':' +
-        ('0' + adate.getUTCMinutes()).slice(-2)
+        ('0' + adate.getMinutes()).slice(-2)
       )
     },
     getFormattedDate(pdate) {
       const newdate = new Date(pdate)
       return (
-        (newdate.getDate()) +
+        newdate.getDate() +
         '.' +
-        (newdate.getMonth()+1) +
+        (newdate.getMonth() + 1) +
         '.' +
         newdate.getFullYear()
       )
@@ -72,11 +79,7 @@ export default {
   },
 }
 </script>
-<style lang="scss">
-h4 {
-  color: $dark;
-}
-
+<style scoped>
 .item {
   background: #afacac;
   padding: 1rem;
@@ -87,22 +90,29 @@ h4 {
 
 .flex-container {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
 }
 
 .flex-item-left {
+  
   flex: 25%;
+
 }
 
 .flex-item-right {
-  flex: 75%;
+  flex:75%;
+}
+
+.flex-item-break {
+  flex: 100%;
 }
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
 @media (max-width: 800px) {
-  .flex-item-right,
-  .flex-item-left {
-    flex: 100%;
-  }
-}
+   .flex-item-right,
+   .flex-item-left {
+     flex: 100%;
+   }
+ }
 </style>
