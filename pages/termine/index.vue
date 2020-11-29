@@ -1,5 +1,5 @@
 <template>
-  <div id="categories-page" class="page-wrapper categories-page">
+  <div id="categories-page" class="page-wrapper">
     <!-- <site-hero title="Categories" image="https://picsum.photos/1800/1801" />     -->
     <main-section theme="one-column">
       <termine-grid />

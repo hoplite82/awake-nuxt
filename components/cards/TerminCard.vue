@@ -13,22 +13,17 @@
 
     <div class="flex-container">
       <div class="item flex-item-break">  
-       <p>Ort:  <pre>{{ ort }} </pre></p>
+       Ort:  <pre>{{ ort }} </pre>
       </div>
-      <div class="item flex-item-left">
-        <span class="">
-              
-          
-          <p>  Datum: <pre>{{ startdatePretty }}</pre><p>
-          <p>  Beginn: <pre>{{ starttime }}</pre></p>
-
-          <p v-if="startdatePretty == enddatePretty"></p>
-          <p v-else>EndDatum: <pre>{{ enddatePretty }}</pre></p>
-          <p>Ende: <pre>{{ endtime }}</pre></p>
-        </span>
+      <div class="item flex-item-left">                              
+            Datum: <pre>{{ startdatePretty }}</pre>
+            Beginn: <pre>{{ starttime }}</pre>
+          <div v-if="startdatePretty == enddatePretty"></div>
+          <div v-else>EndDatum: <pre>{{ enddatePretty }}</pre></div>
+          Ende: <pre>{{ endtime }}</pre>       
       </div>
       <div class="item flex-item-right">
-       <p>{{ content }}</p> 
+       {{ content }} 
       </div>
     </div>
   </div>
@@ -95,13 +90,11 @@ export default {
 }
 
 .flex-item-left {
-  
   flex: 25%;
-
 }
 
 .flex-item-right {
-  flex:75%;
+  flex: 75%;
 }
 
 .flex-item-break {
@@ -110,9 +103,9 @@ export default {
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
 @media (max-width: 800px) {
-   .flex-item-right,
-   .flex-item-left {
-     flex: 100%;
-   }
- }
+  .flex-item-right,
+  .flex-item-left {
+    flex: 100%;
+  }
+}
 </style>
