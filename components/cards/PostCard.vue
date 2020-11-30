@@ -62,7 +62,8 @@ export default {
       this.$cms.member.getAll().then((res) => {
         res.forEach((member) => {
           if (authorname == member.name)
-            $router.push('/members/' + member.slug)
+            this.$router.push('/members/' + member.slug)
+              
           //  this.members.push(member)
         })
       })

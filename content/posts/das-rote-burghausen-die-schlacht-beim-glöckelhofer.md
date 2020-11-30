@@ -5,7 +5,7 @@ show-startside: true
 category:
   - Grundsätzliches
   - showstart
-author: Der Funke
+author: Hans-Gerd Öfinger 
 date: 2020-11-12T18:43:19.868Z
 featureImage: /uploads/burghausen.jpg
 ---

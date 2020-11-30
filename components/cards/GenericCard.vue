@@ -18,10 +18,10 @@
     <div class="card-content">
       <div class="media">
         <div class="media-content">
-          <nuxt-link :to="link">
+         
             <h3
               :class="
-                `has-text-weight-light
+                `has-text-weight-semibold is-size-4
                 ${title ? '' : 'empty-content-placeholder'}`
               "
             >
@@ -36,7 +36,7 @@
             >
               <slot></slot>
             </h4>
-          </nuxt-link>
+          
         </div>
       </div>
     </div>
