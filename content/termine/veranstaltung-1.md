@@ -2,7 +2,7 @@
 title: Mitgliederversammlung
 startdate: 2020-12-17T19:00
 enddate: 2020-12-17T21:00
-ort: Infoladen/Online
+ort: Infoladen Blücherstraße 46 / Online
 isEvent: true
 ---
 **Mitgliederversammlung** \
