@@ -1,21 +1,23 @@
 <template>
-  <generic-card 
+  <generic-card
     :title="title"
     :image="image"
     :link="link"
     :image-dimensions="
       $siteConfig.posts.imageDimensions ||
-        $siteConfig.cards.imageDimensions ||
-        null
+      $siteConfig.cards.imageDimensions ||
+      null
     "
   >
     <span
       v-if="author && $siteConfig.posts.displayAuthor"
-      class="author-wrapper is-size-4"
+      class="author-wrapper is-size-5"
     >
       <strong>Autor:</strong>
-      <nuxt-link :to="'/members/'+author">{{author}} </nuxt-link>
-    </span><br />
+
+      <a @click="goToAuthorSide(author)">{{ author }}</a>
+    </span>
+    <br />
     <span v-if="date" class="date-wrapper is-size-5">
       <strong>Veröffentlicht am: </strong> {{ datePretty }}
     </span>
@@ -30,30 +32,41 @@ export default {
   props: {
     title: {
       type: String,
-      default: ''
+      default: '',
     },
     image: {
       type: String,
-      default: ''
+      default: '',
     },
     link: {
       type: String,
-      default: ''
+      default: '',
     },
     date: {
       type: String,
-      default: ''
+      default: '',
     },
     author: {
       type: String,
-      default: ''
-    }
+      default: '',
+    },
   },
   computed: {
     datePretty() {
       return getFormattedDate(this.date)
-    }
-    
-  }
+    },
+  },
+  methods: {
+    goToAuthorSide(authorname) {
+      let link = 'test'
+      this.$cms.member.getAll().then((res) => {
+        res.forEach((member) => {
+          if (authorname == member.name)
+            $router.push('/members/' + member.slug)
+          //  this.members.push(member)
+        })
+      })
+    },
+  },
 }
 </script>

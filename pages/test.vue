@@ -8,8 +8,8 @@
      
       <ul>
         <li v-for="member in members" :key="member.slug">
-          Name: {{ member.name }}, link: {{ "/members/"+member.slug }}
-          <nuxt-link :to="'/members/'+member.slug">link</nuxt-link>
+          Name: {{ member.name }}, link: {{ "/members/"+member.slug }} |  |
+          <a @click="getLink(member.name)">{{ member.name }}</a>
         </li>
       </ul>
     </main-section>
@@ -22,13 +22,13 @@ import MainSection from '../components/MainSection.vue'
 export default {
   components: { QuoteCard, MainSection },
   data() {
-    return { members: [] }
+    return { members: [],authorname: "Robert Pratersch" }
   },
   computed: {
     url() {
       return `${process.env.URL}/${this.$route.fullPath}`
     },
-    fcms() {
+    link() {
       return this.setData()
     },
   },
@@ -41,6 +41,15 @@ export default {
           this.members.push(member)
         })
       })
+    }, getLink(authorname){
+      let link = 'test'
+       this.$cms.member.getAll().then((res) => {
+        res.forEach((member) => {
+          if(authorname==member.name) this.$router.push("/members/"+member.slug)  
+        //  this.members.push(member)
+        })
+      })
+    
     }
     
   },mounted(){this.setData()}
