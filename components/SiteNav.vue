@@ -27,7 +27,7 @@
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
-          class="navbar-item is-size-4-widescreen is-size-5-desktop"
+          class="navbar-item is-size-3-fullhd is-size-4-widescreen is-size-5-desktop"
           @click="active = false"
         >
           <component
@@ -41,7 +41,7 @@
         </li>
       </ul>
       <ul class="navbar-end">
-         <li class="navbar-item site-search-wrapper is-size-4-widescreen is-size-5-desktop">
+         <li class="navbar-item site-search-wrapper is-size-3-fullhd is-size-4-widescreen is-size-5-desktop">
           <site-search />
         </li>
          <li class="navbar-item site-search-wrapper">
