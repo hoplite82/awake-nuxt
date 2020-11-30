@@ -27,7 +27,7 @@
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
-          class="navbar-item is-size-3"
+          class="navbar-item is-size-4-widescreen is-size-5-desktop"
           @click="active = false"
         >
           <component
@@ -41,10 +41,10 @@
         </li>
       </ul>
       <ul class="navbar-end">
-         <li class="navbar-item site-search-wrapper is-size-3">
+         <li class="navbar-item site-search-wrapper is-size-4-widescreen is-size-5-desktop">
           <site-search />
         </li>
-         <li class="navbar-item site-search-wrapper is-size-3">
+         <li class="navbar-item site-search-wrapper">
          
         </li>
       </ul>
@@ -67,19 +67,22 @@ export default {
 <style lang="scss" scoped>
 .navbar-item img {
   max-width: auto;
-  max-height: 5rem;
+  max-height: 4rem;
   
 }
 
 
 .site-search-wrapper {
   transform: translateX(5px);
-  @media (max-width: 1023px) {
+  @media (max-width: 769px) {
     display: none;
   }
 }
 .navbar-burger {
   height: auto;
+  margin-right: 2rem;
+  min-width: 4rem;
+  
 }
 
 .navbar-menu a {
@@ -87,15 +90,30 @@ export default {
 
 }
 .navbar-item {
-  margin-left: 2rem;
+ 
   font-weight: bold;  
+}
+
+@media (max-width: 1215px) {
+  .navbar-item img {
+  max-width: auto;
+  max-height: 3rem;
+  }
+  .navbar-item {
+  margin-left:0rem;  
+  font-weight: bold;  
+}
+ 
 }
 
 @media (max-width: 769px) {
   .navbar-item img {
-  max-width: 15rem;
-  max-height: auto;
+  max-width: auto;
+  max-height: 2rem;
   }
+  // .navbar-item {
+  //   font-size: smaller;
+  // }
 }
 
 </style>
