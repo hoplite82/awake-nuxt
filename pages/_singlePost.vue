@@ -7,7 +7,7 @@
         class="author-wrapper"
       >
       
-        <strong>Author:</strong> {{ author }}
+        <strong>Autor:</strong> {{ author }}
       </span>
       <span v-if="date" class="date-wrapper">
         <strong>Veröffentlicht am:</strong> {{ date }}

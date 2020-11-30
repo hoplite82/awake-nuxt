@@ -1,5 +1,5 @@
 <template>
-  <div id="contact-page" class="page-wrapper contact-page content-page">
+  <div id="kontakt-page" class="page-wrapper kontakt-page">
     <site-hero
       title="Kontakt"
       subtitle="Hier können Sie uns eine Nachricht hinterlassen"
@@ -10,7 +10,7 @@
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p>Hinterlassen sie uns eine Nachricht.</p>
+              <p>Hinterlassen Sie uns eine Nachricht.</p>
             </article>
           </div>
           <div class="tile is-parent is-8">
@@ -101,7 +101,7 @@
 export default {
   head() {
     return {
-      title: `Contact | ${this.$siteConfig.siteName}`,
+      title: `Kontakt | ${this.$siteConfig.siteName}`,
     }
   },
 }

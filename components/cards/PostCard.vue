@@ -11,11 +11,12 @@
   >
     <span
       v-if="author && $siteConfig.posts.displayAuthor"
-      class="author-wrapper "
+      class="author-wrapper is-size-4"
     >
-      <strong>Autor:</strong> {{ author }} |
+      <strong>Autor:</strong>
+      <nuxt-link :to="'/members/'+author">{{author}} </nuxt-link>
     </span><br />
-    <span v-if="date" class="date-wrapper">
+    <span v-if="date" class="date-wrapper is-size-5">
       <strong>Veröffentlicht am: </strong> {{ datePretty }}
     </span>
   </generic-card>
@@ -52,6 +53,7 @@ export default {
     datePretty() {
       return getFormattedDate(this.date)
     }
+    
   }
 }
 </script>

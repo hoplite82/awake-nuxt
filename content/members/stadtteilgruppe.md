@@ -1,7 +1,7 @@
 ---
 name: Stadtteilgruppe
-image: /uploads/nopic.png
+image: /uploads/nopic.jpg
 isAuthor: true
 ShortDesc: "------"
 ---
-# Robert Pratersch Überschrift
+# Die Linke Ortsbezirksgruppe Westend

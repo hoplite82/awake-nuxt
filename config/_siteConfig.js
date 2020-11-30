@@ -26,16 +26,16 @@ export default {
     {
       name: 'Bilanz 2016-21',
       link: '/bilanz-2016-21'// post
+    },{
+      name: 'Themen',
+      link: '/categories'
     },
     {
       name: 'Termine',
       link: '/termine'
     },
     
-    {
-      name: 'Themen',
-      link: '/categories'
-    },
+    
     //  {
     //    name: 'Wer wir sind',
     //    link: '/members'

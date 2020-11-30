@@ -2,7 +2,7 @@
   <div id="categories-page" class="page-wrapper categories-page">
     <!-- <site-hero title="Categories" image="https://picsum.photos/1800/1801" />     -->
     <main-section theme="one-column">
-      <categories-grid />
+      <categories-grid exclude="showstart"/>
     </main-section>
   </div>
 </template>
@@ -10,7 +10,7 @@
 export default {
   head() {
     return {
-      title: `Categories | ${this.$siteConfig.siteName}`,
+      title: `Themen | ${this.$siteConfig.siteName}`,
     }
   },
 }

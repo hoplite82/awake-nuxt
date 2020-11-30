@@ -1,6 +1,6 @@
 <template>
   <generic-card :title="title" :image="image" :link="link">
-    {{ description }}
+   <span class="is-size-5"> {{ description }}</span>
   </generic-card>
 </template>
 
