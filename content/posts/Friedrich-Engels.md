@@ -1,13 +1,13 @@
 ---
 title: Friedrich Engels und die Revolution
 subtitle: 200. Geburtstag am 28.11.2020
-show-startside: true 
-category: 
-    - Grundsätzliches
-    - showstart
+show-startside: true
+category:
+  - Grundsätzliches
+  - showstart
 author: Hans-Gerd Öfinger
-date: 2019-08-02T04:27:56.800Z
-featureImage: /uploads/kiel135.jpg
+date: 2020-11-30T14:13:21.030Z
+featureImage: /uploads/friedrich_engels-big1.jpg
 ---
 Die enge Zusammenarbeit zwischen Marx und Engels dauerte etwa 40 Jahre. Sowohl im Leben als auch im Tod stand Engels jedoch immer im Schatten des unbestreitbaren Genies Marx. Engels wird oft – etwas zu Unrecht – als zweite Geige nach Marx angesehen. Selbst Engels nährte diese Ansicht häufig.\
 \
