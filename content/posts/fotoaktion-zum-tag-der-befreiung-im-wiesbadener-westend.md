@@ -1,16 +1,14 @@
 ---
-title: Fotoaktion zum Tag der Befreiung im Wiesbadener Westend
+title: Fotoaktion zum Tag der Befreiung im Westend
 subtitle: Am 8. Mai 2020 in der Wellritzstraße
 category:
   - Lokales
   - showstart
 author: Hans-Gerd Öfinger
-date: 2020-11-21T21:08:08.603Z
+date: 2020-05-08T20:08:08.603Z
 featureImage: /uploads/8mai_o.jpg
 ---
-Fotoaktion zum Tag der Befreiung im Wiesbadener Westend
-
-Mit einer Fotoaktion in der Wellritzstraße unter dem Motto „Nie wieder Krieg, Faschismus, Kapitalismus! – 8. Mai Feiertag!“ erinnerte die Stadtteilgruppe DIE LINKE IM WESTEND am Freitag daran, dass mit der Erstürmung und Besetzung des damaligen Wiesbadener Gewerkschaftshauses im Gebäude Wellritzstraße 49 am 2. Mai 1933 durch die Nazis die systematische Zerschlagung der Arbeiterbewegung im Interesse des Kapitals vorangetrieben wurde. Der Gewerkschaftssekretär Konrad Arndt, an den eine Gedenktafel erinnert, war schon am 24. März 1933 bei einem durch drei SA-Leute in Zivil verübten Messerattentat lebensgefährlich verletzt worden. Er war mehrfach in KZ-Haft und starb 1940 unter ungeklärten Umständen.
+Mit einer Fotoaktion in der Wellritzstraße unter dem Motto „Nie wieder Krieg, Faschismus, Kapitalismus! – 8. Mai Feiertag!“ erinnerte die Stadtteilgruppe DIE LINKE IM WESTEND am 8. Mai 2020 daran, dass mit der Erstürmung und Besetzung des damaligen Wiesbadener Gewerkschaftshauses im Gebäude Wellritzstraße 49 am 2. Mai 1933 durch die Nazis die systematische Zerschlagung der Arbeiterbewegung im Interesse des Kapitals vorangetrieben wurde. Der Gewerkschaftssekretär Konrad Arndt, an den eine Gedenktafel erinnert, war schon am 24. März 1933 bei einem durch drei SA-Leute in Zivil verübten Messerattentat lebensgefährlich verletzt worden. Er war mehrfach in KZ-Haft und starb 1940 unter ungeklärten Umständen.
 
 Mit der Zerschlagung der Arbeiterbewegung war der Weg zum Krieg und Massenmord geebnet. Erst 12 Jahre später kam es zur endgültigen Befreiung vom Faschismus am 8. Mai 1945.
 

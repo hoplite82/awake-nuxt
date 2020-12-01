@@ -1,11 +1,10 @@
 ---
-title: Aartalbahn zügig reaktivieren!
-subtitle: Nach dem aus der CityBahn muss jetzt Plan B her um den
-  Durchgangsverkehr zu reduzieren!
+title: Aartalbahn reaktivieren! Weniger Durchgangsverkehr!
+subtitle: Nach dem aus für die CityBahn muss jetzt Plan B her!
 category:
   - Lokales
   - showstart
-author: Hans-Gerd Öfinger
+author: DIE LINKE IM WESTEND
 date: 2020-11-21T21:02:18.149Z
 featureImage: /uploads/cbsc08418.jpg
 ---
