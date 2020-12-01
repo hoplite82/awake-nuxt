@@ -24,8 +24,8 @@ export default {
       link: '/wahl-2021' // post
     },
     {
-      name: 'Bilanz 2016-21',
-      link: '/bilanz-2016-21'// post
+      name: 'Wer wir sind',
+      link: '/members'// post
     },{
       name: 'Themen',
       link: '/categories'
