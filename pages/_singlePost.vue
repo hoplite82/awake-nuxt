@@ -23,7 +23,7 @@
               Weitere Artikel zum Thema
             </h6>
             <!-- Related Posts -->
-            <posts-grid :number="3" :category="category" :exclude="slug" />
+            <posts-grid :number="6" :category="removedStartCategories" :exclude="slug" />
           </div>
           <disqus-comments :identifier="$route.params.singlePost" />
         </div>
@@ -46,6 +46,10 @@ export default {
     PostSidebar
   },
   computed: {
+    removedStartCategories () {
+      return this.category.filter(v => v !=="showstart")
+    },
+
     ...mapState([
       'title',
       'subtitle',
