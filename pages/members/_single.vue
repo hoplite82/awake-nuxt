@@ -23,7 +23,7 @@
           {{ isAuthor ? 'Der Autor verfasste folgende Posts' : '' }} </span
         ><br />
         <!-- Related Posts -->
-        <posts-grid :number="3" :author="name" />
+        <posts-grid :category="[]" :author="name" exclude="" />
       
       </div>
       </center>

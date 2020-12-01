@@ -121,7 +121,7 @@ export default {
       }
     },
     resourceFilters(resource) {
-      // console.log(this.exclude +" Category: " +this.category)
+      console.log("Author:"+this.author +"Ex"+ this.exclude +" Category: " +this.category)
       if (this.exclude && this.category.length) {
         if (Array.isArray(this.category)) {
           return (
@@ -148,9 +148,11 @@ export default {
       if (this.exclude) {
         return resource.slug !== this.exclude
       }
-      // if(this.author) {
-      //   return resource.author.includes(this.author)
-      // }
+      if(this.author) {
+        console.log("Resource Autor:"+resource)
+        return resource.author.includes(this.author)
+
+      }
       
       return resource
     }
