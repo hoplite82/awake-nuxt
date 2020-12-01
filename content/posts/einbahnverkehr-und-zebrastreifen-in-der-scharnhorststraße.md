@@ -1,5 +1,5 @@
 ---
-title: Einbahnverkehr und Zebrastreifen in der Scharnhorststraße
+title: Einbahnverkehr und Zebrastreifen müssen her!
 subtitle: Es geht um die Sicherheit unserer Kinder
 category:
   - Lokales
