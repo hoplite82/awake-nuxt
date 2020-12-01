@@ -1,8 +1,11 @@
 ---
 name: Hans-Gerd Öfinger
 image: /uploads/bpt_hg.jpg
-isAuthor: true
-ShortDesc: "2. Kandidat Ortsbeirat, Journalist"
+group: 
+    - Autor
+    - OBM
+    - LOBM 
+ShortDesc: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
 ---
 
 Für Arbeitnehmerrechte – gegen Privatisierung, Servicewüste und Kniefall vor

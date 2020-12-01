@@ -1,7 +1,9 @@
 ---
 name: Christoph Mürdter
 image: /uploads/murther.jpg
-isAuthor: true
+group:
+    - OBM
+    - LOBM 
 ShortDesc: Aktivist im Westend
 ---
 

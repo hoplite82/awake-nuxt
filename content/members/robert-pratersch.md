@@ -1,7 +1,9 @@
 ---
 name: Robert Pratersch
 image: /uploads/member/robert_comic.png
-isAuthor: true
+group:
+    - Unterstützer
+
 ShortDesc: "Webmaster"
 ---
 # Robert Pratersch Überschrift

@@ -1,7 +1,8 @@
 ---
 name: Stadtteilgruppe
 image: /uploads/nopic.jpg
-isAuthor: true
+group:
+    - LOBM 
 ShortDesc: "------"
 ---
 # Die Linke Ortsbezirksgruppe Westend

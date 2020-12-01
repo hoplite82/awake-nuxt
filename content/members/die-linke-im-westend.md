@@ -1,7 +1,10 @@
 ---
 name: DIE LINKE IM WESTEND
 image: /uploads/derfunke.jpg
-isAuthor: true
+group: 
+    - Autor
+    - Unterstützer
 ShortDesc: Stadtteilgruppe
 ---
+
 ----

@@ -38,6 +38,7 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
+
   - name: "members"
     label: "Mitglieder"
     folder: "content/members"
@@ -47,9 +48,10 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "IstAuthor", name: "isAuthor", widget: "boolean", default: false}
+      - {label: "Gruppe", name: "group", widget: "select", options: ["OBM","Autor","LOBM","Unterstützer"] , multiple: true}
       - {label: "ShortDesc", name: "ShortDesc", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
 
   - name: "termine"
     label: "Termine und Veranstaltungen"

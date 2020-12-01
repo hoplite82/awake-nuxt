@@ -20,8 +20,8 @@
       
       <div class="other-posts">
         <span class="subtitle is-size-4">
-          {{ isAuthor ? 'Der Autor verfasste folgende Posts' : '' }} </span
-        ><br />
+          {{ group =="Autor" ? 'Der Autor verfasste folgende Posts' : '' }} </span
+          ><br />
         <!-- Related Posts -->
         <posts-grid :category="[]" :author="name" exclude="" />
       
@@ -44,7 +44,7 @@ export default {
     PostSidebar,
   },
   computed: {
-    ...mapState(['name', 'image', 'isAuthor', 'ShortDesc', 'content', 'slug']),
+    ...mapState(['name', 'image', 'group', 'ShortDesc', 'content', 'slug']),
     date() {
       return getFormattedDate(this.$store.state.date)
     },
