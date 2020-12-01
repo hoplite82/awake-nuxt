@@ -18,7 +18,7 @@
     <div class="card-content">
       <div class="media">
         <div class="media-content">
-         
+            
             <h3
               :class="
                 `has-text-weight-semibold is-size-4

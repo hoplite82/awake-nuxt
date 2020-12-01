@@ -10,6 +10,7 @@
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
         :author="item.author"
+        :categories="item.category"
         :date="item.date"
       />
     </template>
