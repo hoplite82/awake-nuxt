@@ -23,12 +23,15 @@
           Ende: <pre>{{ endtime }}</pre>       
       </div>
       <div class="item flex-item-right">
-       {{ content }} 
+        <markdown :markdown="content" />
+       
       </div>
     </div>
   </div>
 </template>
 <script>
+
+import Markdown from '../Markdown'
 export default {
   props: {
     title: { type: String, default: '' },
@@ -37,6 +40,8 @@ export default {
     enddate: { type: String, default: null },
     ort: { type: String, default: 'keine Angabe' },
     content: { type: String, default: '' },
+  },components: {
+    Markdown
   },
   computed: {
     startdatePretty() {
