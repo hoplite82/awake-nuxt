@@ -20,8 +20,8 @@ export default {
   mainMenu: [
     
     {
-      name: 'Wahl 2021',
-      link: '/wahl-2021' // post
+      name: 'Programm',
+      link: '/programm-2021' // post
     },
     {
       name: 'Wer wir sind',
