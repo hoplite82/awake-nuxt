@@ -4,7 +4,7 @@ image: /uploads/bpt_hg.jpg
 isAuthor: false
 group:
     - OBM
-    - LOBM 
+    - Die Linke im Westend 
 ShortDesc: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
 ---
 

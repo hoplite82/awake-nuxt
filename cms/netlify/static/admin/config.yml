@@ -15,18 +15,17 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Titel", name: "title", widget: "string" ,required: true}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {
-        label: "Category", name: "category", widget: "relation", 
+        label: "Gehört zu Thema", name: "category", widget: "relation", 
         collection: "categories", searchFields: ["name"], valueField: "name", multiple: true
-        
-        }
-      - {label: "Author", name: "author", widget: "relation", 
+        }  
+      - {label: "Autor", name: "author", widget: "relation", 
         collection: "members", searchFields: ["name"], valueField: "name"
       }
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "featureImage", widget: "image"}
+      - {label: "Veröffentlicht am", name: "date", widget: "datetime"}
+      - {label: "Bild", name: "featureImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       
   - name: "categories"
@@ -37,8 +36,8 @@ collections:
     identifier_field: name
     fields:
       - {label: "Name", name: "name", widget: "string" ,required: true}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Beschreibung", name: "description", widget: "markdown"}
 
   - name: "members"
     label: "Mitglieder"

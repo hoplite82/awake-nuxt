@@ -3,7 +3,7 @@ name: Bernd Schmid2
 image: /uploads/berndschmidt.png
 isAuthor: false
 group:
-    - LOBM 
+    - Die Linke im Westend 
 ShortDesc: 1. Kandidat Ortsbeirat, Journalist
 ---
 

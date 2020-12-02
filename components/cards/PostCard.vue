@@ -23,9 +23,13 @@
     </span>
     <br />
     <strong class="is-size-5">Thema: </strong>
-    <span class="is-size-5" v-for="(cat,index) in removedStartCategories" :key="index">
+    <span
+      class="is-size-5"
+      v-for="(cat, index) in removedStartCategories"
+      :key="index"
+    >
       <span v-if="index !== 0"> | </span>
-        <a @click="goToCathegorieSide(cat)">{{ cat }}</a>
+      <a @click="goToCathegorieSide(cat)">{{ cat }}</a>
     </span>
   </generic-card>
 </template>
@@ -70,6 +74,9 @@ export default {
     datePretty() {
       return getFormattedDate(this.date)
     },
+    authorPretty() {
+
+    },
   },
   methods: {
     goToAuthorSide(authorname) {
@@ -81,6 +88,15 @@ export default {
           //  this.members.push(member)
         })
       })
+      this.$cms.Group.getAll().then((res) => {
+        res.forEach((group) => {
+          if (authorname == group.name)
+            this.$router.push('/groups/' + group.slug)
+
+          //  this.members.push(member)
+        })
+      })
+
     },
     goToCathegorieSide(category) {
       this.$cms.category.getAll().then((res) => {

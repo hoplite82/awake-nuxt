@@ -5,7 +5,7 @@ category:
   - Lokales
   - Bilanz und Berichte
   - showstart
-author: Stadtteilgruppe
+author: Hans-Gerd Öfinger
 date: 2020-12-01T15:26:18.584Z
 featureImage: /uploads/schulweg-16.19.54-1-.jpeg
 ---

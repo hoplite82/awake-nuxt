@@ -4,7 +4,7 @@ image: /uploads/murther.jpg
 isAuthor: false
 group:
     - OBM
-    - LOBM 
+    - Die Linke im Westend 
 ShortDesc: Aktivist im Westend
 ---
 

@@ -5,7 +5,7 @@ category:
   - showstart
   - Lokales
   - Bilanz und Berichte
-author: Stadtteilgruppe
+author: Hans-Gerd Öfinger
 date: 2020-11-30T17:53:54.881Z
 featureImage: /uploads/b23-4_o.jpg
 ---

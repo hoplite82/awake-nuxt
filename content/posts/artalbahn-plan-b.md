@@ -4,7 +4,7 @@ subtitle: Nach dem aus für die CityBahn muss jetzt Plan B her!
 category:
   - Lokales
   - showstart
-author: DIE LINKE IM WESTEND
+author: Die Linke im Westend
 date: 2020-11-21T21:02:18.149Z
 featureImage: /uploads/cbsc08418.jpg
 ---

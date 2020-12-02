@@ -4,7 +4,7 @@ image: /uploads/berndschmidt.png
 isAuthor: false
 group:
     - OBM
-    - LOBM 
+    - Die Linke im Westend 
 ShortDesc: 1. Kandidat Ortsbeirat, Journalist
 ---
 
