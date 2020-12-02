@@ -87,7 +87,7 @@ export default {
       formAction: ''
     }
   },
-  // Categories
+  // groups
   groups: {
     on: true,
     perPage: 6,
@@ -111,7 +111,7 @@ export default {
     date: {
       display: true
     },
-    perRow: 2,
+    perRow: 3,
     perPage: 12
   },
   // Categories (not sure if realy loaded)

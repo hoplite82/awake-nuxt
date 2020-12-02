@@ -6,7 +6,7 @@ const generateMemberApi = () => {
   const apiDir = `${rootDir}/static/api`
   const allFile = `${apiDir}/members.json`
   const metaFile = `${apiDir}/members-meta.json`
-  const pages = 3
+  const pages = siteConfig.members.perPage
   const doneMessage = `{totalNumber} members generated in members API`
 
   createAll(contentDir, allFile, apiDir)

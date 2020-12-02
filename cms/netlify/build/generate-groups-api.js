@@ -6,7 +6,7 @@ const generateGroupsApi = () => {
   const apiDir = `${rootDir}/static/api`
   const allFile = `${apiDir}/groups.json`
   const metaFile = `${apiDir}/groups-meta.json`
-  const pages = 3
+  const pages = siteConfig.groups.perPage
   const doneMessage = `{totalNumber} Groups generated in groups API`
 
   createAll(contentDir, allFile, apiDir)
