@@ -2,6 +2,7 @@ import Post from './post'
 import Category from './category'
 import Member from './member'
 import Termin from './termine'
+import Group from './group'
 
 import LifeCycleHooks from './hooks/lifeCycle'
 class CMS {
@@ -12,6 +13,7 @@ class CMS {
     this.category = new Category(axios)
     this.member = new Member(axios)
     this.termin = new Termin(axios)
+    this.Group = new Group(axios)
     this.lifeCycleHooks = LifeCycleHooks
   }
 }

@@ -1,13 +1,13 @@
 <template>
   <resource-grid
     v-bind="$props"
-    :resource="$cms.member"
+    :resource="$cms.Group"
     :theme="$siteConfig.categories.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
       <category-card
         :title="item.name"
-        :link="item.slug ? `/members/${item.slug}` : ''"
+        :link="item.slug ? `/groups/${item.slug}` : ''"
         :image="item.image"
         
       />
@@ -18,7 +18,7 @@
 <script>
 import CategoryCard from '~/components/cards/CategoryCard'
 export default {
-  name: 'MemberGrid',
+  name: 'GroupsGrid',
   components: { CategoryCard },
   props: {
     perRow: { type: Number, default: 3 },

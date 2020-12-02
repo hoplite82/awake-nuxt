@@ -1,8 +1,8 @@
 ---
 name: Hans-Gerd Öfinger
 image: /uploads/bpt_hg.jpg
-group: 
-    - Autor
+isAuthor: false
+group:
     - OBM
     - LOBM 
 ShortDesc: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"

@@ -13,7 +13,9 @@ import SiteNav from '../components/SiteNav'
 import ResourceGrid from '~/components/grids/ResourceGrid'
 import MemberGrid from '~/components/grids/MemberGrid'
 import TermineGrid from '~/components/grids/TermineGrid'
-// import Navbar from 'nuxt-buefy/lib/module'
+import GroupsGrid from '~/components/grids/GroupsGrid'
+
+Vue.component(GroupsGrid.name, GroupsGrid)
 Vue.component(TermineGrid.name, TermineGrid)
 Vue.component(CategoriesGrid.name, CategoriesGrid)
 Vue.component(DisqusComments.name, DisqusComments)

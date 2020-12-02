@@ -1,6 +1,7 @@
 ---
 name: Christoph Mürdter
 image: /uploads/murther.jpg
+isAuthor: false
 group:
     - OBM
     - LOBM 

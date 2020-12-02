@@ -1,6 +1,7 @@
 ---
 name: Robert Pratersch
 image: /uploads/member/robert_comic.png
+isAuthor: false
 group:
     - Unterstützer
 

@@ -32,6 +32,7 @@ export default {
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
+    group: {type: String,default: ''},
     category: {
       type: Array,
       default() {
@@ -121,7 +122,7 @@ export default {
       }
     },
     resourceFilters(resource) {
-      console.log("Author:"+this.author +"Ex"+ this.exclude +" Category: " +this.category)
+      console.log("Resource:"+this.resource.slug +" Group: " +this.group)
       if (this.exclude && this.category.length) {
         if (Array.isArray(this.category)) {
           return (
@@ -145,15 +146,21 @@ export default {
         return resource.category.includes(this.category)
       }
 
-      if (this.exclude) {
-        return resource.slug !== this.exclude
+      
+
+      if(this.group){
+        console.log(resource.name)
+        return resource.group.includes(this.group)
       }
+
       if(this.author) {
         console.log("Resource Autor:"+resource)
         return resource.author.includes(this.author)
 
       }
-      
+      if (this.exclude) {
+        return resource.slug !== this.exclude
+      }
       return resource
     }
   }

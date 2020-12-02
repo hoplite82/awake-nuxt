@@ -1,9 +1,8 @@
 ---
-name: Bernd Schmid
+name: Bernd Schmid2
 image: /uploads/berndschmidt.png
 isAuthor: false
 group:
-    - OBM
     - LOBM 
 ShortDesc: 1. Kandidat Ortsbeirat, Journalist
 ---
