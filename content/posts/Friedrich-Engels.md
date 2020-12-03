@@ -9,7 +9,7 @@ author: Hans-Gerd Öfinger
 date: 2020-10-30T14:13:00.000Z
 featureImage: /uploads/friedrich_engels-big1.jpg
 ---
-Die enge Zusammenarbeit zwischen Marx und Engels dauerte etwa 40 Jahre. Sowohl im Leben als auch im Tod stand Engels jedoch immer im Schatten des unbestreitbaren Genies Marx. Engels wird oft – etwas zu Unrecht – als zweite Geige nach Marx angesehen. Selbst Engels nährte diese Ansicht häufig.\
+Ohne sein Wirken und seine Ideen gäbe es DIE LINKE nicht. Die enge Zusammenarbeit zwischen Marx und Engels dauerte etwa 40 Jahre. Sowohl im Leben als auch im Tod stand Engels jedoch immer im Schatten des unbestreitbaren Genies Marx. Engels wird oft – etwas zu Unrecht – als zweite Geige nach Marx angesehen. Selbst Engels nährte diese Ansicht häufig.\
 \
 In der Tat war Engels äußerst **zurückhaltend** und bescheiden und betonte stets die wichtige Rolle von Marx gegenüber seiner eigenen. „Was ich beigetragen habe – jedenfalls mit Ausnahme meiner Arbeit auf einigen Spezialgebieten - hätte Marx sehr wohl auch ohne mich tun können“, schrieb Engels.\
 \
