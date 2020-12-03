@@ -5,7 +5,7 @@ isAuthor: false
 group:
     - OBM
     - Die Linke im Westend 
-shortDesc: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
+description: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
 ---
 
 Für Arbeitnehmerrechte – gegen Privatisierung, Servicewüste und Kniefall vor

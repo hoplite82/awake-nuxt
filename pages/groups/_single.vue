@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <h1 class="title">{{$store.state.name}}</h1>
-        <h2 class="subtitle">{{$store.state.shortDesc}}</h2>
+        <h2 class="subtitle">{{$store.state.description}}</h2>
         <!-- Posts in Category -->
         <member-grid :group="$store.state.name" :per-row="3" :number="100"/>
       </template>

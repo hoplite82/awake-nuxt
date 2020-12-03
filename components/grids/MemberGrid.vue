@@ -9,6 +9,7 @@
         :title="item.name"
         :link="item.slug ? `/members/${item.slug}` : ''"
         :image="item.image"
+        :description="item.description"
         
       />
     </template>

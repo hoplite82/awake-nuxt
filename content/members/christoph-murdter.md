@@ -5,7 +5,7 @@ isAuthor: false
 group:
     - OBM
     - Die Linke im Westend 
-shortDesc: Aktivist im Westend
+description: 5. Kandidat | Aktivist im Westend
 ---
 
 Im Inneren Westend brauchen viele Jugendliche und Kinder dringend Angebote. Doch

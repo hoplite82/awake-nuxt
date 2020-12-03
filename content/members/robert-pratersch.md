@@ -5,7 +5,7 @@ isAuthor: false
 group:
     - Sympathisanten
 
-shortDesc: "Webmaster"
+description: "Webmaster"
 ---
 # Robert Pratersch Überschrift
 

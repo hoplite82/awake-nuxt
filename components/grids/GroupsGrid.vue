@@ -9,6 +9,7 @@
         :title="item.name"
         :link="item.slug ? `/groups/${item.slug}` : ''"
         :image="item.image"
+        :description="item.subDisc"
         
       />
     </template>
