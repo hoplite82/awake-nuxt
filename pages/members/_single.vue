@@ -13,7 +13,7 @@
         />
         <br /><br />
         <br />
-        <strong class="is-size-3"> {{ ShortDesc }}</strong><br />
+        <strong class="is-size-3"> {{ shortDesc }}</strong><br />
        
 
         <markdown :markdown="$store.state.content" class="is-size-3" />
@@ -44,7 +44,7 @@ export default {
     PostSidebar,
   },
   computed: {
-    ...mapState(['name', 'image', 'group', 'ShortDesc', 'content', 'slug']),
+    ...mapState(['name', 'image', 'group', 'shortDesc', 'content', 'slug']),
     date() {
       return getFormattedDate(this.$store.state.date)
     },

@@ -25,7 +25,7 @@ export default {
     },
     {
       name: 'Wer wir sind',
-      link: '/members'// post
+      link: '/groups/lobm'
     },{
       name: 'Themen',
       link: '/categories'

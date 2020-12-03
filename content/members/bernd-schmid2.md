@@ -4,7 +4,7 @@ image: /uploads/berndschmidt.png
 isAuthor: false
 group:
     - Die Linke im Westend 
-ShortDesc: 1. Kandidat Ortsbeirat, Journalist
+shortDesc: 1. Kandidat Ortsbeirat, Journalist
 ---
 
 In dieser wirklich schönen Stadt (und darüber kann ich mir als langjährige
