@@ -12,17 +12,21 @@
     
 
     <div class="flex-container">
-      <div class="item flex-item-break">  
-       Ort:  <pre>{{ ort }} </pre>
+      
+      <div class="flex-item-break">
+        Ort: 
       </div>
-      <div class="item flex-item-left">                              
+      <div class="flex-item-break ort">
+         {{ ort }} 
+      </div>
+      <div class="flex-item-left">                              
             Datum: <pre>{{ startdatePretty }}</pre>
             Beginn: <pre>{{ starttime }}</pre>
           <div v-if="startdatePretty == enddatePretty"></div>
           <div v-else>EndDatum: <pre>{{ enddatePretty }}</pre></div>
           Ende: <pre>{{ endtime }}</pre>       
       </div>
-      <div class="item flex-item-right">
+      <div class="flex-item-right">
         <markdown :markdown="content" />
        
       </div>
@@ -86,6 +90,9 @@ export default {
 }
 * {
   box-sizing: border-box;
+}
+.ort {background-color:#eee;
+padding: 20px;
 }
 
 .flex-container {
