@@ -5,7 +5,7 @@ group:
   - OBM
   - Die Linke im Westend
 isAuthor: false
-description: Spitzenkandidat DIE LINKE im Westend für die Ortsbeiratswahl 2021.
+description: Spitzenkandidat DIE LINKE für die Ortsbeiratswahl 2021 im Westend.
   Seit 2016 Mitglied im Ortsbeirat.
 ---
 In dieser wirklich schönen Stadt (und darüber kann ich mir als langjährige
