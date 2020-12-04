@@ -1,5 +1,5 @@
 ---
 name: Bilanz und Berichte
-image: /uploads/20190917_163907.jpg
+image: /uploads/bpt_hg.jpg
 description: Rückblick  auf vergangene Jahre
 ---
