@@ -6,7 +6,7 @@ category:
   - showstart
 author: Die Linke im Westend
 date: 2020-11-27T16:00:00.000Z
-featureImage: /uploads/whg-demo27.jpg
+featureImage: /uploads/leer9751.jpg
 ---
 Vorläufig gilt das alte Programm:
 
