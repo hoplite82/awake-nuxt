@@ -1,12 +1,11 @@
 ---
-title: "Programm 2016-2021"
-subtitle: 
+title: Programm 2016-2021
+subtitle: Dafür sind wir 2016 angetreten
 category:
-  - Wahl 2021
-  - showstart
+  - Bilanz und Berichte
 author: Die Linke im Westend
-date: 2020-11-27T16:00:00Z
-featureImage: /uploads/whgdemo.jpg
+date: 2020-11-27T16:00:00.000Z
+featureImage: /uploads/20190917_163907.jpg
 ---
  
 Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit 13 Kandidatinnen und Kandidaten an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten. Hier unser Programm aus dem Jahr 2016. Viele Punkte haben wir bereits angepackt. Das neue Programm für die kommenden fünf Jahre folgt demnächst an dieser Stelle.
