@@ -1,6 +1,5 @@
 ---
 name: Grundsätzliches
-image: /uploads/nopic.jpg
+image: /uploads/20191120_213823.jpg
 description: Linke Themen
 ---
-
