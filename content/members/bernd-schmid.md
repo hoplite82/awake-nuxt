@@ -1,13 +1,13 @@
 ---
 name: Bernd Schmid
 image: /uploads/berndschmidt.png
-isAuthor: false
 group:
-    - OBM
-    - Die Linke im Westend 
-description: 1. Kandidat Ortsbeirat, Journalist
+  - OBM
+  - Die Linke im Westend
+isAuthor: false
+description: Spitzenkandidat DIE LINKE im Westend für die Ortsbeiratswahl 2021.
+  Seit 2016 Mitglied im Ortsbeirat.
 ---
-
 In dieser wirklich schönen Stadt (und darüber kann ich mir als langjährige
 Gießener ein Urteil erlauben) läuft politisch etwas grundlegend falsch.
 Wiesbaden hat eine der höchsten Millionärsdichten in Deutschland, gleichzeitig
