@@ -1,5 +1,5 @@
 ---
 name: Lokales
-image: /uploads/nopic.jpg
+image: /uploads/b23.jpg
 description: Lokale Ereignisse im Westend.
 ---
