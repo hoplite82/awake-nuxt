@@ -58,6 +58,12 @@ export default {
           hid: 'og:site_name',
           name: 'og:site_name',
           content: this.$siteConfig.siteName
+        },{
+          hid: 'keywords',
+          name: 'keywords',
+          content: 'linke westend,die linke westend, linke wiesbaden, linke wiesbaden westend, Westend, Wiesbaden, Ortbeirat wiesbaden'+
+           'Ortbeirat Westend,westend ortsbeirat, wiesbaden ortsbeirat, öfinger,hans-gerd öfinger'
+
         }
       ]
     }

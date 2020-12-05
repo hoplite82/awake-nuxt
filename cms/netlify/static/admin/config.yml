@@ -17,6 +17,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Titel", name: "title", widget: "string" ,required: true}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
+#     - {label: "Position", name: "pos", widget: "number", value_type: "int"}
       - {
         label: "Gehört zu Thema", name: "category", widget: "relation", 
         collection: "categories", searchFields: ["name"], valueField: "name", multiple: true
@@ -27,6 +28,7 @@ collections:
       - {label: "Veröffentlicht am", name: "date", widget: "datetime"}
       - {label: "Bild", name: "featureImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
       
   - name: "categories"
     label: "Categories"
