@@ -4,6 +4,6 @@ image: /uploads/aktion321.jpg
 group:
   - OBM
 isAuthor: false
-description: 3. Kandidat
+description: "Stadtteilgruppe "
 ---
-- **ganz große Nummer** - [X]
+Für die Wahl zum Ortsbeirat Westend/Bleichstraße am 12. März 2021 treten wieder 13 Bewerberinnen und Bewerber auf der Liste DIE LINKE an. Nachfolgend die Namen und Reihenfolge unserer Liste.
