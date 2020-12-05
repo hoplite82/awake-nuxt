@@ -1,5 +1,5 @@
 ---
-name: DIE LINKE IM WESTEND
+name: "DIE LINKE IM WESTEND "
 image: /uploads/aktion321.jpg
 group:
   - Die Linke im Westend
