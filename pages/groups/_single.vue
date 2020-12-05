@@ -10,6 +10,7 @@
         <h1 class="title">{{$store.state.name}}</h1>
         <h2 class="subtitle">{{$store.state.description}}</h2>
         <!-- Posts in Category -->
+        <markdown :markdown="$store.state.content" />
         <member-grid :group="$store.state.name" :per-row="3" :number="100"/>
       </template>
       <template v-slot:sidebar>
@@ -34,8 +35,10 @@
   </div>
 </template>
 <script>
+import Markdown from '../../components/Markdown.vue'
 import { setPageData } from '../../helper'
 export default {
+  components: { Markdown },
   data() {
     return {
       allCats: []
