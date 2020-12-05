@@ -1,5 +1,5 @@
 ---
-title: Aartalbahn reaktivieren! Weniger Durchgangsverkehr!
+title: "Aartalbahn: Weniger Durchgangsverkehr!"
 subtitle: Nach dem aus für die CityBahn muss jetzt Plan B her!
 category:
   - Lokales
