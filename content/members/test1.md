@@ -1,6 +1,6 @@
 ---
-name: test1
-image: /uploads/karl-marx-peace-sign.jpg
+name: DIE LINKE IM WESTEND
+image: /uploads/aktion321.jpg
 group:
   - OBM
 isAuthor: false
