@@ -2,8 +2,8 @@
 name: DIE LINKE IM WESTEND
 image: /uploads/aktion321.jpg
 group:
-  - OBM
-isAuthor: false
+  - Die Linke im Westend
+isAuthor: true
 description: Stadtteilgruppe
 ---
 Wir sind eine aktive Gruppe in der Partei DIE LINKE im Westend, einem Stadtteil mit der höchsten Wohndichte Deutschlands. \
