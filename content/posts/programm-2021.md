@@ -5,7 +5,7 @@ category:
   - Bilanz und Berichte
 author: Die Linke im Westend
 date: 2020-11-27T16:00:00.000Z
-featureImage: /uploads/20190917_163907.jpg
+featureImage: /uploads/b23-4_o.jpg
 ---
  
 Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit 13 Kandidatinnen und Kandidaten an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten. Hier unser Programm aus dem Jahr 2016. Viele Punkte haben wir bereits angepackt. Das neue Programm für die kommenden fünf Jahre folgt demnächst an dieser Stelle.
