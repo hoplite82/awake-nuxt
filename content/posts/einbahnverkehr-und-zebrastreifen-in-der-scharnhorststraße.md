@@ -1,5 +1,5 @@
 ---
-title: Einbahnverkehr und Zebrastreifen müssen her!
+title: Einbahnverkehr und Zebrastreifen nötig!
 subtitle: Es geht um die Sicherheit unserer Kinder
 category:
   - Lokales
@@ -7,7 +7,7 @@ category:
   - showstart
 author: Hans-Gerd Öfinger
 date: 2020-12-01T15:26:18.584Z
-featureImage: /uploads/schulweg-16.19.54-1-.jpeg
+featureImage: /uploads/schulweg53.jpg
 ---
 Gefährliche Szenen wie auf dem Foto spielen sich hier tagtäglich ab. Daher hat DIE LINKE den folgenden **Antrag** an den Ortsbeirat Westend/Bleichstraße gestellt. Leider wurde die Sitzung Ende November 2020 kurzfristig abgesagt.  Wir bleiben dran und lassen nicht locker:
 

@@ -9,4 +9,4 @@ author: Hans-Gerd Öfinger
 date: 2019-02-24T18:43:19.868Z
 featureImage: /uploads/fastnacht1.jpg
 ---
-Wir erfuhren es am eigenen Leib: Es kommt nur an Fastnacht vor, dass die Polizei Spekulanten aus dem Verkehr zieht. Unsere Aktion kam aber an.
+Wir erfuhren es am eigenen Leib: Es kommt nur an Fastnacht vor, dass die Polizei Spekulanten aus dem Verkehr zieht. Unsere Aktion kam aber an. Das war am Fastnachtssonntag 2019. Der Leerstand des Gebäudes Bismarckring 23 seit gut zehn Jahren ist ein großes Ärgernis. Unsere Parole lautet: **Wohnraum schaffen, Leerstand beschlagnahmen, Spekulanten enteignen!**

@@ -1,5 +1,5 @@
 ---
-name: Wahlen 2021 
+name: Wahlen 2021
 image: /uploads/wahlurne17.jpg
-description: Alles zur Wahlen 2021
+description: Kommunalwahl 12.März 2021
 ---
