@@ -1,6 +1,6 @@
 ---
 name: Die Linke im Westend
-image: /uploads/nopic.jpg
+image: /uploads/aktion321.jpg
 isAuthor: true
 description: DIE LINKE IM WESTEND
 ---

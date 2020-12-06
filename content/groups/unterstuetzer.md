@@ -1,6 +1,6 @@
 ---
 name: Sympathisanten
-image: /uploads/nopic.jpg
+image: ""
 isAuthor: false
 description: "Sympathisanten der Linken im West end"
 ---

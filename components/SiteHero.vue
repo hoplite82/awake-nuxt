@@ -141,4 +141,11 @@ export default {
     text-shadow: 1px 1px 2px white;
   }
 }
+.hero-theme-clean {
+  
+  .opti-image-loaded {
+    opacity: 0.12;
+    animation: blurInGrayscale 4.5s ease;
+  }
+}
 </style>
