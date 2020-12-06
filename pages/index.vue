@@ -6,10 +6,10 @@
       <template v-slot:default>
         <!-- All Posts -->
         
-        <p class="title">Wichtige Veröffentlichungen</p>
+        <p class="title">Aktuelles</p>
         <posts-grid :category="['firstpost']" :perRow="$siteConfig.posts.perRow" :number="3" />
        
-         <p class="title">Veröffentlichungen</p>
+         <p class="title"><br /></p>
         <posts-grid :category="['showstart']" :perRow="$siteConfig.posts.perRow" />
         <!-- <posts-grid exclude="administratives" /> -->
       </template>
