@@ -43,7 +43,7 @@ export default {
   },
   async created() {
     this.allCats = await this.$cms.category.getAll()
-      .then((cats) => cats.filter((cat) => cat.name != 'showstart'))
+      .then((cats) => cats.filter((cat) => cat.name != 'showstart' && cat.name !== 'firstpost'))
 //      .then((cats) => cats.map((cat) => cat.name))
   },
   computed: {
