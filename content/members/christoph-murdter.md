@@ -3,7 +3,7 @@ name: Christoph Mürdter
 image: /uploads/murther.jpg
 isAuthor: false
 group:
-    - OBM
+    - Ortsbeiratsmitglieder
     - Die Linke im Westend
 pos: 5
 description: 5. Kandidat | Aktivist im Westend

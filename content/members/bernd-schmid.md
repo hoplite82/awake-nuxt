@@ -2,7 +2,7 @@
 name: Bernd Schmid
 image: /uploads/berndschmidt.png
 group:
-  - OBM
+  - Ortsbeiratsmitglieder
   - Die Linke im Westend
 isAuthor: false
 pos: 1
