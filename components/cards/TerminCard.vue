@@ -103,10 +103,12 @@ padding: 20px;
 
 .flex-item-left {
   flex: 25%;
+  padding: 1rem;
 }
 
 .flex-item-right {
   flex: 75%;
+  padding: 2rem;
 }
 
 .flex-item-break {
