@@ -9,7 +9,7 @@
       :bottom-loader="!allLoaded && firstPageLoaded"
       :theme="theme"
       :per-row="perRow"
-      @atEnd="loadMore()"
+      @atend="loadMore()"
     >
       <template v-slot:default="{ item }">
         <slot :item="item"></slot>
@@ -26,20 +26,20 @@ export default {
   name: 'ResourceGrid',
   components: { PresentationalGrid },
   props: {
-    // eslint-disable-next-line vue/require-prop-types
     resource: { required: true },
     theme: { type: String, default: 'blocks' },
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },
     order: { type: String, default: 'DESC' },
-    group: {type: String,default: ''},
+    group: { type: String, default: '' },
     category: {
       type: Array,
       default() {
         return []
-      }
+      },
     },
-    exclude: { type: String, default: '' }, author: {type: String, default: ''}
+    exclude: { type: String, default: '' },
+    author: { type: String, default: '' },
   },
   data() {
     return {
@@ -48,13 +48,13 @@ export default {
       resources: [],
       page: 0,
       allPostsLoaded: false,
-      loading: false
+      loading: false,
     }
   },
   computed: {
     resourceController() {
       return isString(this.resource) ? this.$cms[this.resource] : this.resource
-    }
+    },
   },
   created() {
     this.$eventBus.$on('route-changed', this.reset)
@@ -64,7 +64,7 @@ export default {
   },
   methods: {
     reset() {
-      console.log('resetting resource grid')
+      // console.log('resetting resource grid')
       this.resourceController.reset()
       this.page = 0
       this.allLoaded = false
@@ -116,13 +116,17 @@ export default {
           this.number,
           this.resourceFilters
         )
+        if(this.order == "pos"){
+          console.log("hid")
+          resources.sort((a,b) => a.pos - b.pos) 
+        }
         return resources
       } catch (err) {
         return []
       }
     },
     resourceFilters(resource) {
-      console.log("Resource:"+this.resource.slug +" Group: " +this.group)
+      // console.log('Resource:' + this.resource.slug + ' Group: ' + this.group)
       if (this.exclude && this.category.length) {
         if (Array.isArray(this.category)) {
           return (
@@ -145,24 +149,21 @@ export default {
         }
         return resource.category.includes(this.category)
       }
-
-      
-
-      if(this.group){
+      if (this.group) {
         console.log(resource.name)
         return resource.group.includes(this.group)
       }
 
-      if(this.author) {
-        console.log("Resource Autor:"+resource)
+      if (this.author) {
+        // console.log('Resource Autor:' + resource)
         return resource.author.includes(this.author)
-
       }
       if (this.exclude) {
-        return resource.slug !== this.exclude
+        // return resource.slug !== this.exclude
+        return !(this.exclude.includes(resource.slug))
       }
       return resource
-    }
-  }
+    },
+  },
 }
 </script>

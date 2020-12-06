@@ -5,6 +5,7 @@ isAuthor: false
 group:
     - OBM
     - Die Linke im Westend 
+pos: 2
 description: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
 ---
 

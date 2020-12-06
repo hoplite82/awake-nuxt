@@ -30,7 +30,7 @@
             <h4
               :class="{
                 subtitle: true,
-                'is-6': true,
+                'is-5': true,
                 'empty-content-placeholder': !$slots.default
               }"
             >

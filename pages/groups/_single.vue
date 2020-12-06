@@ -10,7 +10,7 @@
         <h2 class="subtitle">{{$store.state.description}}</h2>
         <!-- Posts in Category -->
         <markdown :markdown="$store.state.content" />
-        <member-grid :group="$store.state.name" :per-row="3" :number="100"/>
+        <member-grid :group="$store.state.name" :per-row="3" :number="100" order="pos"/>
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle">

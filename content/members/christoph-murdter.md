@@ -4,7 +4,8 @@ image: /uploads/murther.jpg
 isAuthor: false
 group:
     - OBM
-    - Die Linke im Westend 
+    - Die Linke im Westend
+pos: 5
 description: 5. Kandidat | Aktivist im Westend
 ---
 

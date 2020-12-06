@@ -89,9 +89,10 @@
         </div>
       </template>
       <template v-slot:sidebar>
-        <h3 class="subtitle is-4">Neueste Veröffentlichungen</h3>
+        <h3 class="subtitle is-4">Aktuelle Veröffentlichungen</h3>
         <!-- Latest Posts -->
-        <posts-grid :per-row="1" :number="2" />
+        
+        <posts-grid :category="['firstpost']" :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>

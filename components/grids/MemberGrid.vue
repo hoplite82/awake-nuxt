@@ -5,11 +5,12 @@
     :theme="$siteConfig.categories.theme || $siteConfig.cards.theme || null"
   >
     <template v-slot:default="{ item }">
-      <category-card
+      <member-card
         :title="item.name"
         :link="item.slug ? `/members/${item.slug}` : ''"
         :image="item.image"
         :description="item.description"
+        :pos="item.pos"
         
       />
     </template>
@@ -17,10 +18,10 @@
 </template>
 
 <script>
-import CategoryCard from '~/components/cards/CategoryCard'
+import MemberCard from '~/components/cards/MemberCard'
 export default {
   name: 'MemberGrid',
-  components: { CategoryCard },
+  components: { MemberCard },
   props: {
     perRow: { type: Number, default: 3 },
     number: { type: Number, default: 0 },

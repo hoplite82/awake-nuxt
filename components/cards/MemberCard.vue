@@ -1,13 +1,14 @@
 <template>
   <generic-card :title="title" :image="image" :link="link">
-   <span class="is-size-5"> {{ description }}</span>
+   <span v-if="this.pos" class="is-size-5 has-text-weight-semibold has-text-black">{{this.pos}}. Kandidat </span>
+   <span v-else class="is-size-6"> {{ description }}</span>
   </generic-card>
 </template>
 
 <script>
 import GenericCard from './GenericCard'
 export default {
-  name: 'CategoryCard',
+  name: 'MemberCard',
   components: { GenericCard },
   props: {
     title: {
@@ -25,7 +26,10 @@ export default {
     description: {
       type: String,
       default: ''
-    }
+    }, pos: {
+      type: Number,
+      default: 0
+    } 
   }
 }
 </script>

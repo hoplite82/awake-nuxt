@@ -6,7 +6,11 @@
       <template v-slot:default>
         <!-- All Posts -->
         
-        <posts-grid :category="['showstart']" :perRow="$siteConfig.posts.perRow"/>
+        <p class="title">Wichtige Veröffentlichungen</p>
+        <posts-grid :category="['firstpost']" :perRow="$siteConfig.posts.perRow" :number="3" />
+       
+         <p class="title">Veröffentlichungen</p>
+        <posts-grid :category="['showstart']" :perRow="$siteConfig.posts.perRow" />
         <!-- <posts-grid exclude="administratives" /> -->
       </template>
       <template v-slot:sidebar>

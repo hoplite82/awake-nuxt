@@ -69,7 +69,7 @@ export default {
   },
   computed: {
     removedStartCategories() {
-      return this.categories.filter((v) => v !== 'showstart')
+      return this.categories.filter((v) => v !== 'showstart' && v !== 'firstpost')
     },
     datePretty() {
       return getFormattedDate(this.date)
