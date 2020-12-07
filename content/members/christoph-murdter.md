@@ -6,7 +6,7 @@ group:
     - DIE LINKE IM WESTEND
     - DIE LINKE im Ortsbeirat Westend/Bleichstraße
 pos: 5
-description: 5. Kandidat | Aktivist im Westend
+description: 5. Listenplatz | Aktivist im Westend
 ---
 
 Im Inneren Westend brauchen viele Jugendliche und Kinder dringend Angebote. Doch

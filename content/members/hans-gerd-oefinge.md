@@ -6,7 +6,7 @@ group:
     - DIE LINKE IM WESTEND
     - DIE LINKE im Ortsbeirat Westend/Bleichstraße
 pos: 2
-description: "2. Kandidat der Linken für Ortsbeirat Westend, Journalist"
+description: "2. Listenplatz der Linken für Ortsbeirat Westend, Journalist"
 ---
 
 Für Arbeitnehmerrechte – gegen Privatisierung, Servicewüste und Kniefall vor
