@@ -1,5 +1,5 @@
 ---
 name: firstpost
-image: /uploads/nopic.jpg
+image: /uploads/titel.jpg
 description: Wird auf StartSeite angezeigt.
 ---
