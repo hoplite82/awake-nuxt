@@ -1,5 +1,5 @@
 ---
-title: Fotoaktion zum Tag der Befreiung im Westend
+title: Tag der Befreiung im Westend
 subtitle: Am 8. Mai 2020 in der Wellritzstraße
 category:
   - Lokales
