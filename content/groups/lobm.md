@@ -1,5 +1,5 @@
 ---
-name: DIE LINKEIM WESTEND
+name: DIE LINKE IM WESTEND
 image: /uploads/aktion321.jpg
 isAuthor: true
 description: Aktive Stadtteilgruppe
