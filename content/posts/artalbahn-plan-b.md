@@ -1,6 +1,6 @@
 ---
 title: "Aartalbahn: Weniger Durchgangsverkehr!"
-subtitle: Nach dem aus für die CityBahn muss jetzt Plan B her!
+subtitle: Nach dem Aus für die CityBahn muss jetzt Plan B her!
 category:
   - Lokales
   - showstart
