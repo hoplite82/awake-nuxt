@@ -8,6 +8,6 @@ author: Die Linke im Westend
 date: 2020-11-27T16:00:00.000Z
 featureImage: /uploads/leer9751.jpg
 ---
-Vorläufig gilt das alte Programm:
+Wir werden das neue Programm am 17. Dezember besprechen und beschließen. Vorläufig gilt das alte Programm 2016-21.
 
 [Das alte Programm](/programm-2021)
