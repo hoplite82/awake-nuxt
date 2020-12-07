@@ -1,5 +1,5 @@
 ---
-title: Einbahnverkehr und Zebrastreifen nötig!
+title: Einbahnverkehr und Zebrastreifen!
 subtitle: Es geht um die Sicherheit unserer Kinder
 category:
   - Lokales
