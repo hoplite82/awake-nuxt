@@ -1,6 +1,6 @@
 ---
 title: Programm 2021-2026
-subtitle: Das Programm für die 2021-26
+subtitle: Unsere Forderungen für die kommenden fünf Jahre
 category:
   - Wahlen 2021
   - showstart
