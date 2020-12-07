@@ -180,10 +180,5 @@ widersprechen. Das Gleiche gilt hinsichtlich der Verarbeitung der
 personenbezogenen Daten, einschließlich der Profilbildung, soweit diese
 im Zusammenhang mit Direktwerbung steht.
 
-## Dokumentenmanagement
-
-Diese Datenschutzerklärung basiert auf dem Datenschutz-Konfigurator von
-
-[tv-waldstrasse.de/mein-datenschutzbeauftragter.de](https://tv-waldstrasse.de/mein-datenschutzbeauftragter.de).
 
 Letzte Anpassung: Dezember 2020
