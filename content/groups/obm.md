@@ -1,5 +1,5 @@
 ---
-name: Unsere Ortsbeiratsmitglieder
+name: DIE LINKE im Ortsbeirat Westend/Bleichstraße
 image: /uploads/b23-4_o.jpg
 isAuthor: false
 description: In den Ortsbeirat Westend/Bleichstraße gewählte LINKE
