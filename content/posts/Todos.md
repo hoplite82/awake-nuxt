@@ -21,7 +21,7 @@ featureImage: /uploads/purge-css-hero.jpg
 
 - [x] Bugfix Categories Menue.
 - [x] Bugfix Hamburger Menue Banner.
-- [ ] Author Link to Posts
+- [x] Author Link to Posts
 
 - [x] Termine Section
   - [x] Add Ort
@@ -41,14 +41,14 @@ featureImage: /uploads/purge-css-hero.jpg
 - [x] static links in Markdown. nuxt failure?
 - [ ] Verknüpfen der Autoren im cms.
 
-- [ ] Feld bei Posts ob auf StartSeite anzuzeigen ist. zb. Administratives ausblenden!
+- [x] Feld bei Posts ob auf StartSeite anzuzeigen ist. zb. Administratives ausblenden!
 
-- [ ] Font-Size bigger for big screen
+- [x] Font-Size bigger for big screen
 - [ ] meta tags Westend, Wiesbaden Westend, Linke Westend, ....
-- [ ] Kontakt
-- [ ] Footer
+- [x] Kontakt
+- [x] Footer
 
 - [x] joben links logo. 
 - [ ] DIE LINKE gleich lang wie Untertitel
-- [ ] Deutsche Begriffe Kontakt form
+- [x] Deutsche Begriffe Kontakt form
 - [ ] Kontaktiere ULI Schneider wegen seinem Impressum und Zusammenarbeit in Zukunft.
