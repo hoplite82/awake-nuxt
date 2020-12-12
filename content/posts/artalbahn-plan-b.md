@@ -12,4 +12,6 @@ Nach der krachenden Niederlage der Befürworter einer City-Bahn in Wiesbaden bei
 
 Mit einer Reaktivierung der Aartalbahn auf der gesamten Länge hätten wir im Westend deutlich weniger Durchgangsverkehr über den 1. und 2. Ring. Die Mittel für die Reaktivierung stillgelegter Bahnen liegen in Berlin bereit und müssen nur abgerufen werden. Bis zu 90 Prozent der Baukosten zahlt der Bund. Die mit der Aartalbahn vergleichbare Taunusbahn von Frankfurt über Bad Homburg und Usingen nach Brandoberndorf und Grävenwiesbach zeigt, wie eine stillgelegte Trasse mit moderner Technik wiederbelebt werden kann und angenommen wird.
 
+Wir haben daher für die nächste Sitzung des Ortsbeirats einen entsprechenden Antrag gestellt, um den Druck zu verstärken.
+
 Fraktion DIE LINKE im Ortsbeirat Westend/Bleichstraße
