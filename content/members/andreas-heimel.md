@@ -4,7 +4,7 @@ image: /uploads/andreasheimel.jpg
 group:
   - Die Linke im Westend
 isAuthor: false
-description: Kandidat Listenplatz 4
+description: Kandidat 4. Listenplatz
 pos: 4
 ---
 Sicherheit ist auch für die Menschen im Westend ein wichtiges Thema. Polizeiliche Repression, Videoüberwachung und Waffenverbotszonen schaffen aber allenfalls eine gefühlte Sicherheit. Es gilt, die Ursachen für Kriminalität zu bekämpfen, statt Überwachung und Repression immer mehr auszuweiten und Bürger*innenrechte dagegen immer weiter einzuschränken.
