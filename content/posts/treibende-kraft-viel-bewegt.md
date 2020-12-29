@@ -304,70 +304,47 @@ Begründung: Der kleine Spielplatz neben der Hochschule Wiesbaden ist wenig freq
 
 **Umbau der Bushaltestelle Bismarckring (Bleichstraße)**
 
-Antragstext:
-
 Der Magistrat wird gebeten, mit Nachdruck auf einen Umbau der Bushaltestelle Bismarckring (Bleichstraße) hinzuwirken.
 
-Begründung:
+Begründung: Die Bushaltestelle „Bismarckring“ in der Bleichstraße ist eine stark frequentierte Bushaltestelle im Wiesbadener Kerngebiet. Die Haltestelle wird von diversen Linien bedient, der Fahrgastdurchsatz ist entsprechend hoch.\
+Leider handelt es sich bei der Haltestelle jedoch nach wie vor lediglich um einen Gehweg mit Haltestellen-Schild. Der Bordstein befindet sich nahezu auf Fahrbahnhöhe, ein barrierefreier Zu- und Abgang aus den Bussen ist nur unter erheblichen Schwierigkeiten und Zeitaufwand möglich.\
+Darüber hinaus wird die Bushaltestelle immer wieder als Parkplatz missbraucht. Auch Kunden angrenzender Geschäfte nutzen immer wieder den fast auf Fahrbahnhöhe liegenden Gehweg/Bushaltestelle als Parkplatz und verhindern somit die gleichzeitige Abfertigung mehrerer Busse an dieser Haltestelle. Aus diesem Grund hat die Umwandlung der Haltestelle Bismarckring erhöhte Priorität.
 
-Die Bushaltestelle „Bismarckring“ in der Bleichstraße ist eine stark frequentierte Bushaltestelle im Wiesbadener Kerngebiet. Die Haltestelle wird von diversen Linien bedient, der Fahrgastdurchsatz ist entsprechend hoch.
-
-Leider handelt es sich bei der Haltestelle jedoch nach wie vor lediglich um einen Gehweg mit Haltestellen-Schild. Der Bordstein befindet sich nahezu auf Fahrbahnhöhe, ein barrierefreier Zu- und Abgang aus den Bussen ist nur unter erheblichen Schwierigkeiten und Zeitaufwand möglich.
-
-Darüber hinaus wird die Bushaltestelle immer wieder als Parkplatz missbraucht. Auch Kunden angrenzender Geschäfte nutzen immer wiedr den fast auf Fahrbahnhöhe liegenden Gehweg/Bushaltestelle als Parkplatz und verhindern somit die gleichzeitige Abfertigung mehrerer Busse an dieser Haltestelle. Aus diesem Grund hat die Umwandlung der Haltestelle Bismarckring erhöhte Priorität.
-
-Altglascontainer an der Scharnhorststr./Ecke Blücherstraße
-
-Antragstext:
+**Altglascontainer an der Scharnhorststr./Ecke Blücherstraße**
 
 Der Magistrat wird gebeten, die Anzahl der abgestellten Altglascontainer auf drei (je einmal grün, braun, weiß) zu reduzieren.
 
-Begründung:
+Begründung: Durch die bisherige Aufstellung von fünf bzw. vier Containern wird unbeabsichtigt ein Raum mit Sichtschutz geschaffen, der immer wieder als öffentliche Toilette missbraucht wird. Bei Aufstellung von drei Containern in einer Reihe wäre dieser Sichtschutz nicht mehr gegeben.
 
-Durch die bisherige Aufstellung von fünf bzw. vier Containern wird unbeabsichtigt ein Raum mit Sichtschutz geschaffen, der immer wieder als öffentliche Toilette missbraucht wird. Bei Aufstellung von drei Containern in einer Reihe wäre dieser Sichtschutz nicht mehr gegeben.
-
-Schaukästen im Ortsbezirk
-
-Antragstext:
+\
+**Schaukästen im Ortsbezirk**
 
 Der Ortsbeirat bringt an mehreren geeigneten Stellen im Ortsbezirk (Georg Buch-Haus, Platz der Deutschen Einheit, Blücherplatz) abschließbare Schaukästen an. Damit sollen der Ortsbeirat als Gremium und die einzelnen Fraktionen im Ortsbeirat die Gelegenheit erhalten, der interessierten Öffentlichkeit ihre Arbeit und Ideen vorzustellen und auf wichtige Termine und Vorgänge hinzuweisen. Der Ortsvorsteher wird um zügige Einholung von entsprechenden Angeboten gebeten.
 
-Einbahnverkehr in der Scharnhorststraße
-
-Antragstext:
+**Einbahnverkehr in der Scharnhorststraße**
 
 Der Magistrat der LH Wiesbaden wird gebeten, für die Verkehrsführung auf der Scharnhorststraße auf der Höhe der Blücherschule (Abschnitt zwischen Yorckstraße und Blücherstraße) Einbahnverkehr (Fahrtrichtung Yorckstraße > Blücherstraße) vorzuschreiben.
 
-Schulwegsicherung Emser Straße
-
-Antragstext:
+\
+**Schulwegsicherung Emser Straße**
 
 Der Ortsbeirat Westend/Bleichstraße fordert den Magistrat auf, die Sicherung des Schulweges vom Inneren Westend zur Riederbergschule beim Übergang Emser Straße/Riederbergstraße zu verbessern. Nach Möglichkeit sollte an der Verkehrsampel (Emser Straße aus Richtung Dürerplatz) eine Warnlicht-Beleuchtung (siehe Anhang I und II) angebracht werden. Außerdem ist die Beschilderung unzureichend.
 
 Der Magistrat wird gebeten, an oben genannter Stelle in beiden Richtungen Verkehrsschilder anzubringen (siehe Anhang III), die die Autofahrer auf den Schulweg hinweisen. Zusätzlich sollen auf der Emser Straße in beiden Richtungen Straßenmarkierungen „Vorsicht Schulweg“ (siehe Anhang IV) vorgenommen werden.
 
-Begründung:
-
-Die Sicherung des Schulweges aus dem Inneren Westend in die Riederbergschule (Übergang Emser Straße/Riederbergstraße) ist unzureichend. Nur ein kleines und verdecktes Verkehrsschild in der Emser Straße (Ecke Riederbergstraße, stadtauswärts) macht die Autofahrer darauf aufmerksam, dass sich hier eine Grundschule befindet. Das Anbringen des Verkehrsschildes (siehe Anhang III) sowie die Straßenmarkierung (siehe Anhang IV) sollen die Aufmerksamkeit der Autofahrer für potentielle Gefahren für die Grundschulkinder erhöhen.
-
+Begründung: Die Sicherung des Schulweges aus dem Inneren Westend in die Riederbergschule (Übergang Emser Straße/Riederbergstraße) ist unzureichend. Nur ein kleines und verdecktes Verkehrsschild in der Emser Straße (Ecke Riederbergstraße, stadtauswärts) macht die Autofahrer darauf aufmerksam, dass sich hier eine Grundschule befindet. Das Anbringen des Verkehrsschildes (siehe Anhang III) sowie die Straßenmarkierung (siehe Anhang IV) sollen die Aufmerksamkeit der Autofahrer für potentielle Gefahren für die Grundschulkinder erhöhen.\
 Eine weitere gefährliche Situation besteht darin, dass sich im Berufsverkehr der Verkehr auf der Emser Straße stadteinwärts staut, so dass die Autos trotz Grünphase für die Fußgänger weiter fahren, weil diese nicht erkennen können, dass die Ampel bereits auf Rot geschaltet hat. Dies birgt große Gefahren für die Grundschulkinder, die aus dem Inneren Westend in die Riederbergschule gehen. Eine Warnlicht-Beleuchtung (siehe Anhang I und II) an der Verkehrsampel signalisiert den Autofahrern, die sowohl aus der Riederbergstraße kommen und links in Emser Straße einbiegen wollen, als auch den Autofahrern, die vom Dürerplatz/Weißenburgstraße kommen, eine erhöhte Aufmerksamkeit.
 
-Parkflächen in der oberen Walramstraße
 
-Antragstext:
+
+**Parkflächen in der oberen Walramstraße**
 
 Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat, die Fahrzeugaufstellung in der oberen Walramstraße (zwischen Sedanstraße und Emser Straße) von einer Längsaufstellung in eine Schrägaufstellung zu ändern und entsprechende Parkmarkierungen vorzunehmen.
 
-Begründung:
-
-In der oberen Walramstraße herrscht seit Jahren „wildes“ Parken (in zweiter Reihe). Abhilfe kann eine Schrägaufstellung der Fahrzeuge schaffen. Dies wurde bereits seit längerer Zeit im mittleren Bereich der Walramstraße umgesetzt.
-
-Eine Schrägaufstellung ermöglicht zum einen eine bessere Platzausnutzung und zum anderen entfällt das Parken in „zweiter Reihe“.
+Begründung: In der oberen Walramstraße herrscht seit Jahren „wildes“ Parken (in zweiter Reihe). Abhilfe kann eine Schrägaufstellung der Fahrzeuge schaffen. Dies wurde bereits seit längerer Zeit im mittleren Bereich der Walramstraße umgesetzt. Eine Schrägaufstellung ermöglicht zum einen eine bessere Platzausnutzung und zum anderen entfällt das Parken in „zweiter Reihe“.
 
 \
-Leerstand Bismarckring 23
-
-Antragstext:
+**Leerstand Bismarckring 23**
 
 Der Magistrat wird gebeten,
 
@@ -377,101 +354,84 @@ Der Magistrat wird gebeten,
 4. dem Ortsbeirat mitzuteilen, wie er die Tatsache bewertet, dass im Inneren Westend Familien unter menschenunwürdigen Bedingungen in feuchten Kellern hausen und gleichzeitig das Gebäude Bismarckring 23 seit Jahren leersteht,
 5. dem Ortsbeirat mitzuteilen, welche legale Handhabe (Landesgesetze, Hamburger Modell, Zweckentfremdungsverordnung etc.) aus seiner Sicht notwendig wäre, um ein behördliches Eingreifen gegen Immobilienleerstand und zur Schaffung von dringend benötigtem Wohnraum für Wohnungssuchende, Obdachlose, Studierende und Flüchtlinge zu ermöglichen.
 
-Illegales Parken auf dem Mittelstreifen des Bismarckrings unterbinden
 
-Antragstext:
+
+**Illegales Parken auf dem Mittelstreifen des Bismarckrings unterbinden**
 
 Mit der Verlagerung der Glascontainer auf dem Mittelstreifen des Bismarckrings/Höhe Sedanplatz ist die neu geschaffene Freifläche regelmäßig von PKW‘s zugeparkt. Der Ortsbeirat bittet den Magistrat um eine Begrünung dieses Abschnitts nach dem Vorbild der Bepflanzung auf dem 1. Ring.
 
-Begründung:
+Begründung: Die vor einiger Zeit erfolgte Verlagerung der Glascontainer hat dazu geführt, dass die auf dem Mittelstreifen frei gewordene Freifläche von PKW‘s als Parkplatz benutzt wird. Die Entsiegelung und Bepflanzung dieses Bereiches unterbindet das illegale Parken und komplettiert das historische Erscheinungsbild des 1. Rings.
 
-Die vor einiger Zeit erfolgte Verlagerung der Glascontainer hat dazu geführt, dass die auf dem Mittelstreifen frei gewordene Freifläche von PKW‘s als Parkplatz benutzt wird. Die Entsiegelung und Bepflanzung dieses Bereiches unterbindet das illegale Parken und komplettiert das historische Erscheinungsbild des 1. Rings.
 
-Radschutzstreifen Emser Straße
 
-Antragstext:
+**Radschutzstreifen Emser Straße**
 
-1. Der Magistrat möge darlegen, auf welcher Beschlussgrundlage er die Planungen für den Bau eines Radfahrstreifens auf der Emser Straße vorantreibt und warum er die Entscheidung des Ortsbeirats, der sich mehrheitlich dagegen ausgesprochen hat, in diesem Punkt ignoriert.
-2. Das zuständige Dezernat wird gebeten, die aktuellen Planungen dazu dem Ortsbeirat zeitnah zugänglich zu machen und Änderungen gegenüber den bereits vorgestellten Modellen zu erläutern.
+Der Magistrat möge darlegen, auf welcher Beschlussgrundlage er die Planungen für den Bau eines Radfahrstreifens auf der Emser Straße vorantreibt und warum er die Entscheidung des Ortsbeirats, der sich mehrheitlich dagegen ausgesprochen hat, in diesem Punkt ignoriert.\
+Das zuständige Dezernat wird gebeten, die aktuellen Planungen dazu dem Ortsbeirat zeitnah zugänglich zu machen und Änderungen gegenüber den bereits vorgestellten Modellen zu erläutern.
 
-Begründung:
-
-Der Ortsbeirat hat sich bereits mehrfach mit dem Thema Radweg oder Radschutzstreifen in der Emser Straße beschäftigt. Nach intensiver Diskussion ist das Gremium mehrheitlich zu dem Ergebnis gelangt, dass beide Modelle für den Radverkehr in der Emser Straße zwar grundsätzlich wünschenswert, aber aufgrund der Straßenführung und der speziellen Topografie der Straße nicht realisierbar und für Radfahrer möglicherweise sogar mit zusätzlichen Gefahren verbunden sind. Es ist nicht nachvollziehbar, warum diese Überlegungen durch den neuen Dezernenten ignoriert werden und das Gremium in dieser wichtigen verkehrlichen Frage nicht vorab in den Entscheidungsprozess eingebunden wird.
-
+Begründung: Der Ortsbeirat hat sich bereits mehrfach mit dem Thema Radweg oder Radschutzstreifen in der Emser Straße beschäftigt. Nach intensiver Diskussion ist das Gremium mehrheitlich zu dem Ergebnis gelangt, dass beide Modelle für den Radverkehr in der Emser Straße zwar grundsätzlich wünschenswert, aber aufgrund der Straßenführung und der speziellen Topografie der Straße nicht realisierbar und für Radfahrer möglicherweise sogar mit zusätzlichen Gefahren verbunden sind. Es ist nicht nachvollziehbar, warum diese Überlegungen durch den neuen Dezernenten ignoriert werden und das Gremium in dieser wichtigen verkehrlichen Frage nicht vorab in den Entscheidungsprozess eingebunden wird. \
 Nachdem bereits in der Vergangenheit ein dubioses Treffen des damaligen Ortsvorstehers mit wenigen ausgewählten Mitgliedern des Ortsbeirats zur Entscheidungsgrundlage der Verwaltung gegen einen Radstreifen in der Emser Straße anberaumt wurde, scheint es nun umgekehrt zu sein. Auch jetzt wurde der Ortsbeirat in Gänze nicht darüber informiert, was in welcher Form geplant ist und warum jetzt möglich ist, was vor wenigen Monaten noch unmöglich war. So sehr die Fraktion grundsätzlich Überlegungen zur Verbesserung der Radverkehrs gerade auch in der Emser Straße begrüßt, kritisiert sie diese Hinterzimmer-Politik, die den Ortsbeirat letztlich vor vollendete Tatsachen stellt und dann allenfalls noch kosmetische Korrekturen zulässt.
 
-Verlängerung Alkoholverbotszone am Platz der Deutschen Einheit?
 
-Antragstext:\
+
+**Verlängerung Alkoholverbotszone am Platz der Deutschen Einheit?**
 
 1. Der Magistrat möge dem Ortsbeirat den aktuellen Planungsstand hinsichtlich der „kritischen Überprüfung“ der geltenden Alkoholverbotszone am Platz der Deutschen Einheit darlegen, die Bürgermeister Dr. Oliver Franz am 18.04.2018 in einer gemeinsamen Pressemitteilung mit dem Polizeipräsidium Wiesbaden anlässlich der Vorstellung des Konzepts „Gemeinsam Sicheres Wiesbaden“ gefordert hat.
 2. Das zuständige Dezernat wird gebeten zu erklären, ob es im Bereich Platz der Deutschen Einheit/Faulbrunnenplatz eine Ausweitung der Straßensozialarbeit plant, um dem Alkoholkonsum in der Öffentlichkeit effektiv entgegen zu wirken, wie es von der Fraktion DIE LINKE und anderen Fraktionen im Ortsbeirat seit langem gefordert wird.
 3. Die Alkoholverbotszone im Bereich des Platzes der Deutschen Einheit hätte am 31. August 2018 enden sollen. Im vergangenen Dezember wurde sie von Bürgermeister Dr. Oliver Franz durch Anwendung einer Allgemeinverfügung bis 30. November 2018 verlängert. Plant der Magistrat eine weitere Verlängerung des Verbots?
 
-Begründung:
-
-Die Alkoholverbotszone am Platz der Deutschen Einheit wurde im September 2008 eingeführt und seitdem kontinuierlich verlängert. Geändert hat sich seitdem wenig. Auch heute noch ist der Faulbrunnenplatz Treffpunkt und Anlaufstelle für Alkoholkranke. Realistisch betrachtet hat das Verbot nicht viel gebracht. „Trinker“ sind eine auffällige Personengruppe in der öffentlichen Wahrnehmung und ihr Verhalten ist teilweise auch nicht unproblematisch. Bereits vor zehn Jahren hatte Ordnungsdezernentin Birgit Zeimetz (CDU) deswegen einen Runden Tisch ins Leben gerufen, um gemeinsam mit Fachleuten die Wirkungen des Alkoholverbots zu beobachten und zu diskutieren. Bereits damals sprachen diese sich für eine Ausweitung der Straßensozialarbeit aus, die den betroffenen Personen betreute Wohnplätze, Therapien, Jobs und Freizeitbeschäftigungen vermitteln könnten. Zudem müsse die Politik endlich einen Platz schaffen, an dem die Trinker geduldet seien, lautete eine weitere Forderung der Experten.
-
+Begründung: Die Alkoholverbotszone am Platz der Deutschen Einheit wurde im September 2008 eingeführt und seitdem kontinuierlich verlängert. Geändert hat sich seitdem wenig. Auch heute noch ist der Faulbrunnenplatz Treffpunkt und Anlaufstelle für Alkoholkranke. Realistisch betrachtet hat das Verbot nicht viel gebracht. „Trinker“ sind eine auffällige Personengruppe in der öffentlichen Wahrnehmung und ihr Verhalten ist teilweise auch nicht unproblematisch. Bereits vor zehn Jahren hatte Ordnungsdezernentin Birgit Zeimetz (CDU) deswegen einen Runden Tisch ins Leben gerufen, um gemeinsam mit Fachleuten die Wirkungen des Alkoholverbots zu beobachten und zu diskutieren. Bereits damals sprachen diese sich für eine Ausweitung der Straßensozialarbeit aus, die den betroffenen Personen betreute Wohnplätze, Therapien, Jobs und Freizeitbeschäftigungen vermitteln könnten. Zudem müsse die Politik endlich einen Platz schaffen, an dem die Trinker geduldet seien, lautete eine weitere Forderung der Experten. \
 Zehn Jahre nach diesen Erkenntnissen scheint es dringend geboten, die Existenz dieser Personengruppe in einer Großstadt zu akzeptieren und auf Ursachenbekämpfung anstelle auf Gängelung und Verdrängung zu setzen. Die räumlichen Gegebenheiten haben sich durch den Bau der Sporthalle und die Neugestaltung des Platzes massiv verändert. Die Aussagen von Polizei und Landeshauptstadt hinsichtlich einer veränderten Prioritätensetzung scheinen in diese Richtung zu weisen. Jetzt müssen den Worten nur noch Taten folgen.
 
-Reaktivierung der Aartalbahn
+\
+**Reaktivierung der Aartalbahn**
 
-Antragstext:\
 Der Magistrat wird gebeten, sich zur Reduzierung des Durchgangsverkehrs im Westend für eine rasche Reaktivierung der Aartalbahn auf der gesamten vorhandenen Trasse für den Schienenpersonennahverkehr einzusetzen und die Voraussetzungen hierfür zu prüfen.
 
 Begründung:
 
-6. Nach dem Vorbild der Taunusbahn im Hochtaunuskreis, die sich seit ihrer Wiederinbetriebnahme einer zunehmenden Nachfrage erfreut und zu Stoßzeiten auch durchgehende Züge von Grävenwiesbach bis zum Frankfurter Hauptbahnhof anbietet, könnten auch auf der vorhandenen Aartalbahntrasse durch attraktive Angebote Pendler und Reisende zum Umsteigen vom Auto und Bus auf die Schiene motiviert werden. So wäre auch eine direkte und rasche Bahnanbindung des Aartals an Frankfurt und Mainz möglich.
-7. Damit verbunden wäre eine Verringerung des Durchgangsverkehrs im Westend auf dem 1. und 2. Ring und somit eine Reduzierung von Schadstoffausstoß und Lärmbelästigung für die Anwohner.
-8. Eine Reaktivierung der Aartalbahn wäre nach Angaben des Vereins Nassauische Touristikbahn e.V. (NTB) mit einem relativ geringen Betrag finanzierbar sowie auch in einem relativ kurzen Zeitraum technisch machbar und sollte im Zusammenhang mit dem angedrohten Dieselfahrverbot in das Maßnahmenpaket der Landeshauptstadt Wiesbaden aufgenommen werden.
-9. Mögliche Haltepunkte (und ggf. Bedarfshalte) in Dotzheim, Kohlheck und Waldstraße/Schiersteiner Straße hätten auch im Wiesbadener Stadtgebiet einen relativ großen Einzugsbereich.
-10. Das vom Ortsbeirat einstimmig begrüßte längerfristige Projekt einer City-Bahn steht einer zügigen Reaktivierung der Aartalbahn nicht im Wege und kann damit sinnvoll verknüpft werden.
+* Nach dem Vorbild der Taunusbahn im Hochtaunuskreis, die sich seit ihrer Wiederinbetriebnahme einer zunehmenden Nachfrage erfreut und zu Stoßzeiten auch durchgehende Züge von Grävenwiesbach bis zum Frankfurter Hauptbahnhof anbietet, könnten auch auf der vorhandenen Aartalbahntrasse durch attraktive Angebote Pendler und Reisende zum Umsteigen vom Auto und Bus auf die Schiene motiviert werden. So wäre auch eine direkte und rasche Bahnanbindung des Aartals an Frankfurt und Mainz möglich.
+* Damit verbunden wäre eine Verringerung des Durchgangsverkehrs im Westend auf dem 1. und 2. Ring und somit eine Reduzierung von Schadstoffausstoß und Lärmbelästigung für die Anwohner.
+* Eine Reaktivierung der Aartalbahn wäre nach Angaben des Vereins Nassauische Touristikbahn e.V. (NTB) mit einem relativ geringen Betrag finanzierbar sowie auch in einem relativ kurzen Zeitraum technisch machbar und sollte im Zusammenhang mit dem angedrohten Dieselfahrverbot in das Maßnahmenpaket der Landeshauptstadt Wiesbaden aufgenommen werden.
+* Mögliche Haltepunkte (und ggf. Bedarfshalte) in Dotzheim, Kohlheck und Waldstraße/Schiersteiner Straße hätten auch im Wiesbadener Stadtgebiet einen relativ großen Einzugsbereich. Das vom Ortsbeirat einstimmig begrüßte längerfristige Projekt einer City-Bahn steht einer zügigen Reaktivierung der Aartalbahn nicht im Wege und kann damit sinnvoll verknüpft werden.
 
-Bachabschnitt auf dem Quartiersplatz
 
-Antragstext:\
+
+**Bachabschnitt auf dem Quartiersplatz**
+
 Der Magistrat wird gebeten zu berichten, wann mit der Wiederinbetriebnahme des Bachabschnitts auf dem Platz der Deutschen Einheit zu rechnen ist.
-
-Begründung:
 
 Der stark frequentierte Quartiersplatz ist Treffpunkt für zahlreiche Menschen aus allen Bevölkerungsschichten. Er ist eine kleine grüne Oase mitten auf dem Platz der Deutschen Einheit und soll auch das Stadtklima verbessern. Insbesondere der Bachlauf ist attraktiv für Familien mit Kindern. Die Stadt gab in verschiedenen Pressemitteilungen an, dass der Platz „gut angenommen wird“. Damit dies auch so bleibt und der Quartiersplatz nicht „kippt“, ist die Pflege besonders wichtig. Wenn aufgrund des heißen Sommers die Wiese vertrocknet auch noch der Bachlauf ausgeschaltet ist, bietet der Platz ein katastrophales Erscheinungsbild. Die zunehmende Vermüllung senkt weiter die Attraktivität des Platzes, der insbesondere im Sommer ein Platz zum Verweilen sein sollte.
 
-Gegen Immobilienleerstand
 
-Antragstext:
+
+**Gegen Immobilienleerstand**
 
 Wir fordern den Magistrat der LH Wiesbaden auf, sich gegenüber dem Hessischen Landtag und der Hessischen Landesregierung dafür einzusetzen, dass die bis 2004 bestehende Landesverordnung zur Regulierung von Immobilienleerstand und Zweckentfremdung wieder in Kraft gesetzt wird und damit die Kommunen die rechtliche Grundlage für eine entsprechende kommunale Satzung erhalten.
 
-Ortsbeirat bei der Digitalisierung des Verkehrs beteiligen
+**Ortsbeirat bei der Digitalisierung des Verkehrs beteiligen**
 
-Antragstext:\
 Der Ortsbeirat fordert den Magistrat auf, die betroffenen Ortsbeiräte umgehend und ausführlich über das Verkehrsdigitalisierungsprojekt (DIGI-V) zu informieren und seine Stellungnahme einzuholen.
 
-Begründung:
-
-Nach den Richtlinien über die Beteiligung der Ortsbeiräte im Rahmen der Hessischen Gemeindeordnung (§ 82 HGO) sind diese zwingend und rechtzeitig bei Planungen von Verkehrsanlagen, insbesondere bei Verkehrsberuhigungsmaßnahmen in Wohnbezirken, sowie Lichtzeichenanlagenprogrammen zu beteiligen. Die Vorlagen für das Verkehrsdigitalisierungsprojekt (DIGI-V) sind in den Stadtverordnetenversammlungen vom 6. September 2018 (im Grundsatz) und am 8. November 2018 (Finanzierung) ohne Beteiligung der betroffenen Ortsbeiräte beschlossen worden. Dies ist ein Verstoß gegen die Hessische Gemeindeordnung.\
+Begründung: Nach den Richtlinien über die Beteiligung der Ortsbeiräte im Rahmen der Hessischen Gemeindeordnung (§ 82 HGO) sind diese zwingend und rechtzeitig bei Planungen von Verkehrsanlagen, insbesondere bei Verkehrsberuhigungsmaßnahmen in Wohnbezirken, sowie Lichtzeichenanlagenprogrammen zu beteiligen. Die Vorlagen für das Verkehrsdigitalisierungsprojekt (DIGI-V) sind in den Stadtverordnetenversammlungen vom 6. September 2018 (im Grundsatz) und am 8. November 2018 (Finanzierung) ohne Beteiligung der betroffenen Ortsbeiräte beschlossen worden. Dies ist ein Verstoß gegen die Hessische Gemeindeordnung.\
 Die Ortsbeiräte insbesondere im Innenstadtbereich sind in hohem Maße betroffen und an einer Verminderung des Durchgangsverkehrs interessiert. Für uns stellt sich die dringende Frage, ob die für das Verkehrsdigitalisierungsprojekt vorgesehenen 30 Millionen Euro nicht besser in eine Reaktivierung der Aartalbahn gesteckt werden sollten. Damit könnte ein alternatives Verkehrsmittel für den Pendler- und Durchgangsverkehr angeboten werden.
 
-Trinkstelle am Faulbrunnenplatz\
-\
-Antragstext:\
-Der Magistrat wird gebeten zu berichten, wann die Trinkstelle des Faulbrunnens wieder aktiviert wird? Was sind die Gründe für die Verunreinigung des Quellwassers, die Mattiaqua nach Laboruntersuchungen festgestellt hat?\
-Begründung:
+**Trinkstelle am Faulbrunnenplatz**
 
-Die Trinkstelle des Faulbrunnens ist derzeit ausgeschaltet. Nach einer Wasseruntersuchung von Mattiaqua wurden Keime gefunden. Daraufhin wurden alle Leitungen und Pumpen gespült und desinfiziert. Dennoch bleibt die Trinkstelle trocken.\
+Der Magistrat wird gebeten zu berichten, wann die Trinkstelle des Faulbrunnens wieder aktiviert wird? Was sind die Gründe für die Verunreinigung des Quellwassers, die Mattiaqua nach Laboruntersuchungen festgestellt hat?
+
+Begründung: Die Trinkstelle des Faulbrunnens ist derzeit ausgeschaltet. Nach einer Wasseruntersuchung von Mattiaqua wurden Keime gefunden. Daraufhin wurden alle Leitungen und Pumpen gespült und desinfiziert. Dennoch bleibt die Trinkstelle trocken.\
 \
 \
-Schulwegsicherung Emser Straße\
-\
-Antragstext:\
-Der Magistrat wird gebeten zu berichten, wann der Schutzblinker an der Emser Straße/Ecke Riederbergstraße angebracht wird?\
-Begründung:
+**Schulwegsicherung Emser Straße** 
+
+Der Magistrat wird gebeten zu berichten, wann der Schutzblinker an der Emser Straße/Ecke Riederbergstraße angebracht wird?
 
 Die Sicherung des Schulweges aus dem Inneren Westend in die Riederbergschule (Übergang Emser Straße/Riederbergstraße) sollte oberste Priorität haben. Das Dezernat für Umwelt, Grünflächen und Verkehr hält die Einrichtung eines Schutzblinkers an dieser gefährlichen Kreuzung für notwendig und versprach die Umsetzung für die zweite Jahreshälfte 2018. Die Dringlichkeit dieser Maßnahme resultiert daraus, dass gerade in der Winterzeit morgens die Kinder aufgrund der Dunkelheit besonders gefährdet sind.
 
-[](<>)Freier Eintritt ins Schwimmbad für Kinder und Jugendliche\
 \
-Antragstext:\
+**Freier Eintritt ins Schwimmbad für Kinder und Jugendliche**
+
 Der Magistrat der Landeshauptstadt Wiesbaden wird gebeten zu prüfen, ob es machbar ist (analog zu den Regelungen, die die Stadt Frankfurt am Main eingeführt hat), Kindern und Jugendlichen bis zum 14. Lebensjahr kostenlosen Eintritt in die städtischen Schwimmbäder zu gewähren und dem Ortsbeirat Westend/Bleichstraße die Ergebnisse seiner Prüfung mitzuteilen.\
 Begründung:
 
@@ -482,7 +442,7 @@ Neben dem gesundheitlichen Aspekt wird von Experten aber auch auf den sozialen u
 Ein weiterer Effekt könnte sein, dass Einnahmen steigen, wenn (zahlende) Erwachsene ihre Kinder ins Schwimmbad begleiten.\
 \
 \
-Probleme bei der Postzustellung
+**Probleme bei der Postzustellung**
 
 \
 Antragstext:\
@@ -491,115 +451,73 @@ Der Magistrat der LH Wiesbaden wird gebeten, bei der Deutschen Post AG darauf hi
 * dass die zur Verfügung stehenden Postagenturen an Werktagen nachmittags durchgehend bis 18 Uhr geöffnet sind,
 * die Qualität der Postzustellung verbessert wird.
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
 
-Ergänzungsantrag zum TOP 7 (Trinkstelle am Faulbrunnenplatz ) vom 20.03.2019
 
-Einfügen nach dem letzten Satz (fettgedruckt):\
-Der Magistrat wird gebeten zu berichten, wann die Trinkstelle des Faulbrunnens wieder aktiviert wird? Was sind die Gründe für die Verunreinigung des Quellwassers, die Mattiaqua nach Laboruntersuchungen festgestellt hat? Welche Verunreinigungen wurden im Wasser festgestellt?
+**Ergänzungsantrag Faulbrunnenplatz**
 
-Welche Maßnahmen zur Abhilfe wären erforderlich und welche wurden davon bereits eingeleitet?
+Einfügen nach dem letzten Satz (fettgedruckt): Der Magistrat wird gebeten zu berichten, wann die Trinkstelle des Faulbrunnens wieder aktiviert wird? Was sind die Gründe für die Verunreinigung des Quellwassers, die Mattiaqua nach Laboruntersuchungen festgestellt hat? Welche Verunreinigungen wurden im Wasser festgestellt? Welche Maßnahmen zur Abhilfe wären erforderlich und welche wurden davon bereits eingeleitet?
 
-Begründung:
+Begründung: Die Trinkstelle des Faulbrunnens ist derzeit ausgeschaltet. Nach einer Wasseruntersuchung von Mattiaqua wurden Keime gefunden. Daraufhin wurden alle Leitungen und Pumpen gespült und desinfiziert. Dennoch bleibt die Trinkstelle trocken.
 
-Die Trinkstelle des Faulbrunnens ist derzeit ausgeschaltet. Nach einer Wasseruntersuchung von Mattiaqua wurden Keime gefunden. Daraufhin wurden alle Leitungen und Pumpen gespült und desinfiziert. Dennoch bleibt die Trinkstelle trocken.
-
-Versenkbarer Poller am Eingang der Fußgängerzone Wellritzstraße\
 \
-Antragstext:\
-Der Magistrat wird gebeten, einen versenkbaren Poller am Eingang der Fußgängerzone Wellritzstraße schnellstmöglich zu installieren.\
+**Versenkbarer Poller am Eingang der Fußgängerzone Wellritzstraße**\
 \
-Begründung:
+Der Magistrat wird gebeten, einen versenkbaren Poller am Eingang der Fußgängerzone Wellritzstraße schnellstmöglich zu installieren. 
 
-Die Einführung der Fußgängerzone in der Wellritzstraße zwischen Hellmund- und Helenenstraße hat sich nach den ersten Wochen zu einem großen Erfolg entwickelt. Damit dies auch so bleibt, muss das Problem des Durchgangsverkehrs gelöst werden. Die Erfahrungen haben gezeigt, dass mit Abzug der Verkehrspolizei Kraftfahrzeuge illegal diesen Streckenabschnitt durchfahren. Die befragten Verkehrspolizisten haben daraufhin gewiesen, dass nur ein elektronisch betriebener Poller dieses Problem beheben kann. Wenn erst bis Ende der einjährigen Testphase mit Umbaumaßnahmen begonnen wird, kann dies zu spät sein, weil die Stimmung unter den Geschäftsleuten sowie Anwohnern gekippt ist. Außerdem ist es auch eine gefährliche Situation für die auf der Straße spielenden Kinder, wenn unkontrolliert PKW durch die Fußgängerzone fahren.\
+Begründung: Die Einführung der Fußgängerzone in der Wellritzstraße zwischen Hellmund- und Helenenstraße hat sich nach den ersten Wochen zu einem großen Erfolg entwickelt. Damit dies auch so bleibt, muss das Problem des Durchgangsverkehrs gelöst werden. Die Erfahrungen haben gezeigt, dass mit Abzug der Verkehrspolizei Kraftfahrzeuge illegal diesen Streckenabschnitt durchfahren. Die befragten Verkehrspolizisten haben daraufhin gewiesen, dass nur ein elektronisch betriebener Poller dieses Problem beheben kann. Wenn erst bis Ende der einjährigen Testphase mit Umbaumaßnahmen begonnen wird, kann dies zu spät sein, weil die Stimmung unter den Geschäftsleuten sowie Anwohnern gekippt ist. Außerdem ist es auch eine gefährliche Situation für die auf der Straße spielenden Kinder, wenn unkontrolliert PKW durch die Fußgängerzone fahren.\
 \
 \
-Rattenplage in der Sedanstraße 1\
-\
-Antragstext:\
+**Rattenplage in der Sedanstraße 1** 
+
 Der Magistrat wird gebeten zu berichten, inwieweit die Rattenplage in der Sedanstraße 1 eingedämmt werden kann.
 
+Begründung: Anwohner und Fußgänger berichteten wiederholt über unhygienische Zustände in der Garage des Hauses in der Sedanstraße 1, in der sich Müllcontainer, Müllsäcke und anderer Unrat befinden. Ratten bevölkern am hellichten Tag den Bürgersteig. Trotz mehrmaliger Beschwerden seitens einiger Anwohner beim Hausbesitzer folgten keine Taten zur Bekämpfung der Ratten. Neben den zahlreichen Kindern, die täglich an diesem Haus zur Riederbergschule vorbei laufen, leben dort auch viele Familien mit Kindern, die sich gerade in den wärmeren Tagen im Freien aufhalten.
+
+Bei einem Befall von Ratten ist immer von der Erforderlichkeit einer Bekämpfung auszugehen, um eine Gefährdung der öffentlichen Sicherheit und Ordnung zu verhindern. Da der Hauseigentümer nicht tätig wird, sollte jetzt das Ordnungsamt einschreiten.
+
 \
-Begründung:
-
-Anwohner und Fußgänger berichteten wiederholt über unhygienische Zustände in der Garage des Hauses in der Sedanstraße 1, in der sich Müllcontainer, Müllsäcke und anderer Unrat befinden. Ratten bevölkern am hellichten Tag den Bürgersteig. Trotz mehrmaliger Beschwerden seitens einiger Anwohner beim Hausbesitzer folgten keine Taten zur Bekämpfung der Ratten. Neben den zahlreichen Kindern, die täglich an diesem Haus zur Riederbergschule vorbei laufen, leben dort auch viele Familien mit Kindern, die sich gerade in den wärmeren Tagen im Freien aufhalten.
-
-Bei einem Befall von Ratten ist immer von der Erforderlichkeit einer Bekämpfung auszugehen, um eine Gefährdung der öffentlichen Sicherheit und Ordnung zu verhindern. Da **der Hauseigentümer nicht tätig wird, sollte jetzt das** Ordnungsamt einschreiten.
-
-Leerstandskataster einführen
-
-Antragstext:
+**Leerstandskataster einführen**
 
 Vor dem Hintergrund steigender Mieten, Spekulation mit Wohnungen und Wohnungsnot bittet der Ortsbeirat Westend/Bleichstraße den Magistrat der Landeshauptstadt Wiesbaden darum, Schritte zu ergreifen, um den offensichtlichen Wohnungsleerstand im Westend deutlich zu reduzieren. Insbesondere fordern wir den Magistrat zur Erstellung eines Leerstandskatasters auf.
 
-**Begründung:**
-
-Der Bedarf an Wohnraum in Wiesbaden ist hoch, es gehört zu den dringlichsten Aufgaben der Stadtpolitik die Wohnungsnot zu beseitigen. Dies kann nicht allein durch die Errichtung neuer Wohnbaugebiete geschehen, auch die vorhandenen leerstehenden Wohnungen müssen wieder einer Nutzung zugeführt werden. Mit der Einführung eines auch vom neuen Oberbürgermeister Gert-Uwe Mende angekündigten Leerstandskatasters erhält die Stadt eine Übersicht über leerstehende Immobilien und kann hierdurch gezielter gegen Spekulanten vorgehen. Zunehmender Leerstand führt außerdem zu einer Verwahrlosung des Stadtteils und das können wir nicht einfach hinnehmen.
+Begründung: Der Bedarf an Wohnraum in Wiesbaden ist hoch, es gehört zu den dringlichsten Aufgaben der Stadtpolitik die Wohnungsnot zu beseitigen. Dies kann nicht allein durch die Errichtung neuer Wohnbaugebiete geschehen, auch die vorhandenen leerstehenden Wohnungen müssen wieder einer Nutzung zugeführt werden. Mit der Einführung eines auch vom neuen Oberbürgermeister Gert-Uwe Mende angekündigten Leerstandskatasters erhält die Stadt eine Übersicht über leerstehende Immobilien und kann hierdurch gezielter gegen Spekulanten vorgehen. Zunehmender Leerstand führt außerdem zu einer Verwahrlosung des Stadtteils und das können wir nicht einfach hinnehmen.
 
 \
-Leerstand im inneren Westend
-
-Antragstext:
+**Leerstand im Inneren Westend**
 
 Der Magistrat wird gebeten zu berichten, ob von Seiten der Stadt Maßnahmen ergriffen werden, den Leerstand in der Wellritzstraße Nr. 42 zu beseitigen. Ist es richtig, dass sich die Immobilie im Eigentum der Stadt Wiesbaden befindet? Gibt es ein Konzept zur Instandhaltung/Restaurierung des Gebäudekomplexes?
 
 Gibt es von Seiten der Stadt Informationen bis wann die Baumaßnahmen in der Walramstraße 13 abgeschlossen werden und der Bürgersteig wieder für die Öffentlichkeit zugänglich ist?
 
-Begründung:
-
-* Nach Abfallen von Dachziegeln auf den Bürgersteig vor dem Haus in der Wellritzstraße Nr. 42 wurde das Haus umgehend von der Stadt eingerüstet, um Personen vor herunterfallenden Dachziegeln zu schützen. In der Hoffnung den kompletten Gebäudekomplex zu sanieren und wieder Wohnraum zu schaffen, zogen die Arbeiter aber nach getaner Arbeit wieder ab.
-* Nach dem Brand des Hauses in der Walramstraße 13 im Dezember 2017 befindet sich das Gebäude nach wie vor in einem desolaten Zustand. Bau- bzw. Renovierungsmaßnahmen sind kaum zu erkennen. Der abgesperrte Fußgängerbereich wird von privaten PKW als Parkplatz genutzt. Erschwerend kommt hinzu, dass jetzt auch der gegenüberliegende Bürgersteig durch die Einrüstung des Hauses gesperrt ist.
+Begründung: Nach Abfallen von Dachziegeln auf den Bürgersteig vor dem Haus in der Wellritzstraße Nr. 42 wurde das Haus umgehend von der Stadt eingerüstet, um Personen vor herunterfallenden Dachziegeln zu schützen. In der Hoffnung den kompletten Gebäudekomplex zu sanieren und wieder Wohnraum zu schaffen, zogen die Arbeiter aber nach getaner Arbeit wieder ab. \
+Nach dem Brand des Hauses in der Walramstraße 13 im Dezember 2017 befindet sich das Gebäude nach wie vor in einem desolaten Zustand. Bau- bzw. Renovierungsmaßnahmen sind kaum zu erkennen. Der abgesperrte Fußgängerbereich wird von privaten PKW als Parkplatz genutzt. Erschwerend kommt hinzu, dass jetzt auch der gegenüberliegende Bürgersteig durch die Einrüstung des Hauses gesperrt ist.
 
 \
-Wohnraumzweckentfremdung durch gewerbliche Internetplatformen
-
-Antragstext:
+**Wohnraumzweckentfremdung durch gewerbliche Internetplatformen**
 
 Der Magistrat der LH Wiesbaden wird um Mitteilung gebeten, ob ihm Fälle befristeter privater Wohnungsvermittlung im Westend für Touristen über gewerbliche Internetplatformen wie AirBNB, Wimdu oder 9Flats zu Lasten von regulärem und permanentem Wohnraum für Wohnungssuchende und Übernachtungen in Einrichtungen des Hotelgewerbes bekannt sind.
 
-Begründung:\
-AirBNB wirbt im Internet mit Ferienwohnungen in zentraler Lage von Wiesbaden. Nach Aussagen einer Bewohnerin haben Touristen ihr gegenüber angegeben, über AirBNB eine Ferienwohnung in der Goebenstraße angemietet zu haben.
+Begründung: AirBNB wirbt im Internet mit Ferienwohnungen in zentraler Lage von Wiesbaden. Nach Aussagen einer Bewohnerin haben Touristen ihr gegenüber angegeben, über AirBNB eine Ferienwohnung in der Goebenstraße angemietet zu haben.
 
-Einladung an Milnitzki
-
-Antragstext:
+**Einladung an Milnitzki**
 
 Der Ortsbeirat lädt zu seiner nächsten Sitzung den Frankfurter Investor und Immobilienmakler Avraham Milnitzki ein, um über Perspektiven einer sinnvollen Nutzung des seit Jahren weitgehend leerstehenden Gebäudes Bismarckring 23 und die Schaffung von dringend benötigtem Wohnraum zu sprechen.
 
-Begründung:
+Begründung: „Das Gebäude wird in absehbarer Zeit instand gesetzt“, hatte Milnitzki im April 2018 zugesichert. (Quelle: *[www.mensch-westend.de/2018/04/27/5966/)](<http://www.mensch-westend.de/2018/04/27/5966/).Knapp>)*. Knapp anderthalb Jahre später ist noch nichts geschehen.
 
-„Das Gebäude wird in absehbarer Zeit instand gesetzt“, hatte Milnitzki im April 2018 zugesichert. (Quelle: *[www.mensch-westend.de/2018/04/27/5966/)](<http://www.mensch-westend.de/2018/04/27/5966/).Knapp>)*.
-
-Knapp anderthalb Jahre später ist noch nichts geschehen.
-
-Zebrastreifen Blücherstraße
-
-Antragstext:
+\
+**Zebrastreifen Blücherstraße**
 
 Der Magistrat der Landeshauptstadt Wiesbaden wird gebeten, an der Kreuzung Blücherstraße/Gneisenaustraße auf der Höhe der bestehenden Verkehrsinsel zwischen der Eck-Gaststätte und dem polnischem Einzelhandelsgeschäft einen Zebrastreifen und Warnhinweise anzubringen.
 
-**Begründung:**
-
-Die Kreuzung ist durch Busse, Pkw und Lkw stark frequentiert. Da sich die Bushaltestelle für Stadt- und Umlandbusse in unmittelbarer Nähe befindet, ist die Gefährdung für Fußgänger hier besonders groß.
+Begründung: Die Kreuzung ist durch Busse, Pkw und Lkw stark frequentiert. Da sich die Bushaltestelle für Stadt- und Umlandbusse in unmittelbarer Nähe befindet, ist die Gefährdung für Fußgänger hier besonders groß.
 
 \
-Zur Absage des Eigentümers der Liegenschaft Bismarckring 23, Avraham Milnitzki
+**Zur Absage des Eigentümers der Liegenschaft Bismarckring 23, Avraham Milnitzki**
 
-Antragstext:\
 Der Magistrat der LH Wiesbaden wird gebeten, gegenüber der Firma Milnitzki darauf zu drängen, dass eine von Herrn Avraham Milnitzki bevollmächtigte Person der Einladung des Ortsbeirats zum Gespräch über die Zukunft der Liegenschaft Bismarckring 23 folgt.
 
-Begründung:
-
-Der Ortsbeirat Westend hat in seiner letzten Sitzung auf Antrag der Fraktion DIE LINKE beschlossen, den Eigentümer der Liegenschaft Bismarckring 23 zur nächsten Sitzung einzuladen. Nun liegt uns die durch die Berliner Anwaltskanzlei Mühlig übermittelte Absage vor. Er könne „aufgrund seines schlechten gesundheitlichen Zustandes nicht an der Sitzung teilnehmen“, so das Schreiben des Anwalts, der gleichzeitig im Namen seines Mandanten wünscht, über etwaige Beschlüsse informiert zu werden.
+Begründung: Der Ortsbeirat Westend hat in seiner letzten Sitzung auf Antrag der Fraktion DIE LINKE beschlossen, den Eigentümer der Liegenschaft Bismarckring 23 zur nächsten Sitzung einzuladen. Nun liegt uns die durch die Berliner Anwaltskanzlei Mühlig übermittelte Absage vor. Er könne „aufgrund seines schlechten gesundheitlichen Zustandes nicht an der Sitzung teilnehmen“, so das Schreiben des Anwalts, der gleichzeitig im Namen seines Mandanten wünscht, über etwaige Beschlüsse informiert zu werden.
 
 Wir gehen davon aus, dass Herr Milnitzki über frühere Beschlüsse des Ortsbeirats zum jahrelangen Leerstand seiner Liegenschaft Bismarckring 23 informiert ist. Allerdings müssen wir auch zur Kenntnis nehmen, dass er in der Vergangenheit demonstratives Desinteresse am Standpunkt des demokratisch gewählten Ortsbeirats zum Thema gezeigt hat.
 
@@ -610,18 +528,14 @@ Wenn Herr Milnitzki aus gesundheitlichen Gründen der Einladung nicht folgen kan
 Sollte ihn sein Gesundheitszustand längerfristig davon abhalten, seine Liegenschaft umgehend zu sanieren und Wohnungssuchenden zur Miete anzubieten, so wäre es angemessen, wenn Herr Milnitzki die Immobilie in andere, am besten öffentliche Hände übergäbe. Wir erinnern an die im Grundgesetz festgeschriebene Sozialbindung des Eigentums und an die verfassungsrechtliche Möglichkeit der Enteignung, wie sie beispielsweise bei Straßenbaumaßnahmen in diesem Lande häufig praktiziert wird.
 
 \
-Sichereres Überqueren der Scharnhorststraße bei den beiden Eingängen der Blücherschule
-
-Antragstext:
+**Sichereres Überqueren der Scharnhorststraße bei den beiden Eingängen der Blücherschule**
 
 Der Magistrat wird gebeten in der Scharnhorststraße vor der Blücherschule
 
 * beim Schultoreingang, linker Eingang, dahingehend bauliche Veränderungen vorzunehmen, wie sie bereits beim unteren (rechten) Eingang bestehen (Fahrbahnverengung, Straßenschwelle).
 * bei beiden Schultoreingängen Zebrastreifen zu errichten für ein sichereres Überqueren der Straße für die Schulkinder.
 
-Begründung:
-
-Durch den Bau der Turnhalle und die Gestaltung eines erweiterten Spiel- und Kletterareals auf der linken Seite der Schule wird das linke Schultor (zweiter Eingang) von wesentlich mehr Schüler_innen benutzt als früher. Eine Zeit lang war dieses Schultor komplett abgeschlossen.
+Begründung: Durch den Bau der Turnhalle und die Gestaltung eines erweiterten Spiel- und Kletterareals auf der linken Seite der Schule wird das linke Schultor (zweiter Eingang) von wesentlich mehr Schüler_innen benutzt als früher. Eine Zeit lang war dieses Schultor komplett abgeschlossen.
 
 Vor diesem Eingang befinden sich direkt Parkplätze. Sie nehmen den Grundschülern die Sicht und behindern ein sicheres Überqueren der Straße. Auch wenn sich zwanzig Meter weiter ein erkennbarer Überquerungsweg befindet, schlängeln sich hier viele Kinder durch die parkenden Autos, um auf die andere Straßenseite zu gelangen.
 
@@ -633,39 +547,30 @@ Leider sind langsam fahrende PKWs, Kleintransporter und LKWs eine Ausnahme. Auch
 
 Durch die Zebrastreifen weiß der Autofahrer, dass eine Überquerung besteht, da er nicht sehen kann, dass und wo sich die Schuleingänge befinden, da ihm durch die parkenden Fahrzeuge die diesbezügliche Sicht genommen wird.
 
-Umwandlung von Miet- in Eigentumswohnungen verhindern!
-
-Antragstext:
+\
+**Umwandlung von Miet- in Eigentumswohnungen verhindern!**
 
 Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat der Landeshauptstadt Wiesbaden, die erforderlichen Schritte zum Erlass einer Erhaltungssatzung für das Westend durchzuführen.
 
-Begründung:
+Begründung: Die Umwandlung von Miet- in Eigentumswohnungen hat zu erheblichem Unmut und zu persönlichen Sorgen Betroffener im Westend geführt. DIE LINKE fordert deshalb eine Erhaltungssatzung gemäß § 172 BauGB mit dem Ziel des Milieuschutzes.
 
-Die Umwandlung von Miet- in Eigentumswohnungen hat zu erheblichem Unmut und zu persönlichen Sorgen Betroffener im Westend geführt. DIE LINKE fordert deshalb eine Erhaltungssatzung gemäß § 172 BauGB mit dem Ziel des Milieuschutzes.
-
-Baumaßnahme Dotzheimer Straße 63 - Drohende Beeinträchtigung der Nachbarschaft durch Lärm und Abgase motorisierter Fahrzeuge
-
-Antragstext:
+\
+**Baumaßnahme Dotzheimer Straße 63 - Drohende Beeinträchtigung der Nachbarschaft durch Lärm und Abgase motorisierter Fahrzeuge**
 
 Der Magistrat wird gebeten den Ortsbeirat darüber zu informieren, warum ein vorhandenes Wohngebäude abgerissen und der ohnehin schon knappe Wohnraum weiter reduziert werden kann, ohne den betroffenen Ortsbeirat darüber in Kenntnis zu setzen.\
 Angesichts der nun bereits vollendeten Tatsachen wird der Magistrat gebeten, dafür Sorge zu tragen, dass eine Einhausung der Stellplätze erfolgt, um die Belästigung durch Lärm und Emissionen zu vermindern. Eine Begrünung des Daches der Einhausung ist angebracht und gerechtfertigt, um die klimatischen Verhältnisse zu verbessern und den Feinstaubausstoß zu regulieren.
 
-**Begründung:**
-
-In den an den dm-Drogeriemarkt in der Dotzheimer Straße 63 angrenzenden Wohnhäusern gibt es unter den Bewohnern Unmut, weil im Hinterhof mehrerer Häuser in der Scharnhorststraße und der Dotzheimer Straße Stellplätze für diesen Drogeriemarkt sowie weitere Stellplätze vom zuständigen Amt genehmigt wurden. Hier war der Hinterhof zum Teil mit einem Wohnhaus bebaut. Dieses wurde abgerissen, um das Gebäude Dotzheimer Straße 63 durch einen Anbau für den Drogeriemarkt zu erweitern und Stellplätze zu schaffen. Durch die Erweiterung des Drogeriemarkts und den Abriss des Wohnhauses im Hinterhof haben sich die örtlichen Verhältnisse akustisch so verändert, dass nun eine dauerhafte Belastung durch motorisierten Verkehr droht, der die Stellplätze tagsüber im ständigen Wechsel nutzt.\
+Begründung: In den an den dm-Drogeriemarkt in der Dotzheimer Straße 63 angrenzenden Wohnhäusern gibt es unter den Bewohnern Unmut, weil im Hinterhof mehrerer Häuser in der Scharnhorststraße und der Dotzheimer Straße Stellplätze für diesen Drogeriemarkt sowie weitere Stellplätze vom zuständigen Amt genehmigt wurden. Hier war der Hinterhof zum Teil mit einem Wohnhaus bebaut. Dieses wurde abgerissen, um das Gebäude Dotzheimer Straße 63 durch einen Anbau für den Drogeriemarkt zu erweitern und Stellplätze zu schaffen. Durch die Erweiterung des Drogeriemarkts und den Abriss des Wohnhauses im Hinterhof haben sich die örtlichen Verhältnisse akustisch so verändert, dass nun eine dauerhafte Belastung durch motorisierten Verkehr droht, der die Stellplätze tagsüber im ständigen Wechsel nutzt.\
 Angesichts der Wohnungsnot in der Innenstadt ist es ein Skandal, vorhandenen Wohnraum abzureißen, um Parkraum für den Einzelhandel zu schaffen. Die für das Westend typischen Innenhofgebäude stehen laut Denkmalschutz unter Ensembleschutz.
 
 \
-Altkleidercontainer versetzen – Verkehrssicherheit für Schulkinder erhöhen
+**Altkleidercontainer versetzen – Verkehrssicherheit für Schulkinder erhöhen**
 
-Antragstext:\
 Der Magistrat der LH Wiesbaden wird gebeten, die Altkleidercontainer an der Ecke Blücherstraße/ Scharnhorststraße zum Elsässer Platz zu versetzen und damit die Verkehrssicherheit für die Schulkinder zu erhöhen.
 
-Begründung:
+Begründung: Durch den Standort der Altkleidercontainer besteht für die Schulkinder, die hier die Straße in Richtung Bäckerei/Café überqueren, eine Einschränkung der frühzeitigen Erkennung von Gefahrensituation, die an dieser Ecke durch den Straßenverkehr an dieser Ecke entstehen könnten. Ohne Container könnten etwa auch die aus der Scharnhorststraße kommenden Autofahrer die Kinder früher wahrnehmen. So wäre ein Stück mehr Übersichtlichkeit vor allem für die kleinsten und schwächsten Verkehrsteilnehmer möglich.
 
-Durch den Standort der Altkleidercontainer besteht für die Schulkinder, die hier die Straße in Richtung Bäckerei/Café überqueren, eine Einschränkung der frühzeitigen Erkennung von Gefahrensituation, die an dieser Ecke durch den Straßenverkehr an dieser Ecke entstehen könnten. Ohne Container könnten etwa auch die aus der Scharnhorststraße kommenden Autofahrer die Kinder früher wahrnehmen. So wäre ein Stück mehr Übersichtlichkeit vor allem für die kleinsten und schwächsten Verkehrsteilnehmer möglich.
-
-Einfahrt in die Fußgängerzone Wellritzstraße
+**Einfahrt in die Fußgängerzone Wellritzstraße**
 
 Antragstext:\
 Der Magistrat der Stadt Wiesbaden wird gebeten, den Ortsbeirat Westend/Bleichstraße darüber zu informieren, welche möglichen Maßnahmen ergriffen werden können, um die Einfahrt in die Fußgängerzone Wellritzstraße für von der Helenenstraße kommende Verkehre zu verhindern. Die Anbringung eines gut sichtbaren Verkehrsschildes „Durchfahrt verboten“ ist dringend geboten.\
