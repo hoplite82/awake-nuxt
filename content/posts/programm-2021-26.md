@@ -1,6 +1,6 @@
 ---
-title: "Programm 2021-2026: Mehr für die Mehrheit!"
-subtitle: Unsere Forderungen für die kommenden fünf Jahre
+title: 10-Punkte-Programm 2021-2026
+subtitle: Kurzfassung auf einen Blick
 category:
   - Wahlen 2021
   - showstart
