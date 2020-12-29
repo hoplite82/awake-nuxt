@@ -155,245 +155,154 @@ Begründung: Das Westend ist geprägt von einem starken Bevölkerungsaustausch. 
 
 Der Magistrat wird gebeten, auf dem Sedanplatz ein Schild mit dem Hinweis anzubringen, dass die sich dort aufhaltenden HundebesitzerInnen den von ihren Hunden verursachten Kot in den neu anzubringenden Hundekotbeutelspenders zu entsorgen haben.
 
-Begründung:
+Begründung:  Nach der erfolgreichen Eröffnung des „Westend Gardens“ ist es vielen BesucherInnen aufgefallen, dass auf dem Sedanplatz ein solches Hinweisschild genauso wie ein Hundekotbeutelspender fehlt. Ein Anbringen dieses Schildes sowie des Spenders wäre die erste Voraussetzung für einen sauberen Sedanplatz.
 
-Nach der erfolgreichen Eröffnung des „Westend Gardens“ ist es vielen BesucherInnen aufgefallen, dass auf dem Sedanplatz ein solches Hinweisschild genauso wie ein Hundekotbeutelspender fehlt. Ein Anbringen dieses Schildes sowie des Spenders wäre die erste Voraussetzung für einen sauberen Sedanplatz.
 
-Sachstandsbericht Sedanplatz
 
-Antragstext:
+**Sachstandsbericht Sedanplatz**
 
 Der Ortsbeirat Westend bittet den Magistrat um einen Sachstandsbericht, wann es geplant ist, den Kesselbach am Sedanplatz ans Licht zu holen.
 
 Wie weit sind die offiziellen Planungen fortgeschritten? Ist eine Bürgerbeteiligung noch möglich? Falls ja, würde der Ortsbeirat darum bitten zu prüfen, wie bei einer „großen Lösung“ für Gastronomie auf dem Sedanplatz (unter Einbeziehung des gesamten Platzes statt nur seiner Ränder) die Möglichkeit für ein Wassertretbecken und/oder andere sportliche Betätigungen eingeplant werden können.
 
-Begründung:
-
-Der Ortsbeirat hat einstimmig einer probeweisen gastronomischen Nutzung des Sedanplatzes zugestimmt, damit dieser zentrale Platz wieder aufgewertet wird. Die Eröffnung des „Westend Garden“ am 26. und 27. August erwies sich als großer Erfolg und wurde sehr gut angenommen.
+Begründung: Der Ortsbeirat hat einstimmig einer probeweisen gastronomischen Nutzung des Sedanplatzes zugestimmt, damit dieser zentrale Platz wieder aufgewertet wird. Die Eröffnung des „Westend Garden“ am 26. und 27. August erwies sich als großer Erfolg und wurde sehr gut angenommen.
 
 Derzeit wird eine „große Lösung“ für die gastronomische Nutzung des Platzes angestrebt. Gleichzeitig soll in den kommenden Jahren der Kesselbach an die Oberfläche geholt werden. In diesem Rahmen wäre die aktive Nutzung dieses Baches mit Wasserspiel- und Sportmöglichkeiten eine hervorragende Möglichkeit, Leben auf den Platz zu bringen. Der Ortsbeirat bittet darum, bei entsprechenden Planungen für Menschen aller Altersgruppen eine phantasievolle Nutzung des Bachlaufes mitzuplanen.
 
-Infoladen
 
-Antragstext:\
+
+**Infoladen**
+
 Der Magistrat wird gebeten, seine politischen Handlungsmöglichkeiten dahingehend auszuschöpfen, dass das Projekt Infoladen im Wiesbadener Westend weiterexistieren kann.
 
-Begründung:
+Begründung: Der seit 1988 im Westend verwurzelte Infoladen ist in seiner Existenz bedroht. Die Bauaufsichtsbehörde betrachtet die Nutzung der einstmals als Werkstatt zugelassenen Räume als Zweckentfremdung und will die weitere Nutzung untersagen, falls keine Änderung der Raumnutzung beantragt wird. Diese wäre mit hohen Kosten verbunden und würde die Schließung des von ehrenamtlicher Arbeit getragenen unkommerziellen Projekts bedeuten. Die Bauaufsicht hat bei ihrer Entscheidung aber einen Ermessensspielraum, der ausgeschöpft werden muss, denn nach wie vor steht der Werkstattbegriff im Mittelpunkt des Infoladens. Träger des Infoladens ist der Verein Jugendbüro und Werkhof e.V. Er ist als Kultur- und Kreativwerkstatt in der ganzen Stadt bekannt. Neben der Kreativ- und Denkwerkstatt, die politisches und soziales Engagement fördert, gehört der Werkstattbetrieb zu einer festen Größe des Infoladens. Zu den darin realisierten Projekten zählen beispielsweise das Bauen von Möbeln aus Paletten, das Begrünen von Hinterhöfe mit Hochbeeten oder kreatives Upcycling, um scheinbar wertlosen Gegenständen einen neuen Gebrauchswert abzugewinnen. Zu sehen waren diese Aktivitäten z. B. beim diesjährigen Kulturgarten Westend vom 10.-29. September 2016.
 
-Der seit 1988 im Westend verwurzelte Infoladen ist in seiner Existenz bedroht. Die Bauaufsichtsbehörde betrachtet die Nutzung der einstmals als Werkstatt zugelassenen Räume als Zweckentfremdung und will die weitere Nutzung untersagen, falls keine Änderung der Raumnutzung beantragt wird. Diese wäre mit hohen Kosten verbunden und würde die Schließung des von ehrenamtlicher Arbeit getragenen unkommerziellen Projekts bedeuten. Die Bauaufsicht hat bei ihrer Entscheidung aber einen Ermessensspielraum, der ausgeschöpft werden muss, denn nach wie vor steht der Werkstattbegriff im Mittelpunkt des Infoladens. Träger des Infoladens ist der Verein Jugendbüro und Werkhof e.V. Er ist als Kultur- und Kreativwerkstatt in der ganzen Stadt bekannt. Neben der Kreativ- und Denkwerkstatt, die politisches und soziales Engagement fördert, gehört der Werkstattbetrieb zu einer festen Größe des Infoladens. Zu den darin realisierten Projekten zählen beispielsweise das Bauen von Möbeln aus Paletten, das Begrünen von Hinterhöfe mit Hochbeeten oder kreatives Upcycling, um scheinbar wertlosen Gegenständen einen neuen Gebrauchswert abzugewinnen. Zu sehen waren diese Aktivitäten z. B. beim diesjährigen Kulturgarten Westend vom 10.-29. September 2016.
-
-Einrichtung von kostenlosen Toiletten im Westend
-
-Antragstext:
+**Einrichtung von kostenlosen Toiletten im Westend**
 
 Der Magistrat wird gebeten, zu prüfen, wo im Westend kostenlose Toiletten eingerichtet werden können. Dabei sollten die Orte im Vordergrund stehen, die durch "wildes Urinieren" im Verruf sind und wo es somit einen unmittelbaren Bedarf gibt.
 
-Begründung:
+Begründung: Die WC-Benutzung ist ein Grundrecht. Sie darf nicht am Geldbeutel oder fehlendem Kleingeld scheitern. Besonders an Verkehrsknotenpunkten, Plätzen mit großer Fluktuation an Fußgängern, sowie in Parks und auf Spielplätzen sollte es kostenlose Toilettenhäuschen geben. Sie ermöglichen allen Menschen den längeren Aufenthalt im Freien und fördern somit das soziale Miteinander der Menschen.
 
-Die WC-Benutzung ist ein Grundrecht. Sie darf nicht am Geldbeutel oder fehlendem Kleingeld scheitern. Besonders an Verkehrsknotenpunkten, Plätzen mit großer Fluktuation an Fußgängern, sowie in Parks und auf Spielplätzen sollte es kostenlose Toilettenhäuschen geben. Sie ermöglichen allen Menschen den längeren Aufenthalt im Freien und fördern somit das soziale Miteinander der Menschen.
-
-Information über und Einbeziehung bei Bürgerbeteiligungsverfahren
-
-Antragstext:
+\
+**Information über und Einbeziehung bei Bürgerbeteiligungsverfahren**
 
 Der Ortsbeirat Westend bittet darum, über geplante Bürgerbeteiligungsverfahren zeitnah informiert zu werden, insbesondere, wenn diese den Stadtteil in besonderer Weise betreffen.
 
-Begründung:
-
-Zur Zeit laufen in Wiesbaden vier Bürgerbeteiligungsverfahren, weitere sind für das erste halbe Jahr 2017 geplant. Manche betreffen die gesamte Stadt, andere nur einzelne Stadtteile, wieder andere einzelne Stadtteile in unterschiedlichem Maße. Informiert wird u.a. auf der Internetseite der Stadt Wiesbaden.
+Begründung: Zur Zeit laufen in Wiesbaden vier Bürgerbeteiligungsverfahren, weitere sind für das erste halbe Jahr 2017 geplant. Manche betreffen die gesamte Stadt, andere nur einzelne Stadtteile, wieder andere einzelne Stadtteile in unterschiedlichem Maße. Informiert wird u.a. auf der Internetseite der Stadt Wiesbaden.
 
 Der Ortsbeirat wurde bisher nicht direkt über Vorhaben informiert, die den Stadtteil in besonderer Weise betreffen. Das betrifft insbesondere den laufenden Beteiligungsprozess für die Erarbeitung eines "Integrationskonzeptes für Geflüchtete", das 2017 verabschiedet werden soll. Diese Veranstaltungsreihe geht im Dezember in ihre vorerst letzte Runde.
 
 Im Westend ist u.a. der Flüchtlingsrat und der Infoladen zu Hause. Hier gibt es eine große Zahl Geflüchteter und eine große Zahl ehrenamtlicher Helfer und von ihnen initiierte Gruppen. Darum sollte der OBR selbstverständlich informiert und einbezogen werden, obwohl es um ein gesamt-kommunalpolitisches Thema geht, das die gesamte Stadt betrifft.  Obwohl im konkreten Fall der Zug "abgefahren" ist, möchten wir bei künftigen, ähnlich gelagerten Fällen von Anfang an als Ortsbeirat beteiligt werden.
 
-Einrichtung einer Spielstraße in der Walramstraße (Höhe Georg-Buch-Haus)
-
-Antragstext:
+\
+**Einrichtung einer Spielstraße in der Walramstraße (Höhe Georg-Buch-Haus)**
 
 Der Magistrat wird gebeten, die Walramstraße zwischen Wellritz- und Hermannstraße in eine Spielstraße umzuwandeln.
 
-Begründung:
+Begründung: Das Georg-Buch-Haus ist Zentrum der Jugendarbeit im inneren Westend. Jugendzentrum, Arbeiterwohlfahrt, KiTa und viele verschiedene Vereine und Initiativen nutzen diese Räumlichkeiten. Die Stadt Wiesbaden veranstaltet jedes Jahr in der Ferienzeit ein Ferienprogramm, das ein Straßenfest in der Walramstraße beinhaltet. Dieses wurde auch in diesem Jahr von den Kindern aus dem Viertel sehr gut angenommen. Es zeigt die Notwendigkeit, am Georg-Buch-Haus den öffentlichen Spielraum für Kinder im inneren Westend zu erweitern. Ein erster Schritt wäre die Einrichtung einer Spielstraße in diesem Straßenabschnitt.
 
-Das Georg-Buch-Haus ist Zentrum der Jugendarbeit im inneren Westend. Jugendzentrum, Arbeiterwohlfahrt, KiTa und viele verschiedene Vereine und Initiativen nutzen diese Räumlichkeiten. Die Stadt Wiesbaden veranstaltet jedes Jahr in der Ferienzeit ein Ferienprogramm, das ein Straßenfest in der Walramstraße beinhaltet. Dieses wurde auch in diesem Jahr von den Kindern aus dem Viertel sehr gut angenommen. Es zeigt die Notwendigkeit, am Georg-Buch-Haus den öffentlichen Spielraum für Kinder im inneren Westend zu erweitern. Ein erster Schritt wäre die Einrichtung einer Spielstraße in diesem Straßenabschnitt.
-
+\
 **Aufhebung des Gehwegparkens am Kurt-Schumacher-Ring zwischen den Hausnummern 33-41; Anbringen eines Halteverbotszeichens; Vornehmen baulicher Maßnahmen zur Verhinderung missbräulichen Parkens.**
 
-Antragstext:
+Der Ortsbeirat bittet den Magistrat das Gehwegparken an o.g. Örtlichkeit aufzuheben und durch ein Halteverbotszeichen zu ersetzen.
 
-*Der Ortsbeirat bittet den Magistrat das Gehwegparken an o.g. Örtlichkeit aufzuheben und durch ein Halteverbotszeichen zu ersetzen.*
-
-Begründung:
-
-Die örtlichen Gegebenheiten lassen das Fortbestehen eines Gehwegparkens am Kurt-Schumacher-Ring 33-41, zwischen den Einmündungen Lothringer Straße und Nettelbeckstraße (aktuell mit Zeichen 315, alle vier Räder auf dem Gehweg) nicht zu.
-
-Die absolute Restbreite für Gehwege kann nicht gewährleistet werden, die vorhandene Fläche für Fußgänger ist deutlich zu schmal. Dies führt regelmäßig zu Behinderungen, teilweise auch zu Gefährdungen von Fußgängern.
-
-Deswegen stellt die Fraktion DIE LINKE. einen Antrag, um die Straßenverkehrsbehörde auch auf diesem Weg an ihre sachlich zuständigen Aufgaben zu erinnern und aufzufordern tätig zu werden.
-
-Gerade in einem hoch verdichteten Stadtteil wie dem Westend, das von mehreren stark befahrenen Straßen durchzogen ist, ist es unerlässlich, dass die gesetzlichen Mindestbreiten für Fußwege eingehalten werden. Eine angespannte Parkplatzsituation darf nicht zu Lasten "schwächerer" Verkehrsteilnehmer gehen.
-
-Zur Gewährleistung der Mindestgehwegbreite und zur Verhinderung eines missbräulichen Parkens müssen auch bauliche Maßnahmen (Poller, Fahrradabstellanlagen parallel zur Straße) in Betracht gezogen werden. In weiten Teilen des Kurt-Schumacher-Rings sind eben solche Maßnahmen bereits vorgenommen worden.
-
-Angefügt ist ein Auszug aus der VwV StVO zu Zeichen 315:
-
+Begründung: Die örtlichen Gegebenheiten lassen das Fortbestehen eines Gehwegparkens am Kurt-Schumacher-Ring 33-41, zwischen den Einmündungen Lothringer Straße und Nettelbeckstraße (aktuell mit Zeichen 315, alle vier Räder auf dem Gehweg) nicht zu.\
+Die absolute Restbreite für Gehwege kann nicht gewährleistet werden, die vorhandene Fläche für Fußgänger ist deutlich zu schmal. Dies führt regelmäßig zu Behinderungen, teilweise auch zu Gefährdungen von Fußgängern.\
+Deswegen stellt die Fraktion DIE LINKE. einen Antrag, um die Straßenverkehrsbehörde auch auf diesem Weg an ihre sachlich zuständigen Aufgaben zu erinnern und aufzufordern tätig zu werden.\
+Gerade in einem hoch verdichteten Stadtteil wie dem Westend, das von mehreren stark befahrenen Straßen durchzogen ist, ist es unerlässlich, dass die gesetzlichen Mindestbreiten für Fußwege eingehalten werden. Eine angespannte Parkplatzsituation darf nicht zu Lasten "schwächerer" Verkehrsteilnehmer gehen.\
+Zur Gewährleistung der Mindestgehwegbreite und zur Verhinderung eines missbräulichen Parkens müssen auch bauliche Maßnahmen (Poller, Fahrradabstellanlagen parallel zur Straße) in Betracht gezogen werden. In weiten Teilen des Kurt-Schumacher-Rings sind eben solche Maßnahmen bereits vorgenommen worden.\
+Angefügt ist ein Auszug aus der VwV StVO zu Zeichen 315:\
 "Das Parken auf Gehwegen darf nur zugelassen werden, wenn genügend Platz für den unbehinderten Verkehr von Fußgängern gegebenenfalls mit Kinderwagen oder Rollstuhlfahrern auch im Begegnungsverkehr bleibt, die Gehwege und die darunter liegenden Leitungen durch die parkenden Fahrzeuge nicht beschädigt werden können und der Zugang zu Leitungen nicht beeinträchtigt werden kann."
 
-Radweg in der Seerobenstraße
-
-Antragstext:
+\
+**Radweg in der Seerobenstraße**
 
 Der Ortsbeirat bittet den Magistrat um die Einrichtung eines sicheren Radweges vom Dürerplatz zum Sedanplatz.
 
-Begründung:
+Begründung: Fahrradfahrer kommend aus der Innenstadt bzw. aus dem inneren Westend können nicht ungefährdet in die Walkmühlanlagen fahren. Mit dem Beginn des Frühjahrs sind die Walkmühlanlagen ein beliebtes Naherholungsgebiet für die BewohnerInnen des Westends. Insbesondere Eltern mit Kindern sind durch den Autoverkehr gefährdet.
 
-Fahrradfahrer kommend aus der Innenstadt bzw. aus dem inneren Westend können nicht ungefährdet in die Walkmühlanlagen fahren. Mit dem Beginn des Frühjahrs sind die Walkmühlanlagen ein beliebtes Naherholungsgebiet für die BewohnerInnen des Westends. Insbesondere Eltern mit Kindern sind durch den Autoverkehr gefährdet.
-
-Tempo-30 in der Emser Straße
-
-Antragstext:
+\
+**Tempo-30 in der Emser Straße**
 
 Der Ortsbeirat bittet den Magistrat um die Einrichtung einer Tempo-30-Zone in der Emser Straße.
 
-Begründung:
+Begründung: Die Emser Straße wird oft als Schnellstrecke missbraucht. Viele Fußgänger und Fahrradfahrer nutzen den Bürgersteig bzw. die Straße, um in die Fußgängerzone zu kommen. Vor allem Kinder, die in die Riederbergschule gehen, sind durch zu schnell fahrende Autos gefährdet. Ein Tempo-30 erhöht die Sicherheit der Kinder.
 
-Die Emser Straße wird oft als Schnellstrecke missbraucht. Viele Fußgänger und Fahrradfahrer nutzen den Bürgersteig bzw. die Straße, um in die Fußgängerzone zu kommen. Vor allem Kinder, die in die Riederbergschule gehen, sind durch zu schnell fahrende Autos gefährdet. Ein Tempo-30 erhöht die Sicherheit der Kinder.
-
-Sichere Überquerung der Weißenburgstraße
-
-Antragstext:
+\
+**Sichere Überquerung der Weißenburgstraße**
 
 Der Magistrat der Landeshauptstadt Wiesbaden wird gebeten, durch ein Zebrastreifen und ein gelbes Warnblinklicht am unteren Ende der Weißenburgstraße (vom Sedanplatz kommend) die Querung für Fußgänger sicherer zu machen.
 
-Begründung:
+Begründung: Dieser Bereich ist für nicht motorisierte Verkehrsteilnehmer, die die Weißenburgstraße überqueren wollen, lebensbedrohlich. Vor allem Kinder, Senioren und Behinderte sind betroffen, wenn rasende PKW’s vom zweispurigen Bismarckring mit gleichbleibend hoher bzw. erhöhter Geschwindigkeit in die enge Weißenburgstraße fahren. Maßnahmen zur Geschwindigkeitsreduzierung sind daher dringend geboten.
 
-Dieser Bereich ist für nicht motorisierte Verkehrsteilnehmer, die die Weißenburgstraße
-
-überqueren wollen, lebensbedrohlich. Vor allem Kinder, Senioren und Behinderte sind
-
-betroffen, wenn rasende PKW’s vom zweispurigen Bismarckring mit gleichbleibend hoher
-
-bzw. erhöhter Geschwindigkeit in die enge Weißenburgstraße fahren. Maßnahmen zur
-
-Geschwindigkeitsreduzierung sind daher dringend geboten.
-
-Polizeifahrzeuge auf dem Platz der deutschen Einheit
-
-Antragstext:
+\
+**Polizeifahrzeuge auf dem Platz der deutschen Einheit**
 
 Der Ortsbeirat möge beschließen, Rücksprache mit dem Revierleiter des 1. Polizeireviers bzgl. der Durchfahrt von Polizeifahrzeugen über den Platz der deutschen Einheit zu halten und darauf hinzuwirken, dass diese Verbindungsstrecke nur noch in wirklich dringenden Einsatzfällen und unter Inanspruchnahme von Wegerechten (Blaulicht, Signalhorn) befahren werden darf.
 
-Begründung:
+Begründung: Seit der Umgestaltung des Platzes der deutschen Einheit ist zu beobachten, dass Polizeifahrzeuge regelmäßig vom Polizeirevier über den Platz auf die Schwalbacher Straße fahren.\
+[](<>)Bei dem Platz der deutschen Einheit handelt es sich um eine Fußgängerzone, diese ist somit als allgemeine und grundsätzliche Abkürzungsstrecke nicht zu nutzen. Vielmehr muss das Befahren des Platzes zur hoheitlichen Aufgabenerfüllung dringend geboten sein. Dies ergibt sich alleine schon aus § 35 Abs. 1 StVO.\
+In dringenden Einsatzfällen ist die Nutzung des Platzes der deutschen Einheit geboten und somit auch verhältnismäßig, bei Einsätzen oder Streifenfahrten mit untergeordneter Dringlichkeit sollen die Polizeifahrzeuge auch in Zukunft über die Bertramstraße und Dotzheimer Straße in die Innenstadt einfahren.\
+Der Verbindungsweg zwischen der Bertramstraße und der Schwalbacher Straße ist nur unwesentlich breiter als die Polizeifahrzeuge selbst. Hierdurch kommt es immer wieder mindestens zu Behinderungen von Fußgängern und Radfahrern. Fußgänger müssen bei durchfahrenden Polizeifahrzeugen häufig ins Pflanzenbeet ausweichen.\
+Für Rollstuhlfahrer oder mobilitätseingeschränkte Menschen gibt es im Zweifelsfall gar keine Ausweichmöglichkeit. Eben jenes neu gestaltete Beet ist mittlerweile durch die durchfahrenden Fahrzeuge stark in Mitleidenschaft gezogen worden. Dazu kommt, dass sich der Eingang der Elly-Heuß-Schule ebenfalls an dieser Engstelle befindet. Auch aus diesem Grund ist diese schmale Verbindungsstrecke bei nicht dringenden Einsätzen gefährlich und somit gänzlich ungeeignet.
 
-Seit der Umgestaltung des Platzes der deutschen Einheit ist zu beobachten, dass Polizeifahrzeuge regelmäßig vom Polizeirevier über den Platz auf die Schwalbacher Straße fahren.
-
-[](<>)Bei dem Platz der deutschen Einheit handelt es sich um eine Fußgängerzone, diese ist somit als allgemeine und grundsätzliche Abkürzungsstrecke nicht zu nutzen. Vielmehr muss das Befahren des Platzes zur hoheitlichen Aufgabenerfüllung dringend geboten sein. Dies ergibt sich alleine schon aus § 35 Abs. 1 StVO.
-
-In dringenden Einsatzfällen ist die Nutzung des Platzes der deutschen Einheit geboten und somit auch verhältnismäßig, bei Einsätzen oder Streifenfahrten mit untergeordneter Dringlichkeit sollen die Polizeifahrzeuge auch in Zukunft über die Bertramstraße und Dotzheimer Straße in die Innenstadt einfahren.
-
-Der Verbindungsweg zwischen der Bertramstraße und der Schwalbacher Straße ist nur unwesentlich breiter als die Polizeifahrzeuge selbst.
-
-Hierdurch kommt es immer wieder mindestens zu Behinderungen von Fußgängern und Radfahrern.
-
-Fußgänger müssen bei durchfahrenden Polizeifahrzeugen häufig ins Pflanzenbeet ausweichen.
-
-Für Rollstuhlfahrer oder mobilitätseingeschränkte Menschen gibt es im Zweifelsfall gar keine Ausweichmöglichkeit.
-
-Eben jenes neu gestaltete Beet ist mittlerweile durch die durchfahrenden Fahrzeuge stark in Mitleidenschaft gezogen worden.
-
-Dazu kommt, dass sich der Eingang der Elly-Heuß-Schule ebenfalls an dieser Engstelle befindet.
-
-Auch aus diesem Grund ist diese schmale Verbindungsstrecke bei nicht dringenden Einsätzen gefährlich und somit gänzlich ungeeignet.
-
-Straßenreinigungssatzung 2. Stufe wird abgelehnt
-
-Antragstext:
+\
+**Straßenreinigungssatzung 2. Stufe wird abgelehnt**
 
 Der Ortsbeirat Westend/Bleichstraße hat hinsichtlich des jetzt vom Ordnungsdezernenten vorgelegten und vom Magistrat zwecks Beteiligung der Ortsbeiräte zur Kenntnis genommenen Entwurf für die 2. Stufe der Straßenreinigungssatzung erhebliche Bedenken und lehnt die vorgelegte Satzung daher ab.
 
-Begründung:
-
-Nach dem neuen Plan werden viele Straßen von A3 auf A5 heraufgesetzt, manche sogar von A3 auf A7. Das bringt eine Verdoppelung der Gebühren mit sich, die dem Ortsbeirat als unangemessen und überzogen erscheint.
-
-Zugegebenermaßen sind gerade im Westend die Beschwerden über Schmutz hoch. Aus der Häufigkeit der Beschwerden wurde nun eine Verdoppelung der Gehwegreinigung hergeleitet, die so nicht nachvollziehbar erscheint.
-
-Bei genauer Nachprüfung beziehen sich die meisten Beschwerden auf Bereiche anderer Zuständigkeiten wie auf ungepflegte Grünstreifen, überquellende Mülleimer, wochenlang liegen bleibenden Sperrmüll und Ratten im Umfeld von Containern, also „Dreckecken der Stadt“, die mit der Reinigungstaktung kaum etwas zu tun haben.
-
+Begründung: Nach dem neuen Plan werden viele Straßen von A3 auf A5 heraufgesetzt, manche sogar von A3 auf A7. Das bringt eine Verdoppelung der Gebühren mit sich, die dem Ortsbeirat als unangemessen und überzogen erscheint. Zugegebenermaßen sind gerade im Westend die Beschwerden über Schmutz hoch. Aus der Häufigkeit der Beschwerden wurde nun eine Verdoppelung der Gehwegreinigung hergeleitet, die so nicht nachvollziehbar erscheint. Bei genauer Nachprüfung beziehen sich die meisten Beschwerden auf Bereiche anderer Zuständigkeiten wie auf ungepflegte Grünstreifen, überquellende Mülleimer, wochenlang liegen bleibenden Sperrmüll und Ratten im Umfeld von Containern, also „Dreckecken der Stadt“, die mit der Reinigungstaktung kaum etwas zu tun haben.\
 Der Ortsbeirat erwartet einen Vorschlag, der den realen Problemen Rechnung trägt. Der Ortsbeirat weist außerdem darauf hin, dass die grundsätzliche Überarbeitung der Straßenreinigungssystematik, wie versprochen, von einem Prozess breiter Bürgerbeteiligung begleitet werden muss und dass dies bislang unzureichend geschah.
 
-Freiluft-Fitnessgeräte im Westend
+\
+**Freiluft-Fitnessgeräte im Westend**
 
-Antragstext:\
 Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat zu prüfen, wo im Westend Outdoor-Fitness-Geräte aufgestellt werden können. Insbesondere sollte geprüft werden, ob dies auf dem neuen Quartiersplatz möglich ist.
 
-Begründung:
+Begründung: Da es grundsätzlich einen Beschluss zugunsten der Aufstellung dieser Geräte gibt, hat das Grünflächenamt die Eignung öffentlicher Grünflächen für die Ausstattung mit Outdoor-Fitnessgeräten geprüft (Stand 6.3.2015). Allerdings fehlt bei der Auflistung möglicher Standorte das Westend. In dem dicht besiedelten Westend mit überdurchschnittlich vielen BewohnerInnen, die ein unterdurchschnittliches Haushaltseinkommen aufweisen, wäre eine solche Investition besonders vonnöten und willkommen. Hier würden BewohnerInnen angesprochen, die sich einen Fitness-Club nicht leisten können. Neben dem gesundheitlichen Aspekt hilft ein Fitness-Parcour auch gegen soziale Vereinzelung und befördert das Miteinander im Stadtteil über Generationengrenzen und soziale Grenzen hinweg.
 
-Da es grundsätzlich einen Beschluss zugunsten der Aufstellung dieser Geräte gibt, hat das Grünflächenamt die Eignung öffentlicher Grünflächen für die Ausstattung mit Outdoor-Fitnessgeräten geprüft (Stand 6.3.2015). Allerdings fehlt bei der Auflistung möglicher Standorte das Westend.
-
-In dem dicht besiedelten Westend mit überdurchschnittlich vielen BewohnerInnen, die ein unterdurchschnittliches Haushaltseinkommen aufweisen, wäre eine solche Investition besonders vonnöten und willkommen. Hier würden BewohnerInnen angesprochen, die sich einen Fitness-Club nicht leisten können. Neben dem gesundheitlichen Aspekt hilft ein Fitness-Parcour auch gegen soziale Vereinzelung und befördert das Miteinander im Stadtteil über Generationengrenzen und soziale Grenzen hinweg.
-
-Parkmarkierungen in der Yorckstraße
-
-Antragstext:
+**Parkmarkierungen in der Yorckstraße**
 
 Der Ortsbeirat bittet den Magistrat darum, die quer zur Fahrtrichtung gelegenen Parkplätze in der Yorckstraße entlang des Grundstücks der Blücherschule mit Parkmarkierungen zu versehen.
 
-Begründung:
+Begründung: Parkraum wird häufig durch unüberlegtes, uneffizientes und vielleicht auch egoistisches Parken zugestellt. Auf den Boden gemalte Parkmarkierungen tragen bei nur geringem Aufwand dazu bei, die vorhandenen Stellflächen bestmöglich zu nutzen.
 
-Parkraum wird häufig durch unüberlegtes, uneffizientes und vielleicht auch egoistisches Parken zugestellt. Auf den Boden gemalte Parkmarkierungen tragen bei nur geringem Aufwand dazu bei, die vorhandenen Stellflächen bestmöglich zu nutzen.
-
-Fahrscheinautomaten
-
-Antragstext:
+\
+**Fahrscheinautomaten**
 
 Der Ortsbeirat bittet den Magistrat darum, bei der ESWE-Verkehrsgesellschaft darauf einzuwirken, dass an den Haltestellen Gneisenaustraße und Bleichstraße stadteinwärts Fahrscheinautomaten aufgestellt und in Betrieb genommen werden.
 
-Begründung:
+Begründung: Diese Haltestellen und hier verkehrenden Busse sind sehr stark frequentiert. Der Verkauf von Fahrscheinen durch die Fahrer verzögert den Betrieb zusätzlich. 
 
-Diese Haltestellen und hier verkehrenden Busse sind sehr stark frequentiert. Der Verkauf von Fahrscheinen durch die Fahrer verzögert den Betrieb zusätzlich.
+**Auswirkungen der Bildung einer Bundesfernstraßengesellschaft und der möglichen Autobahnprivatisierung auf das Westend**
 
-Auswirkungen der Bildung einer Bundesfernstraßengesellschaft und der möglichen Autobahnprivatisierung auf das Westend
+Der Magistrat wird gebeten, durch Einbeziehung von Gutachtern festzustellen, welche Konsequenzen die von der Bundesregierung geplanten Grundgesetzänderungen zur Überführung der bisherigen Autobahnverwaltung in ein privat-rechtliches Unternehmen und damit zum Einstieg in die Privatisierung der Bundesautobahnen und Erhebung einer Maut für das Verkehrsaufkommen und die Bewohner in unserem Stadtteil haben.\
+Wir bitten den Magistrat, dieses Thema unverzüglich im Deutschen Städtetag einzubringen.
 
-Antragstext:
+Begründung: Mit dem Vorhaben einer Grundgesetzänderung zur Bildung einer Fernstraßengesellschaft und Öffnung für private Investoren würde auch nach Ansicht des Bundesrechnungshofs die Erhebung einer streckenbezogenen Pkw-Maut einhergehen. Dies könnte auch im Raum Wiesbaden zwangsläufig viele Autofahrer dazu ermutigen, statt der mautpflichtigen Autobahnen mautfreie innerstädtische Durchgangsstraßen wie den 1. und 2. Ring und die Emser Straße zu nutzen. Eine mögliche Folge wäre auch eine weitere Zunahme des schon jetzt unzumutbaren Verkehrsaufkommens im Westend. Solange der begründete Verdacht nicht entkräftet ist, dass die Erhebung einer streckenbezogenen Pkw-Maut auf Bundesautobahnen zu einer Verkehrsverlagerung auf nicht mautpflichtige Straßen führt, darf es keine Grundgesetzänderung zur Gründung einer Bundesfernstraßengesellschaft geben.
 
-* Der Magistrat wird gebeten, durch Einbeziehung von Gutachtern festzustellen, welche Konsequenzen die von der Bundesregierung geplanten Grundgesetzänderungen zur Überführung der bisherigen Autobahnverwaltung in ein privat-rechtliches Unternehmen und damit zum Einstieg in die Privatisierung der Bundesautobahnen und Erhebung einer Maut für das Verkehrsaufkommen und die Bewohner in unserem Stadtteil haben.
-* Wir bitten den Magistrat, dieses Thema unverzüglich im Deutschen Städtetag einzubringen.
+\
+**Erhalt der offenen Angebote für Kinder aus Westend und Rheingauviertel**
 
-Begründung:
+Der Magistrat wird gebeten darzulegen, ob und wie er die vielfältigen offenen Angebote, die vom Kinderhaus Elsässer Platz für alle Kinder aus den Stadtteilen Westend und Rheingauviertel angeboten werden, nach der Übernahme der Trägerschaft durch die Stadt Wiesbaden und der geplanten Auflösung des dortigen Hortangebots erhalten will.\
+Vor dem Hintergrund, dass in diesem Sommer noch etliche Erstklässler aufgenommen wurden, der Hort im Kinderhaus aber schon in zwei Jahren schließen soll, möge Sozialdezernent Christoph Manjura bitte seine Aussage im WK vom 23.8.2017 erläutern, dass kein einziges Kind „aus dem Hort geworfen werde“.\
+Der Ortsbeirat wünscht ferner Aufklärung darüber, wieso der Vorstand des bisherigen Trägervereins des Kinderhauses so plötzlich seine Selbstauflösung vorantreibt und die Stadt ein - strukturell und personell - qualitativ hochwertiges Betreuungsangebot zerschlägt. Welche Maßnahmen wurden ergriffen, um allen Grundschulkindern, die jetzt bereits angemeldet sind, eine durchgängige Betreuung zu gewährleisten.
 
-Mit dem Vorhaben einer Grundgesetzänderung zur Bildung einer Fernstraßengesellschaft und Öffnung für private Investoren würde auch nach Ansicht des Bundesrechnungshofs die Erhebung einer streckenbezogenen Pkw-Maut einhergehen. Dies könnte auch im Raum Wiesbaden zwangsläufig viele Autofahrer dazu ermutigen, statt der mautpflichtigen Autobahnen mautfreie innerstädtische Durchgangsstraßen wie den 1. und 2. Ring und die Emser Straße zu nutzen. Eine mögliche Folge wäre auch eine weitere Zunahme des schon jetzt unzumutbaren Verkehrsaufkommens im Westend. Solange der begründete Verdacht nicht entkräftet ist, dass die Erhebung einer streckenbezogenen Pkw-Maut auf Bundesautobahnen zu einer Verkehrsverlagerung auf nicht mautpflichtige Straßen führt, darf es keine Grundgesetzänderung zur Gründung einer Bundesfernstraßengesellschaft geben.
+Begründung: \
+1. Die Stadt Wiesbaden hat angekündigt, die Trägerschaft für das Montessori-Kinderhaus Elsässer Platz zu übernehmen und das bisherige Hortangebot zum Schuljahr 2019/20120 einzustellen. Das hat das Kinderhaus den Hort-Eltern kurz vor den Sommerferien mitgeteilt. Davon betroffen rund 50 Kinder in zwei Hortgruppen: Die Stadt will die über Jahre gewachsene räumliche und personale Infrastruktur mit Bewegungsraum, Holz- und Kreativwerkstätten, einen naturnahen Garten, eine Bienenwerkstatt umfasst, aufgeben und dafür an gleicher Stelle mehrere Kitagruppen einrichten. Das in Hortpädagogik ausgebildete und sehr erfahrene Personal soll in den entstehenden Kita-Gruppen fast schon „fachfremd“ eingesetzt werden.\
+Unklar ist, was aus den bisherigen Stadtteil-Angeboten des Schülerclubs KiWi wird. Der Schülerclub besteht aus einer Hortgruppe und offenen Angeboten für alle Kinder der umliegenden Stadtteile, im Besonderen der Stadtteile Westend/Bleichstraße und Rheingau-Hollerborn. Hier bieten Fachkräfte offene Angebote und Projekte an.\
+2. Ziel war es, allen Kindern der Umgebung ein attraktives Angebot zur Freizeitgestaltung zu machen - gerade auch für solche aus sozial schwächeren Familien. Besonders beliebt ist der „active-park“, der während der Schulzeit jeden Freitag von 14 bis 18 Uhr und während dreier Wochen in den Sommerferien auf dem Platz vor dem Kinderhaus stattfindet. Außerdem werden in allen Schulferien spezielle Ferienprogramme angeboten. Nach Auskunft des Kinderhauses und des Elternbeirats ist völlig unklar, was aus diesen Angeboten wird, wenn das Hortangebot eingestellt wird.\
+Bereits im kommenden Jahr soll es nur noch eine Gruppen im Kinderhaus am Elsässer Platz geben und im darauffolgenden Jahr wird der Hort ganz schließen. Was passiert mit den Erstklässlern, die in diesem Sommer bereits neu im Hort aufgenommen wurden?\
+3. Die Betreuungsangebote an den innerstädtischen Grundschulen sind nicht beliebig erweiterbar. Bereits jetzt platzen sie vielerorts aus allen Nähten. Viele Eltern der Hortkinder haben sich bewusst für das Angebot des Kinderhauses entschieden, weil ihre Kinder dort schon die KiTa besucht haben. Die Schließung kam für sie unvermittelt und hat für erhebliche Verwunderung und auch Ärger gesorgt. Wieso haben die Vertreter der Ortsbeiräte der Stadtteile Westend und Rheingau-Viertel, die qua Satzung Teil des siebenköpfigen Vorstands sind, nicht zeitnah über die Pläne informiert, so dass mit der Leitung, dem Team der Hortbetreuung sowie den betroffenen Eltern gemeinsam nach einer praktikablen Lösung gesucht werden konnte.
 
-Erhalt der offenen Angebote für Kinder aus Westend und Rheingauviertel
-
-Antragstext:\
-
-1. Der Magistrat wird gebeten darzulegen, ob und wie er die vielfältigen offenen Angebote, die vom Kinderhaus Elsässer Platz für alle Kinder aus den Stadtteilen Westend und Rheingauviertel angeboten werden, nach der Übernahme der Trägerschaft durch die Stadt Wiesbaden und der geplanten Auflösung des dortigen Hortangebots erhalten will.
-2. Vor dem Hintergrund, dass in diesem Sommer noch etliche Erstklässler aufgenommen wurden, der Hort im Kinderhaus aber schon in zwei Jahren schließen soll, möge Sozialdezernent Christoph Manjura bitte seine Aussage im WK vom 23.8.2017 erläutern, dass kein einziges Kind „aus dem Hort geworfen werde“.
-
-3.) Der Ortsbeirat wünscht ferner Aufklärung darüber, wieso der Vorstand des bisherigen Trägervereins des Kinderhauses so plötzlich seine Selbstauflösung vorantreibt und die Stadt ein - strukturell und personell - qualitativ hochwertiges Betreuungsangebot zerschlägt. Welche Maßnahmen wurden ergriffen, um allen Grundschulkindern, die jetzt bereits angemeldet sind, eine durchgängige Betreuung zu gewährleisten.
-
-Begründung:
-
-zu1) Die Stadt Wiesbaden hat angekündigt, die Trägerschaft für das Montessori-Kinderhaus Elsässer Platz zu übernehmen und das bisherige Hortangebot zum Schuljahr 2019/20120 einzustellen. Das hat das Kinderhaus den Hort-Eltern kurz vor den Sommerferien mitgeteilt. Davon betroffen rund 50 Kinder in zwei Hortgruppen: Die Stadt will die über Jahre gewachsene räumliche und personale Infrastruktur mit Bewegungsraum, Holz- und Kreativwerkstätten, einen naturnahen Garten, eine Bienenwerkstatt umfasst, aufgeben und dafür an gleicher Stelle mehrere Kitagruppen einrichten. Das in Hortpädagogik ausgebildete und sehr erfahrene Personal soll in den entstehenden Kita-Gruppen fast schon „fachfremd“ eingesetzt werden.
-
-Unklar ist, was aus den bisherigen Stadtteil-Angeboten des Schülerclubs KiWi wird. Der Schülerclub besteht aus einer Hortgruppe und offenen Angeboten für alle Kinder der umliegenden Stadtteile, im Besonderen der Stadtteile Westend/Bleichstraße und Rheingau-Hollerborn. Hier bieten Fachkräfte offene Angebote und Projekte an.
-
-Ziel war es, allen Kindern der Umgebung ein attraktives Angebot zur Freizeitgestaltung zu machen - gerade auch für solche aus sozial schwächeren Familien. Besonders beliebt ist der „active-park“, der während der Schulzeit jeden Freitag von 14 bis 18 Uhr und während dreier Wochen in den Sommerferien auf dem Platz vor dem Kinderhaus stattfindet. Außerdem werden in allen Schulferien spezielle Ferienprogramme angeboten. Nach Auskunft des Kinderhauses und des Elternbeirats ist völlig unklar, was aus diesen Angeboten wird, wenn das Hortangebot eingestellt wird.
-
-zu 2) Bereits im kommenden Jahr soll es nur noch eine Gruppen im Kinderhaus am Elsässer Platz geben und im darauffolgenden Jahr wird der Hort ganz schließen. Was passiert mit den Erstklässlern, die in diesem Sommer bereits neu im Hort aufgenommen wurden?
-
-zu 3) Die Betreuungsangebote an den innerstädtischen Grundschulen sind nicht beliebig erweiterbar. Bereits jetzt platzen sie vielerorts aus allen Nähten. Viele Eltern der Hortkinder haben sich bewusst für das Angebot des Kinderhauses entschieden, weil ihre Kinder dort schon die KiTa besucht haben. Die Schließung kam für sie unvermittelt und hat für erhebliche Verwunderung und auch Ärger gesorgt. Wieso haben die Vertreter der Ortsbeiräte der Stadtteile Westend und Rheingau-Viertel, die qua Satzung Teil des siebenköpfigen Vorstands sind, nicht zeitnah über die Pläne informiert, so dass mit der Leitung, dem Team der Hortbetreuung sowie den betroffenen Eltern gemeinsam nach einer praktikablen Lösung gesucht werden konnte.
-
-Spielplatz Bertramstraße attraktiver gestalten
-
-Antragstext:
+\
+**Spielplatz Bertramstraße attraktiver gestalten**
 
 Der Ortsbeirat bittet den Magistrat darum, den Spielplatz in der Bertramstraße 25 mit zusätzlichen Spielgeräten für Kinder attraktiver zu gestalten.
 
-Begründung:
+Begründung: Der kleine Spielplatz neben der Hochschule Wiesbaden ist wenig frequentiert und häufig verschmutzt. Die mit wenigen Spielgeräten ausgestattete Freifläche im inneren Westend fördert nicht die Annahme des Platzes bei Kindern und Jugendlichen. Das Westend hat neben dem Blücherspielplatz nur diese Alternative für Kinder.
 
-Der kleine Spielplatz neben der Hochschule Wiesbaden ist wenig frequentiert und häufig verschmutzt. Die mit wenigen Spielgeräten ausgestattete Freifläche im inneren Westend fördert nicht die Annahme des Platzes bei Kindern und Jugendlichen. Das Westend hat neben dem Blücherspielplatz nur diese Alternative für Kinder.
-
-Umbau der Bushaltestelle Bismarckring (Bleichstraße)
+**Umbau der Bushaltestelle Bismarckring (Bleichstraße)**
 
 Antragstext:
 
