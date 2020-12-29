@@ -1,5 +1,5 @@
 ---
-title: "Programm 2021-2026: Mehr für die Mehrheot!"
+title: "Programm 2021-2026: Mehr für die Mehrheit!"
 subtitle: Unsere Forderungen für die kommenden fünf Jahre
 category:
   - Wahlen 2021
