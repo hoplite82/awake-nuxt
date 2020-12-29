@@ -22,4 +22,4 @@ featureImage: /uploads/leer9751.jpg
 10. Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!\
     \
     \
-    Hier geht's zur [Langfassung](http://linke-im-westend.de/programm-2021)
+    Hier geht's zur [Langfassung](https://www.linke-im-westend.de/programm-2021)
