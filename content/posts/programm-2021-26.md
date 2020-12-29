@@ -22,4 +22,4 @@ featureImage: /uploads/leer9751.jpg
 10. Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!\
     \
     \
-    Hier geht's zur Langfassung
+    Hier geht's zur [Langfassung](http://linke-im-westend.de/mehr-fuer-die-mehrheit)
