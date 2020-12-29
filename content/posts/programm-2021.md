@@ -9,7 +9,10 @@ date: 2020-11-27T16:00:00.000Z
 featureImage: /uploads/b23-4_o.jpg
 ---
  
-Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit 13 Kandidatinnen und Kandidaten an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten. Hier unser Programm **Mehr für die Mehrheit**
+Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit 13 Kandidatinnen und Kandidaten an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten. \
+Hier unser Programm:
+
+### **Mehr für die Mehrheit!**
 
 **Vorwort: Wir im Westend**
 
@@ -17,8 +20,7 @@ Wiesbaden ist eine schöne Stadt, in der es sich gut leben lässt – wenn man n
 
 Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend/Bleichstraße und in der Stadtverordnetenversammlung Wiesbaden auch weiterhin heiße Eisen an. Wir sind eine aktive Gruppe mitten im Wiesbadener Westend und engagieren uns in der Partei DIE LINKE. Das Westend liegt zwischen Emser, Schwalbacher, Dotzheimer, Klarenthaler, Lothringer, Kruse-, Westerwald- und Lahnstraße. Das Westend ist mit rund 18.000 EinwohnerInnen mit Wurzeln in über 100 Nationen auf einer Fläche von 0,67 km² der am dichtesten besiedelte Stadtteil Deutschlands! Wir leben gerne in diesem Stadtviertel und werden uns dafür einsetzen, dass unser Viertel l(i)ebenswert bleibt.
 
-**1. Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend**
-
+**1. Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend**\
 \
 Das Westend ist zunehmend in das Visier von Immobilienspekulanten und Miethaien geraten, die Häuser aufkaufen und daraus maximalen Profit schlagen wollen – etwa durch Umwandlung in Eigentumswohnungen, Luxussanierung, Vertreibung langjähriger Mieter, Gentrifizierung. Der spekulative Wohnraumleerstand passt wie die Faust aufs Auge zum Mangel an bezahlbaren Wohnraum in unserer Stadt. Ein Symbol dieses Missstands ist das seit gut zehn Jahren leer stehende Büro- und Wohngebäude Bismarckring 23. Wir haben uns uns intensiv um das Thema gekümmert, mehrere Anträge dazu gestellt und durchgesetzt. Wir trugen den Skandal Wohnraumleerstand aber auch auf die Straße und organisierten wir neben zahlreichen Infoständen am 15. Juni 2019 eine Demonstration durch Innenstadt und Westend. Mehrere hundert Teilnehmer machten unter dem Motto „Wohnraum schaffen, Leerstand beschlagnahmen, Spekulanten enteignen!“ ihrem Zorn über dreiste Immobilienhaie und die laufende Gentrifizierung Luft.
 
@@ -31,17 +33,15 @@ Das Thema brennt weiter auf den Nägeln und wir lassen uns nicht damit abspeisen
 * Gegen Luxusmodernisierungen, Vertreibung der Mieter durch Wohnungsumwandler und Abbau von Mieterrechten! Für einen Ausbau der Erhaltungssatzung zu einer „Milieuschutzsatzung“!
 * Unterstützung von Initiativen betroffener Mieterinnen und Mieter und von Hausbesetzungen als Form des öffentlichen protests gegen Leerstand.
 
+\
 **2. Zukunft den Kindern: Infrastruktur, sicherer Schulweg, Kampf gegen Kinderarmut, Mehr Spielflächen für Kinder**
 
-* \
-  Die Kinder aus dem Inneren Westend im Grundschulalter gehen auf die Riederbergschule. Ein wichtiges Anliegen ist es, dass die Kinder einen sicheren Schulweg haben. Die stark befahrene Emser Straße ist aber eine Gefahrenquelle. Deshalb haben wir die Einrichtung einer Tempo-30-Zone in der Emser Straße gefordert, was aber vom Magistrat abgewiesen worden ist. Umgesetzt wurde eine Warnlicht-Beleuchtung beim Übergang Emser Straße/Riederbergstraße. Abgelehnt wurde dagegen vom Magistrat eine ähnliche Installation am anderen Übergang Emser Straße/Hellmundstraße/Querfeldstraße. Angesichts der (langfristigen) Sperrung des Eingangs Riederbergstraße müssen alle Kinder des Inneren Westends den Weg in Richtung Querfeldstraße nehmen, um zur Riederbergschule zu gelangen. Auch eine bauliche Abgrenzung des Bürgersteigs zur Straße zum Schutz der Kinder vor dem Straßenverkehr wurde abgelehnt. 
+* Die Kinder aus dem Inneren Westend im Grundschulalter gehen auf die Riederbergschule. Ein wichtiges Anliegen ist es, dass die Kinder einen sicheren Schulweg haben. Die stark befahrene Emser Straße ist aber eine Gefahrenquelle. Deshalb haben wir die Einrichtung einer Tempo-30-Zone in der Emser Straße gefordert, was aber vom Magistrat abgewiesen worden ist. Umgesetzt wurde eine Warnlicht-Beleuchtung beim Übergang Emser Straße/Riederbergstraße. Abgelehnt wurde dagegen vom Magistrat eine ähnliche Installation am anderen Übergang Emser Straße/Hellmundstraße/Querfeldstraße. Angesichts der (langfristigen) Sperrung des Eingangs Riederbergstraße müssen alle Kinder des Inneren Westends den Weg in Richtung Querfeldstraße nehmen, um zur Riederbergschule zu gelangen. Auch eine bauliche Abgrenzung des Bürgersteigs zur Straße zum Schutz der Kinder vor dem Straßenverkehr wurde abgelehnt. 
 * Der Schulhof der Blücherschule muss ganztägig bis Einbruch der Dunkelheit geöffnet sein und durch hauptamtliche professionelle Aufsichtspersonen (Streetworker) überwacht werden.
 * Die Obwohl das Innere Westend sehr kinderreich und sehr jung ist, gibt es nur wenige Freiflächen. Das Jugend- und Kinderzentrum ist eine wichtige Anlaufstelle. Der Ortsbeirat fordert deshalb bisher erfolglos die Schaffung einer weiteren Stelle in der Jugend- bzw. Kinderarbeit des Georg-Buch-Hauses. Durch das Bevölkerungswachstum im Inneren Westend hat sich die Anzahl von Jugendlichen und Kindern erhöht, die dringend Angebote benötigen. Hier zu sparen, wird sich spätestens dann rächen, wenn die Konflikte weiter zunehmen.
 * Um mehr Platz für Kinder zu schaffen, haben wir die Einrichtung einer Spielstraße in der Walramstraße (Höhe Georg-Buch-Haus) gefordert, um hier den öffentlichen Spielraum für Kinder zu erweitern. Leider wurde dieser Antrag im Ortsbeirat abgelehnt. Wir konnten aber erreichen, dass der Spielplatz in der Bertramstraße 25 umgestaltet und somit neben dem stark frequentierten Blücherspielplatz im äußeren Westend als Alternative für Kinder (hoffentlich) bald bereitstehen wird.
 * Ein weiterer Schwerpunkt unserer Arbeit im Ortsbeirat ist die Situation auf dem Blücherplatz. Der dortige Spielplatz ist für unser dicht besiedeltes Viertel **die** zentrale Grün- und Spielfläche und wird von vielen Kindern ganzjährig genutzt. Es ist eine Schande für die Stadt Wiesbaden, dass aktuell der Spielplatzbetreuer nur von April bis Oktober vor Ort ist und Kindern und Eltern als Ansprechpartner zur Verfügung steht. Wir fordern daher: Die Spielplatzbetreuer sollen als Festangestellte der Stadt ganzjährig auf dem Blücherplatz Präsenz zeigen und sich um die Sauberkeit des Platzes kümmern sowie als Ansprechpartner für die Kinder und Eltern zur Verfügung stehen.
 * Gerade in der aktuellen Pandemie ist es extrem wichtig, dass die NutzerInnen eine hygienisch einwandfreie Sanitäranlage vorfinden. Hygieneerziehung ist in der Gesundheitspolitik in aller Munde. Deshalb kann es nicht sein, dass gerade Kinder in einem baufälligen Toilettenhäuschen ihre Notdurft verrichten sollen und anschließend keine Hygienemittel vorfinden. Wir brachten einen Antrag in den Ortsbeirat ein und erreichten durch unseren Druck, dass die Sanitäranlage im Frühjahr 2017 saniert wurde. Doch aufgrund des Personalengpasses standen die Kinder und Eltern gerade in den Sommermonaten an diesem Häuschen oftmals vor verschlossenen Türen. So blieben Büsche und Bäume oftmals „die letzte Lösung“. Dies zieht Ratten und anderes Ungeziefer an – auch ein Thema, dass wir zur Sprache brachten.
-
-
 
 **3. Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktur für alle!**
 
@@ -63,11 +63,11 @@ Das Thema brennt weiter auf den Nägeln und wir lassen uns nicht damit abspeisen
 * LKW-Durchfahrtsverbot auf dem 1. und 2. Ring.
 * Zudem fordert DIE LINKE im Westend eine erhebliche Verkehrsberuhigung der Bleichstraße. Eine Einfahrt von der Schwalbacher Straße soll nur noch zur Nutzung der Tiefgarage am Platz der Deutschen Einheit möglich sein. Bauliche Maßnahmen wie Barken oder Blumenkübel sollen den motorisierten Individualverkehr (MIV) an einer Weiterfahrt hindern.
 * Ausbau des Radwegenetzes im Westend und in ganz Wiesbaden mit einer besseren Beschilderung: Durchgehender Fahrradweg auf dem Mittelstreifen des 1. Rings bis zum Hauptbahnhof; Fahrradweg vom Westend zu den Dürer-Anlagen, die als Naherholungsgebiet von vielen WestendbewohnerInnen genutzt werden.
-* Ausbau der Fahrradverleihstationen und überdachte Stellplätze für Zweiräder im Viertel. Schaffung von öffentlichen Fahrradabstellanlagen und -plätzen mit Steckdosen für E-Räder. Radwege müssen auch für dreirädrige Lastfahrräder benutzbar sein.
-* **Bezahlbare Parkmöglichkeiten für Anwohner, die auf ein Auto angewiesen sind, an der Klarenthaler Straße (gegenüber Elsässer Platz) schaffen.**
 
-\
-\
+  Ausbau der Fahrradverleihstationen und überdachte Stellplätze für Zweiräder im Viertel. Schaffung von öffentlichen Fahrradabstellanlagen und -plätzen mit Steckdosen für E-Räder. Radwege müssen auch für dreirädrige Lastfahrräder benutzbar sein. 
+
+  Bezahlbare Parkmöglichkeiten für Anwohner, die auf ein Auto angewiesen sind, an der Klarenthaler Straße (gegenüber Elsässer Platz) schaffen.
+
 \
 **5. Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen umgestalten**
 
@@ -119,18 +119,18 @@ Das Thema brennt weiter auf den Nägeln und wir lassen uns nicht damit abspeisen
 * Gerade auch auf der unteren Ebene – im Stadtteil – geht es um handfeste, hochpolitische Macht- und Klasseninteressen und um grundsätzliche Fragen, die vor unserer Haustür zum Ausdruck kommen und die wir auf der unteren Ebene ausbaden müssen. Wir können die meisten Probleme, die uns auf den Nägeln brennen, aber nicht im engen Horizont eines Stadtteils lösen. Wir können aber aufrütteln, aufklären und organisieren.
 * DIE LINKE setzt sich für eine sozialistische Gesellschaft ein, die sich nicht nach der Profitmaximierung richtet, sondern in der wir unseren Alltag demokratisch nach den Bedürfnissen der Menschen organisieren. Unterstützen Sie uns dabei!
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\
+### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\
 \
 **Hier nochmal die Kurzfassung:**\
 **Zehn-Punkte-Programm: Mehr für die Mehrheit**
 
-1. **Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend**
-2. **Zukunft den Kindern: Infrastruktur, sicherer Schulweg, Kampf gegen Kinderarmut**
-3. **Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktureinrichtungen für alle**
-4. **Weniger Durchgangsverkehr, mehr öffentlicher Raum für Bewohner: Mehr Fußgängerzonen und Radwege, bezahlbare Busverbindungen, Aartalbahn rasch wiederbeleben**
-5. **Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen**
-6. **Internationale Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
-7. **Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
-8. **Transparenz und Offenheit: Arbeit und Beschlüsse des Ortsbeirats transparent und publik machen, Schaukausten, Lifestream-Übertragung und Videokonferenzen, Selbstbewusst gegenüber dem Magistrat auftreten**
-9. **Hilfe zur Selbsthilfe und Selbstermächtigung: Keine Stellvertreterpolitik, Druck der Straße**
-10. **Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!**
+1. ##### Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend
+2. ##### **Zukunft den Kindern: Infrastruktur, sicherer Schulweg, Kampf gegen Kinderarmut**
+3. ##### **Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktureinrichtungen für alle**
+4. ##### **Weniger Durchgangsverkehr, mehr öffentlicher Raum für Bewohner: Mehr Fußgängerzonen und Radwege, bezahlbare Busverbindungen, Aartalbahn rasch wiederbeleben**
+5. ##### **Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen**
+6. ##### **Internationale Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
+7. ##### **Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
+8. ##### **Transparenz und Offenheit: Arbeit und Beschlüsse des Ortsbeirats transparent und publik machen, Schaukausten, Lifestream-Übertragung und Videokonferenzen, Selbstbewusst gegenüber dem Magistrat auftreten**
+9. ##### **Hilfe zur Selbsthilfe und Selbstermächtigung: Keine Stellvertreterpolitik, Druck der Straße**
+10. ##### **Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!**
