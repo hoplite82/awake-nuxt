@@ -1,6 +1,6 @@
 ---
-title: Programm 2016-2021
-subtitle: Dafür sind wir 2016 angetreten
+title: Mehr für die Mehrheit!
+subtitle: Unser Programm 2021-2026
 category:
   - Bilanz und Berichte
 author: Die Linke im Westend
