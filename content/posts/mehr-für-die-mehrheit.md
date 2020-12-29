@@ -9,9 +9,7 @@ author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2020-12-29T18:52:40.712Z
 featureImage: /uploads/img_8348.jpg
 ---
-### **Mehr für die Mehrheit**
-
-
+**Mehr für die Mehrheit**
 
 **Vorwort: Wir im Westend**
 
@@ -21,48 +19,33 @@ Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend/Bleichstra�
 
 **1. Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend**
 
-\
-Das Westend ist zunehmend in das Visier von Immobilienspekulanten und Miethaien geraten, die Häuser aufkaufen und daraus maximalen Profit schlagen wollen – etwa durch Umwandlung in Eigentumswohnungen, Luxussanierung, Vertreibung langjähriger Mieter, Gentrifizierung. Der spekulative Wohnraumleerstand passt wie die Faust aufs Auge zum Mangel an bezahlbaren Wohnraum in unserer Stadt. Ein Symbol dieses Missstands ist das seit gut zehn Jahren leer stehende Büro- und Wohngebäude Bismarckring 23. Wir haben uns uns intensiv um das Thema gekümmert, mehrere Anträge dazu gestellt und durchgesetzt. Wir trugen den Skandal Wohnraumleerstand aber auch auf die Straße und organisierten wir neben zahlreichen Infoständen am 15. Juni 2019 eine Demonstration durch Innenstadt und Westend. Mehrere hundert Teilnehmer machten unter dem Motto „Wohnraum schaffen, Leerstand beschlagnahmen, Spekulanten enteignen!“ ihrem Zorn über dreiste Immobilienhaie und die laufende Gentrifizierung Luft.
-
-Das Thema brennt weiter auf den Nägeln und wir lassen uns nicht damit abspeisen, dass in diesem Staat ständig Bauern und Kleingärtner für einen Straßenbau enteignet werden, während die Stadt beim spekulativen Wohnraumleerstand passiv bleibt. Die meisten WestendbewohnerInnen müssen ohnehin jeden Cent zweimal umdrehen und sind auf preisgünstigen Wohnraum angewiesen. Dabei ist das Angebot an erschwinglichen Mietwohnungen in Wiesbaden nicht ausreichend, um den Bedarf zu decken. Für uns steht daher die Förderung und Ausweitung des sozialen Wohnungsbaus im Mittelpunkt. Wir setzen uns für den großzügigen Ausbau und eine bessere personelle Ausstattung des kommunalen Wohnungsservice ein. Er muss in die Lage versetzt werden, Mietwohnungen im unteren und mittleren Preissegment zu vermitteln. Er hat ebenso die Aufgabe, neben den öffentlichen auch die privaten Wohnungseigentümer zu ermuntern, leer stehenden Wohnraum zu melden und bei der Suche nach Mietern keine privaten Maklerbüros einzuschalten. Die Praxis der Zwangsumzüge für Leistungsberechtigte nach dem Sozialgesetzbuch, deren Kosten der Unterkunft als „unangemessen“ gelten, muss beendet werden!
-
+* Das Westend ist zunehmend in das Visier von Immobilienspekulanten und Miethaien geraten, die Häuser aufkaufen und daraus maximalen Profit schlagen wollen – etwa durch Umwandlung in Eigentumswohnungen, Luxussanierung, Vertreibung langjähriger Mieter, Gentrifizierung. Der spekulative Wohnraumleerstand passt wie die Faust aufs Auge zum Mangel an bezahlbaren Wohnraum in unserer Stadt. Ein Symbol dieses Missstands ist das seit gut zehn Jahren leer stehende Büro- und Wohngebäude Bismarckring 23. Wir haben uns uns intensiv um das Thema gekümmert, mehrere Anträge dazu gestellt und durchgesetzt. Wir trugen den Skandal Wohnraumleerstand aber auch auf die Straße und organisierten wir neben zahlreichen Infoständen am 15. Juni 2019 eine Demonstration durch Innenstadt und Westend. Mehrere hundert Teilnehmer machten unter dem Motto „Wohnraum schaffen, Leerstand beschlagnahmen, Spekulanten enteignen!“ ihrem Zorn über dreiste Immobilienhaie und die laufende Gentrifizierung Luft.
+* Das Thema brennt weiter auf den Nägeln und wir lassen uns nicht damit abspeisen, dass in diesem Staat ständig Bauern und Kleingärtner für einen Straßenbau enteignet werden, während die Stadt beim spekulativen Wohnraumleerstand passiv bleibt. Die meisten WestendbewohnerInnen müssen ohnehin jeden Cent zweimal umdrehen und sind auf preisgünstigen Wohnraum angewiesen. Dabei ist das Angebot an erschwinglichen Mietwohnungen in Wiesbaden nicht ausreichend, um den Bedarf zu decken. Für uns steht daher die Förderung und Ausweitung des sozialen Wohnungsbaus im Mittelpunkt. Wir setzen uns für den großzügigen Ausbau und eine bessere personelle Ausstattung des kommunalen Wohnungsservice ein. Er muss in die Lage versetzt werden, Mietwohnungen im unteren und mittleren Preissegment zu vermitteln. Er hat ebenso die Aufgabe, neben den öffentlichen auch die privaten Wohnungseigentümer zu ermuntern, leer stehenden Wohnraum zu melden und bei der Suche nach Mietern keine privaten Maklerbüros einzuschalten. Die Praxis der Zwangsumzüge für Leistungsberechtigte nach dem Sozialgesetzbuch, deren Kosten der Unterkunft als „unangemessen“ gelten, muss beendet werden!
 * Für bezahlbaren Wohnraum!
 * Die Stadt Wiesbaden muss ein Leerstandskataster einrichten, um einen Überblick der leerstehenden Immobilien zu verschaffen.
 * Umwandlung von leerstehenden Gebäuden in Wohnraum.
 * Längerer Leerstand von Bürogebäuden und Wohnungen ist ein Verstoß gegen die Sozialbindung des Eigentums. Diese Gebäude sollten in städtisches Eigentum übergehen und für Wohnungssuchende bereit stehen – Leerstand beschlagnahmen, Spekulanten enteignen!
 * Gegen Luxusmodernisierungen, Vertreibung der Mieter durch Wohnungsumwandler und Abbau von Mieterrechten! Für einen Ausbau der Erhaltungssatzung zu einer „Milieuschutzsatzung“!
-* Unterstützung von Initiativen betroffener Mieterinnen und Mieter und von Hausbesetzungen als Form des öffentlichen protests gegen Leerstand.
-
-
+* Unterstützung von Initiativen betroffener Mieterinnen und Mieter und von Hausbesetzungen als Form des öffentlichen Protests gegen Leerstand.
 
 **2. Zukunft den Kindern: Infrastruktur, sicherer Schulweg, Kampf gegen Kinderarmut, Mehr Spielflächen für Kinder**
 
-\
-Die Kinder aus dem Inneren Westend im Grundschulalter gehen auf die Riederbergschule. Ein wichtiges Anliegen ist es, dass die Kinder einen sicheren Schulweg haben. Die stark befahrene Emser Straße ist aber eine Gefahrenquelle. Deshalb haben wir die Einrichtung einer Tempo-30-Zone in der Emser Straße gefordert, was aber vom Magistrat abgewiesen worden ist. Umgesetzt wurde eine Warnlicht-Beleuchtung beim Übergang Emser Straße/Riederbergstraße. Abgelehnt wurde dagegen vom Magistrat eine ähnliche Installation am anderen Übergang Emser Straße/Hellmundstraße/Querfeldstraße. Angesichts der (langfristigen) Sperrung des Eingangs Riederbergstraße müssen alle Kinder des Inneren Westends den Weg in Richtung Querfeldstraße nehmen, um zur Riederbergschule zu gelangen. Auch eine bauliche Abgrenzung des Bürgersteigs zur Straße zum Schutz der Kinder vor dem Straßenverkehr wurde abgelehnt. 
+* Die Kinder aus dem Inneren Westend im Grundschulalter gehen auf die Riederbergschule. Ein wichtiges Anliegen ist es, dass die Kinder einen sicheren Schulweg haben. Die stark befahrene Emser Straße ist aber eine Gefahrenquelle. Deshalb haben wir die Einrichtung einer Tempo-30-Zone in der Emser Straße gefordert, was aber vom Magistrat abgewiesen worden ist. Umgesetzt wurde eine Warnlicht-Beleuchtung beim Übergang Emser Straße/Riederbergstraße. Abgelehnt wurde dagegen vom Magistrat eine ähnliche Installation am anderen Übergang Emser Straße/Hellmundstraße/Querfeldstraße. Angesichts der (langfristigen) Sperrung des Eingangs Riederbergstraße müssen alle Kinder des Inneren Westends den Weg in Richtung Querfeldstraße nehmen, um zur Riederbergschule zu gelangen. Auch eine bauliche Abgrenzung des Bürgersteigs zur Straße zum Schutz der Kinder vor dem Straßenverkehr wurde abgelehnt. 
+* Der Schulhof der Blücherschule muss ganztägig bis Einbruch der Dunkelheit geöffnet sein und durch hauptamtliche professionelle Aufsichtspersonen (Streetworker) überwacht werden.
+* Die Obwohl das Innere Westend sehr kinderreich und sehr jung ist, gibt es nur wenige Freiflächen. Das Jugend- und Kinderzentrum ist eine wichtige Anlaufstelle. Der Ortsbeirat fordert deshalb bisher erfolglos die Schaffung einer weiteren Stelle in der Jugend- bzw. Kinderarbeit des Georg-Buch-Hauses. Durch das Bevölkerungswachstum im Inneren Westend hat sich die Anzahl von Jugendlichen und Kindern erhöht, die dringend Angebote benötigen. Hier zu sparen, wird sich spätestens dann rächen, wenn die Konflikte weiter zunehmen.
+* Um mehr Platz für Kinder zu schaffen, haben wir die Einrichtung einer Spielstraße in der Walramstraße (Höhe Georg-Buch-Haus) gefordert, um hier den öffentlichen Spielraum für Kinder zu erweitern. Leider wurde dieser Antrag im Ortsbeirat abgelehnt. Wir konnten aber erreichen, dass der Spielplatz in der Bertramstraße 25 umgestaltet und somit neben dem stark frequentierten Blücherspielplatz im äußeren Westend als Alternative für Kinder (hoffentlich) bald bereitstehen wird.
+* Ein weiterer Schwerpunkt unserer Arbeit im Ortsbeirat ist die Situation auf dem Blücherplatz. Der dortige Spielplatz ist für unser dicht besiedeltes Viertel **die** zentrale Grün- und Spielfläche und wird von vielen Kindern ganzjährig genutzt. Es ist eine Schande für die Stadt Wiesbaden, dass aktuell der Spielplatzbetreuer nur von April bis Oktober vor Ort ist und Kindern und Eltern als Ansprechpartner zur Verfügung steht. Wir fordern daher: Die Spielplatzbetreuer sollen als Festangestellte der Stadt ganzjährig auf dem Blücherplatz Präsenz zeigen und sich um die Sauberkeit des Platzes kümmern sowie als Ansprechpartner für die Kinder und Eltern zur Verfügung stehen.
+* Gerade in der aktuellen Pandemie ist es extrem wichtig, dass die NutzerInnen eine hygienisch einwandfreie Sanitäranlage vorfinden. Hygieneerziehung ist in der Gesundheitspolitik in aller Munde. Deshalb kann es nicht sein, dass gerade Kinder in einem baufälligen Toilettenhäuschen ihre Notdurft verrichten sollen und anschließend keine Hygienemittel vorfinden. Wir brachten einen Antrag in den Ortsbeirat ein und erreichten durch unseren Druck, dass die Sanitäranlage im Frühjahr 2017 saniert wurde. Doch aufgrund des Personalengpasses standen die Kinder und Eltern gerade in den Sommermonaten an diesem Häuschen oftmals vor verschlossenen Türen. So blieben Büsche und Bäume oftmals „die letzte Lösung“. Dies zieht Ratten und anderes Ungeziefer an – auch ein Thema, dass wir zur Sprache brachten.
 
-Der Schulhof der Blücherschule muss ganztägig bis Einbruch der Dunkelheit geöffnet sein und durch hauptamtliche professionelle Aufsichtspersonen (Streetworker) überwacht werden.
+**3. Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktur für alle!**
 
-Die Obwohl das Innere Westend sehr kinderreich und sehr jung ist, gibt es nur wenige Freiflächen. Das Jugend- und Kinderzentrum ist eine wichtige Anlaufstelle. Der Ortsbeirat fordert deshalb bisher erfolglos die Schaffung einer weiteren Stelle in der Jugend- bzw. Kinderarbeit des Georg-Buch-Hauses. Durch das Bevölkerungswachstum im Inneren Westend hat sich die Anzahl von Jugendlichen und Kindern erhöht, die dringend Angebote benötigen. Hier zu sparen, wird sich spätestens dann rächen, wenn die Konflikte weiter zunehmen.
-
-Um mehr Platz für Kinder zu schaffen, haben wir die Einrichtung einer Spielstraße in der Walramstraße (Höhe Georg-Buch-Haus) gefordert, um hier den öffentlichen Spielraum für Kinder zu erweitern. Leider wurde dieser Antrag im Ortsbeirat abgelehnt. Wir konnten aber erreichen, dass der Spielplatz in der Bertramstraße 25 umgestaltet und somit neben dem stark frequentierten Blücherspielplatz im äußeren Westend als Alternative für Kinder (hoffentlich) bald bereitstehen wird.
-
-Ein weiterer Schwerpunkt unserer Arbeit im Ortsbeirat ist die Situation auf dem Blücherplatz. Der dortige Spielplatz ist für unser dicht besiedeltes Viertel **die** zentrale Grün- und Spielfläche und wird von vielen Kindern ganzjährig genutzt. Es ist eine Schande für die Stadt Wiesbaden, dass aktuell der Spielplatzbetreuer nur von April bis Oktober vor Ort ist und Kindern und Eltern als Ansprechpartner zur Verfügung steht. Wir fordern daher: Die Spielplatzbetreuer sollen als Festangestellte der Stadt ganzjährig auf dem Blücherplatz Präsenz zeigen und sich um die Sauberkeit des Platzes kümmern sowie als Ansprechpartner für die Kinder und Eltern zur Verfügung stehen.
-
-Gerade in der aktuellen Pandemie ist es extrem wichtig, dass die NutzerInnen eine hygienisch einwandfreie Sanitäranlage vorfinden. Hygieneerziehung ist in der Gesundheitspolitik in aller Munde. Deshalb kann es nicht sein, dass gerade Kinder in einem baufälligen Toilettenhäuschen ihre Notdurft verrichten sollen und anschließend keine Hygienemittel vorfinden. Wir brachten einen Antrag in den Ortsbeirat ein und erreichten durch unseren Druck, dass die Sanitäranlage im Frühjahr 2017 saniert wurde. Doch aufgrund des Personalengpasses standen die Kinder und Eltern gerade in den Sommermonaten an diesem Häuschen oftmals vor verschlossenen Türen. So blieben Büsche und Bäume oftmals „die letzte Lösung“. Dies zieht Ratten und anderes Ungeziefer an – auch ein Thema, dass wir zur Sprache brachten.
-
-
-
-**3. Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktur für alle!**\
-Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche Einrichtungen angewiesen. Wir setzen uns für den Erhalt und weiteren Ausbau der sozialen und kulturellen Infrastruktur ein. Zur sozialen Verantwortung gehört auch, dass die Arbeiten im öffentlichen Interesse ordentlich nach Tarif bezahlt werden und prekäre Jobs in unbefristete Arbeitsverhältnisse umgewandelt werden.
-
+* Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche Einrichtungen angewiesen. Wir setzen uns für den Erhalt und weiteren Ausbau der sozialen und kulturellen Infrastruktur ein. Zur sozialen Verantwortung gehört auch, dass die Arbeiten im öffentlichen Interesse ordentlich nach Tarif bezahlt werden und prekäre Jobs in unbefristete Arbeitsverhältnisse umgewandelt werden.
 * Abschaffung von 1-Euro-Jobs und ähnlichen Beschäftigungsverhältnissen dritter Klasse im öffentlichen Bereich und Überführung in sozialversicherungspflichtige Arbeitsverhältnisse bei der Stadt!
 * Verbesserung der Personalschlüssel und Bezahlung in den KiTa´s sowie Rücknahme der Gebührenerhöhung. Kitaplätze sollen grundsätzlich beitragsfrei werden. Die Standards in den städtischen Kindertagesstätten hinsichtlich der Gruppengrößen und des – entsprechend bezahlten und qualifizierten – Personals müssen verbessert werden. Die Stadt Wiesbaden muss diese Standards nicht nur in eigenen, sondern auch in Einrichtungen von freien Trägern verbindlich festsetzen. Ausweitung der Förderung des GMZ Georg-Buch-Haus und weiterer Ausbau des Kinder- und Jugendzentrums. Sicherung der Stadtteil- und SchülerInnenarbeit im Kinderhaus Elsässer Platz.
 * Gesundheitsberatungsstelle speziell für Mütter, Frauen, Demenzkranke.
 * Schulen und Kindertagesstätten auf Blockheizkraftwerke für Heizung, Warmwasser- und Stromerzeugung umrüsten.
 * Die Schulen für den Inklusionsunterricht (also das gemeinsame Unterrichten von SchülerInnen mit und ohne besonderen Förderbedarf) ausbauen.
 * Zukunftswerkstatt für Weiterqualifizierungsmaßnahmen einrichten. Allen Schulabgängern ohne Berufsausbildungsplatz im Dualem System unabhängig von ihrem Kenntnisstand eine Ausbildungsmöglichkeit in einer öffentlichen Einrichtung anbieten.
-
-
 
 **4. Weniger Durchgangsverkehr, mehr öffentlicher Raum für Bewohner: Mehr Fußgängerzonen und Radwege, bezahlbare Busverbindngen, Aartalbahn wiederbeleben!**
 
@@ -75,9 +58,8 @@ Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche E
 * Zudem fordert DIE LINKE im Westend eine erhebliche Verkehrsberuhigung der Bleichstraße. Eine Einfahrt von der Schwalbacher Straße soll nur noch zur Nutzung der Tiefgarage am Platz der Deutschen Einheit möglich sein. Bauliche Maßnahmen wie Barken oder Blumenkübel sollen den motorisierten Individualverkehr (MIV) an einer Weiterfahrt hindern.
 * Ausbau des Radwegenetzes im Westend und in ganz Wiesbaden mit einer besseren Beschilderung: Durchgehender Fahrradweg auf dem Mittelstreifen des 1. Rings bis zum Hauptbahnhof; Fahrradweg vom Westend zu den Dürer-Anlagen, die als Naherholungsgebiet von vielen WestendbewohnerInnen genutzt werden.
 * Ausbau der Fahrradverleihstationen und überdachte Stellplätze für Zweiräder im Viertel. Schaffung von öffentlichen Fahrradabstellanlagen und -plätzen mit Steckdosen für E-Räder. Radwege müssen auch für dreirädrige Lastfahrräder benutzbar sein.
-* Bezahlbare Parkmöglichkeiten für Anwohner, die auf ein Auto angewiesen sind, an der Klarenthaler Straße (gegenüber Elsässer Platz) schaffen
+* Bezahlbare Parkmöglichkeiten für Anwohner, die auf ein Auto angewiesen sind, an der Klarenthaler Straße (gegenüber Elsässer Platz) schaffen.
 
-\
 \
 **5. Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen umgestalten**
 
@@ -91,8 +73,6 @@ Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche E
 * Im Zuge des Projektes „Bäche ans Licht“ soll der Sedanplatz seinen Platzcharakter mit Aufenthaltsmöglichkeit zurückerhalten: Mit der Offenlegung des Kesselbachs soll auf dem Sedanplatz eine generationsübergreifende Grün- und Spielfläche entstehen. Umweltfreundliche Baumaßnahmen sollen den Platz vor den Verkehrsströmen auf dem 1. Ring schützen.
 * Ein großes Ärgernis im Viertel ist der zunehmende illegal abgelegte Sperrmüll. Dies ist u.a. auch den beengten bzw. überbelegten Wohnungen und dem starken Bevölkerungsaustausch geschuldet. Deshalb ist eine Aufklärungskampagne über die kostenlose Entsorgung des Sperrmülls mit Informationstafeln in mehreren Sprachen gegen illegal abgelegten Sperrmüll notwendig. Dieses Anliegen wurde aber vom Magistrat abgelehnt.
 
-
-
 **6. Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
 
 * Das Westend ist ein internationales Viertel. Wir heißen alle Menschen willkommen, die vor Krieg, Hunger und Armut aus ihrer Heimat flüchten mussten und sich in Wiesbaden eine bessere Zukunft aufbauen wollen. Wir lassen uns nicht in Flüchtlinge, Einheimische und MigrantInnen spalten. Rassisten und Faschisten werden in unserem Viertel keine Chance bekommen.
@@ -102,15 +82,14 @@ Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche E
 * Wir lehnen den weiteren Ausbau der Videoüberwachung entschieden ab. Die Inbetriebnahme der neuen Anlage am Platz der Deutschen Einheit war teuer und ineffektiv. Mehr Überwachung schafft nicht mehr Sicherheit, greift aber unverhältnismäßig in die Persönlichkeitsrechte der Menschen ein. In Zeiten, in denen automatisierte Gesichtserkennung und die Auswertung von Bewegungsprofilen möglich ist und bereits genutzt wird, fordern wir LINKE, BürgerInnenrechte zu bewahren und nicht einer populistischen (Schein-)Sicherheit zu opfern.
 * Die Waffenverbotszone im Westend und Teilen der Innenstadt ist unverhältnismäßig und untauglich. Sie erweckt in der Bevölkerung den Eindruck, man müsse in diesen Stadtbereichen besonders vorsichtig sein und leistet damit der bereits vorhandenen Stigmatisierung des Areals weiteren Vorschub. Außerdem vergrößert sich dadurch für jede und jeden die Gefahr, nur aufgrund äußerer Merkmale ins Visier der Polizei zu geraten (Stichwort „Racial Profiling“).
 
-  **7. Öffentliche Dienste demokratisch kontrolliert: Gegen Privatisierung, Tarifflucht und prekäre Arbeit**\
-  Im Inneren Westend gibt es zu wenig Briefkästen und seit den 1990er Jahren keine eigene Postfiliale mehr. Dies ist eine Folge der privatisierungsbedingten Rationalisierung bei der Deutschen Post AG. Wir werden uns gegenüber der Post für die Anbringung von Briefkästen insbesondere im Bereich Wellritzstraße und Bleichstraße einsetzen.
+**7. Öffentliche Dienste demokratisch kontrolliert: Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
+
+* Im Inneren Westend gibt es zu wenig Briefkästen und seit den 1990er Jahren keine eigene Postfiliale mehr. Dies ist eine Folge der privatisierungsbedingten Rationalisierung bei der Deutschen Post AG. Wir werden uns gegenüber der Post für die Anbringung von Briefkästen insbesondere im Bereich Wellritzstraße und Bleichstraße einsetzen.
 * Für ein stadtweites drahtloses und allgemein zugängliches Datennetz (WLAN) in Wiesbaden, Unterstützung der Initiative Freifunk und Bereitstellung öffentlicher Gebäude. Wir brauchen im Westend eine bezahlbare und leistungsfähige Internetanbindung (Glasfaser!). Die Telekom wird das nur anbieten, wenn genügend Leute mitmachen, aber es ist für Geringverdiener einfach zu teuer. Die Internetanbindung ist eine Grundversorgung wie Strom, Gas und Wasser.
 * Rekommunalisierung der Dr. Horst-Schmidt-Kliniken: Die von uns bekämpfte Privatisierung im Jahre 2012 war ein Riesenfehler und muss rückgängig gemacht werden. Gesundheitsversorgung ist keine Ware und kein Anlageobjekt für privaten Profit.
 * Nachdem die für ein Café am Faulbrunnenplatz vorgesehene Franchise-Kette Backwerk abgesprungen ist, setzten wir im Ortsbeirat die Forderung nach einer kostenfreien öffentlichen Toilettenanlage durch, die in der Regie der Stadt Wiesbaden zu betreiben ist und deren Beschäftigte nach den Tarifverträgen für den Öffentlichen Dienst angestellt werden sollen. Öffentliche unentgeltliche Toiletten sind Teil der öffentlichen Daseinsvorsorge und anderswo längst selbstverständlich.
 * Kritisch sahen und sehen wir auch Pläne für eine privat betriebene Kindertagesstätte in der Hellmundstraße unter der Regie des Fröbel-Konzerns. Wir forderten eine KiTa in städtischer Regie. Ein entsprechender Antrag fand eine Mehrheit. Unser Begehren wurde jedoch leider vom Magistrat missachtet.
 * Grundsätzlich sind wir der Überzeugung: Öffentliche Einrichtungen der Daseinsvorsorge müssen in öffentlichem kommunalem Besitz bleiben. Auf Profit getrimmte Konzerne haben in diesem Bereich nichts zu suchen.
-
-
 
 **8. Mehr Offenheit wagen: Arbeit des Ortsbeirats transparent und publik machen**
 
@@ -132,33 +111,15 @@ Die allermeisten Menschen im Westend sind auf gut funktionierende öffentliche E
 * Gerade auch auf der unteren Ebene – im Stadtteil – geht es um handfeste, hochpolitische Macht- und Klasseninteressen und um grundsätzliche Fragen, die vor unserer Haustür zum Ausdruck kommen und die wir auf der unteren Ebene ausbaden müssen. Wir können die meisten Probleme, die uns auf den Nägeln brennen, aber nicht im engen Horizont eines Stadtteils lösen. Wir können aber aufrütteln, aufklären und organisieren.
 * DIE LINKE setzt sich für eine sozialistische Gesellschaft ein, die sich nicht nach der Profitmaximierung richtet, sondern in der wir unseren Alltag demokratisch nach den Bedürfnissen der Menschen organisieren. Unterstützen Sie uns dabei!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Das Zehn-Punkte-Programm konkret:\
-Mehr für die Mehrheit**
-
-
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\
+\
+**Hier nochmal die Kurzfassung:**\
+**Zehn-Punkte-Programm: Mehr für die Mehrheit**
 
 1. **Bezahlbarer Wohnraum für alle: Gegen Spekulation, Leerstand und Verdrängung im Inneren und Äußeren Westend**
 2. **Zukunft den Kindern: Infrastruktur, sicherer Schulweg, Kampf gegen Kinderarmut**
 3. **Soziales Westend: Gegen Hartz IV und Altersarmut. Öffentliche Infrastruktureinrichtungen für alle**
-4. **Weniger Durchgangsverkehr, mehr öffentlicher Raum für Bewohner: Mehr Fußgängerzonen und Radwege, bezahlbare Busverbindngen, Aartalbahn wiederbeleben**
+4. **Weniger Durchgangsverkehr, mehr öffentlicher Raum für Bewohner: Mehr Fußgängerzonen und Radwege, bezahlbare Busverbindungen, Aartalbahn rasch wiederbeleben**
 5. **Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen**
 6. **Internationale Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
 7. **Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
