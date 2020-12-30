@@ -10,5 +10,5 @@ isEvent: true
 **Im Wiesbadener Westend tritt DIE LINKE wieder mit 13 Kandidatinnen und Kandidaten an.**
 
 * **[Wer kandidiert? ](https://www.linke-im-westend.de/die-linke-tritt-wieder-an)**
-* **Unsere [Bilanz](https://www.linke-im-westend.de/die-linke-tritt-wieder-an) nach fünf Jahren**
+* **Unsere [Bilanz](https://www.linke-im-westend.de/bilanz-2016-21) nach fünf Jahren**
 * **Unser [Programm 2021-26](https://www.linke-im-westend.de/programm-2021-26)**
