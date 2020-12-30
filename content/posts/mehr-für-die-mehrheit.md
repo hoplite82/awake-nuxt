@@ -9,6 +9,9 @@ author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2020-12-29T18:52:40.712Z
 featureImage: /uploads/img_8348.jpg
 ---
+Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit 13 Kandidatinnen und Kandidaten an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten.\
+Hier unser Programm:
+
 **Vorwort: Wir im Westend** 
 
 Wiesbaden ist eine schöne Stadt, in der es sich gut leben lässt – wenn man nur genug Geld hat. Denn die Landeshauptstadt ist eine Stadt der Gegensätze: Wiesbaden verzeichnet Spitzenwerte sowohl bei Einkommen wie auch beim Anteil von Sozialhilfeempfängern und Erwerbslosen. Die Klassengegensätze sind in unserer Stadt unübersehbar. Armut trifft inzwischen nicht nur Erwerbslose und Senioren, sondern auch immer mehr berufstätige Menschen in unserer Nachbarschaft. Auf der anderen Seite haben wir in Wiesbaden mit die höchste Millionärsdichte in ganz Deutschland. Diese kleine wohlhabende Schicht wohnt in Parallelgesellschaften in bestimmten Nobel-Stadtvierteln. Sie verschanzt sich hinter immer höheren Mauern auf ihren Villengrundstücken und kennt das Westend höchstens von der Durchfahrt im Auto. Die soziale Kluft und Grenze verläuft nicht zwischen Migranten und Deutschen, sondern zwischen den Klassen, zwischen Reich und Arm, zwischen Oben und Unten.
