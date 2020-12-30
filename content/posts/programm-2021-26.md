@@ -5,7 +5,7 @@ category:
   - Wahlen 2021
   - showstart
 author: Die Linke im Westend
-date: 2020-11-27T16:00:00.000Z
+date: 2020-12-30T08:58:34.631Z
 featureImage: /uploads/leer9751.jpg
 ---
 ### **Unser Programm auf einen Blick: Mehr für die Mehrheit!**
