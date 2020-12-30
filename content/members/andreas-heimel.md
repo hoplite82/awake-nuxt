@@ -2,9 +2,10 @@
 name: Andreas Heimel
 image: /uploads/img_1999a-1.jpg
 group:
-  - Die Linke im Westend
+  - DIE LINKE IM WESTEND
+  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
 isAuthor: false
-description: Kandidat 4. Listenplatz
+description: Kandidat Listenplatz $
 pos: 4
 ---
 Sicherheit ist auch für die Menschen im Westend ein wichtiges Thema. Polizeiliche Repression, Videoüberwachung und Waffenverbotszonen schaffen aber allenfalls eine gefühlte Sicherheit. Es gilt, die Ursachen für Kriminalität zu bekämpfen, statt Überwachung und Repression immer mehr auszuweiten und Bürger*innenrechte dagegen immer weiter einzuschränken.
