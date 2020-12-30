@@ -1,5 +1,5 @@
 ---
 name: showstart
-image: /uploads/nopic.jpg
+image: /uploads/fastnacht1.jpg
 description: Wird auf StartSeite angezeigt.
 ---
