@@ -1,6 +1,6 @@
 ---
 name: Andreas Heimel
-image: /uploads/andreasheimel.jpg
+image: /uploads/img_1999a-1.jpg
 group:
   - Die Linke im Westend
 isAuthor: false
