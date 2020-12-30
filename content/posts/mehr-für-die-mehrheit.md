@@ -126,4 +126,7 @@ Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend/Bleichstra�
 7. **Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
 8. **Transparenz und Offenheit: Arbeit und Beschlüsse des Ortsbeirats transparent und publik machen, Schaukausten, Lifestream-Übertragung und Videokonferenzen, Selbstbewusst gegenüber dem Magistrat auftreten**
 9. **Hilfe zur Selbsthilfe und Selbstermächtigung: Keine Stellvertreterpolitik, Druck der Straße**
-10. **Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!**
+10. **Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!**\
+    \
+    \
+    Im Überblick: [Was wir seit 2016 im Ortsbeirat eingebracht haben](https://www.linke-im-westend.de/treibende-kraft-viel-bewegt)
