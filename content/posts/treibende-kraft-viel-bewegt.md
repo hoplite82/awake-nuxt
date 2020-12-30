@@ -6,7 +6,7 @@ category:
   - Wahlen 2021
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2020-12-29T19:47:30.851Z
-featureImage: /uploads/20190917_163907.jpg
+featureImage: /uploads/b23_ersteaktion.jpg
 ---
 #### **Im Überblick:**  **Eine Auflistung der Anträge, die wir seit 2016 im Ortsbeirat eingebracht und teilweise auch durchgesetzt haben.**
 
