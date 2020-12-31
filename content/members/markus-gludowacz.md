@@ -1,5 +1,5 @@
 ---
-name: Markus Gludowacz
+name: Markus Gludovacz
 image: /uploads/markus.jpg
 group:
   - DIE LINKE IM WESTEND
