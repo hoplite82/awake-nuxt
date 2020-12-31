@@ -13,7 +13,7 @@ Für die Wahl zum Ortsbeirat Westend/Bleichstraße am 12. März 2021 treten wied
 
 1. [Bernd Schmid](/members/bernd-schmid)
 2. [Hans-Gerd Öfinger](/members/hans-gerd-oefinge)
-3. Markus Gludowacz
+3. [Markus Gludowacz](https://www.linke-im-westend.de/members/markus-gludowacz)
 4. [Andreas Heimel](/members/andreas-heimel)
 5. [Christoph Mürdter](/members/christoph-murdter)
 6. Daniel Winter
