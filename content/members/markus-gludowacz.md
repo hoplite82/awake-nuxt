@@ -2,8 +2,8 @@
 name: Markus Gludowacz
 image: /uploads/markus.jpg
 group:
-  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
   - DIE LINKE IM WESTEND
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
 description: Kandidat auf Listenplatz 3
 pos: 3
