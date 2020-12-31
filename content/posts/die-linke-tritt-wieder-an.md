@@ -18,7 +18,7 @@ Für die Wahl zum Ortsbeirat Westend/Bleichstraße am 12. März 2021 treten wied
 5. [Christoph Mürdter](/members/christoph-murdter)
 6. Daniel Winter
 7. Sonja Thomas
-8. Katharina Kroth
+8. [Katharina Kroth](https://www.linke-im-westend.de/members/katharina-kroth)
 9. Ruth Golyschkin
 10. Vladislav Golyschkin
 11. [Ingo von Seemen](https://www.fraktionlundp.de/team/ingo-von-seemen/)
