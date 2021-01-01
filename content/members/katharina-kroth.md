@@ -1,6 +1,6 @@
 ---
 name: Katharina Kroth
-image: /uploads/bilanz-002.png
+image: /uploads/kadda_3.jpg
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
