@@ -3,7 +3,7 @@ name: Hans-Gerd Öfinger
 image: /uploads/bpt_hg.jpg
 group:
   - DIE LINKE IM WESTEND
-  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
 description: "Kandidat auf Listenplatz 2 "
 pos: 2
