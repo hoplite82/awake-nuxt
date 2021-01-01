@@ -3,7 +3,7 @@ name: Bernd Schmid
 image: /uploads/berndschmidt.png
 group:
   - DIE LINKE IM WESTEND
-  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
 description: Spitzenkandidat DIE LINKE für die Ortsbeiratswahl 2021 im Westend.
   Seit 2016 Mitglied im Ortsbeirat.
