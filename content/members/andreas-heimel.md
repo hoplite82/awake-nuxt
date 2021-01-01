@@ -3,7 +3,7 @@ name: Andreas Heimel
 image: /uploads/img_1999a-1.jpg
 group:
   - DIE LINKE IM WESTEND
-  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
 description: Kandidat auf Listenplatz 4
 pos: 4
