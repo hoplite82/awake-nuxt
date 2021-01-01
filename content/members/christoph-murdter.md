@@ -3,7 +3,7 @@ name: Christoph Mürdter
 image: /uploads/murther.jpg
 group:
   - DIE LINKE IM WESTEND
-  - DIE LINKE im Ortsbeirat Westend/Bleichstraße
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
 description: Kandidat auf Listenplatz 5 | Aktivist im Westend
 pos: 5
