@@ -5,7 +5,7 @@ group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstraße
 isAuthor: false
-description: Kandidat auf Listenplatz 5
+description: Kandidat auf Listenplatz 4
 pos: 4
 ---
 Sicherheit ist auch für die Menschen im Westend ein wichtiges Thema. Polizeiliche Repression, Videoüberwachung und Waffenverbotszonen schaffen aber allenfalls eine gefühlte Sicherheit. Es gilt, die Ursachen für Kriminalität zu bekämpfen, statt Überwachung und Repression immer mehr auszuweiten und Bürger*innenrechte dagegen immer weiter einzuschränken.
