@@ -5,7 +5,7 @@
     <br />
     Made with <span style="color: #e25555;">&#9829;</span>.
     Von Robert Pratersch. 
-    <nuxt-link to="/impressum/">Impressum</nuxt-link>, 
+    <nuxt-link to="/impressum/">Impressum</nuxt-link> 
     <nuxt-link to="/datenschutzerklaerung/">Datenschutzerklärung</nuxt-link>
   </footer>
 </template>

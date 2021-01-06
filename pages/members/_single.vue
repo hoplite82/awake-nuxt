@@ -16,7 +16,7 @@
         <strong class="is-size-3"> {{ description }}</strong><br />
        
 
-        <markdown :markdown="$store.state.content" class="is-size-3" />
+        <markdown :markdown="$store.state.content" />
       
       <div class="other-posts">
         <span class="subtitle is-size-4">
