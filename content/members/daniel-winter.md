@@ -1,10 +1,10 @@
 ---
 name: Daniel Winter
-image: /uploads/nopic.jpg
+image: /uploads/20200124_090459.jpg
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
-isAuthor: true
+isAuthor: false
 description: Kandidat 6. Listenplatz
 pos: 6
 ---
