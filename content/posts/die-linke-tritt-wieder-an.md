@@ -16,7 +16,7 @@ Für die Wahl zum Ortsbeirat Westend/Bleichstraße am 14. März 2021 treten wied
 3. [Markus Gludovacz](https://www.linke-im-westend.de/members/markus-gludowacz)
 4. [Andreas Heimel](/members/andreas-heimel)
 5. [Christoph Mürdter](/members/christoph-murdter)
-6. [Daniel Winter](https://www.linke-im-westend.de/members/entries/daniel-winter)
+6. [Daniel Winter](https://www.linke-im-westend.de/members/daniel-winter)
 7. [Sonja Thomas](https://www.linke-im-westend.de/members/sonja-thomas)
 8. [Katharina Kroth](https://www.linke-im-westend.de/members/katharina-kroth)
 9. Ruth Golyschkin
