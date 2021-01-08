@@ -13,8 +13,8 @@ Nachfolgend die Namen und Reihenfolge unserer Liste.
 3. [Markus Gludowacz](https://linke-im-westend.de/members/markus-gludowacz)
 4. [Andreas Heimel](https://www.linke-im-westend.de/members/andreas-heimel)
 5. [Christoph Mürdter](https://www.linke-im-westend.de/members/christoph-murdter)
-6. Daniel Winter
-7. Sonja Thomas
+6. [Daniel Winter](https://www.linke-im-westend.de/members/daniel-winter)
+7. [Sonja Thomas](https://www.linke-im-westend.de/members/sonja-thomas)
 8. [Katharina Kroth](https://www.linke-im-westend.de/members/katharina-kroth)
 9. Ruth Golyschkin
 10. Vladislav Golyschkin
