@@ -1,5 +1,5 @@
 ---
-name: Sonja Thomas
+name: "Sonja Thomas "
 image: /uploads/soth.jpg
 group:
   - DIE LINKE IM WESTEND
