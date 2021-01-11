@@ -9,10 +9,4 @@ description: Spitzenkandidat DIE LINKE für die Ortsbeiratswahl 2021 im Westend.
   Seit 2016 Mitglied im Ortsbeirat.
 pos: 1
 ---
-In dieser wirklich schönen Stadt (und darüber kann ich mir als langjährige
-Gießener ein Urteil erlauben) läuft politisch etwas grundlegend falsch.
-Wiesbaden hat eine der höchsten Millionärsdichten in Deutschland, gleichzeitig
-hat sie die höchste Kinderarmutsquote aller hessischen Großstädte. Das darf
-nicht so bleiben, denn die faktische Spaltung der Gesellschaft birgt sozialen
-Sprengstoff. Wiesbaden muss sich verändern. Das fällt nicht leicht, aber das
-Geld dafür
+Wiesbaden ist eine reiche Stadt und eine Stadt der Gegensätze: Viele Einkommensmillionäre und Höchstwerte bei den Durchschnittseinkommen stehen „Spitzenwerte“ bei Sozialhilfeempfängern und Erwerbslosen gegenüber. Die Klassengegensätze sind in unserer Stadt unübersehbar - und werden größer. Bereits jetzt hat die Landeshauptstadt die höchste Kinderarmutsquote aller hessischen Großstädte und deutschlandweit einen der teuersten Wohnungsmärkte. Bezahlbare Wohnungen sind Mangelware, was es Vermietern und Spekulanten ermöglicht, dafür „Mondpreise“ zu verlangen. Alteingesessene Bewohner mit geringem Einkommen werden so vertrieben - ein Prozess, der auch im Westend schon längst begonnen hat.  Runtergekommene Spielplätze und Schulen, kaum Zuschüsse für die freie Jugendarbeit, aber dafür eine millionenteure Videoüberwachung am Platz der Deutschen Einheit - dieser grundfalschen Politik wollen wir auch im Ortsbeirat etwas entgegen setzen.
