@@ -4,6 +4,7 @@ subtitle: Unsere Anträge an den Ortsbeirat 2016-2021
 category:
   - Bilanz und Berichte
   - Wahlen 2021
+  - firstpost
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-01-09T19:47:30.851Z
 featureImage: /uploads/b23_ersteaktion.jpg
