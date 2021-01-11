@@ -10,8 +10,6 @@ featureImage: /uploads/b23_ersteaktion.jpg
 ---
 #### **Im Überblick:**  **Eine Auflistung der Anträge, die wir seit 2016 im Ortsbeirat eingebracht und teilweise auch durchgesetzt haben.**
 
-
-
 **Verkehrswende zügig anpacken – Schienenverkehr stärken!**
 
 Der Ortsbeirat Westend/Bleichstraße begrüßt Planungen für den Bau einer City-Bahn in Wiesbaden. Der Magistrat wird gebeten, die rasche Anbindung des Westends an den künftigen innerstädtischen Schienenverkehr voranzutreiben. Der Ortsbeirat bittet den Magistrat darum, die Wiederbelebung der Aartalbahn für den regulären planmäßigen Personenverkehr als weitere Priorität voranzutreiben.
@@ -59,8 +57,6 @@ Die Atemgifte, deren Hauptquellen Kraftfahrzeugverkehr sind, können zu chronisc
 
 Der Magistrat muss jetzt endlich handeln, damit die Grenzwerte flächendeckend eingehalten bzw. unterschritten werden.
 
-
-
 **Übergangslösung für den Radverkehr zwischen der Bertramstraße und der Friedrichstraße**
 
 Der Magistrat wird gebeten, das Weiterfahren mit dem Fahrrad zwischen der Bertramstraße und der Friedrichstraße zeitnah zu ermöglichen.
@@ -76,8 +72,6 @@ Der Magistrat wird gebeten, den personellen Engpass auf dem Blücherplatz durch 
 
 Begründung: Seit Wochen ist der Spielplatzbetreuer auf dem Blücherplatz auf sich alleine gestellt, da sein Kollege krankheitsbedingt langfristig ausfällt. Auf dem hochfrequentierten Gelände muss gerade in den Frühjahrs- und Sommermonaten die Öffnung der sanitären Anlagen und die Reinigung des Platzes gewährleistet sein. Ersteres ist nach Dienstende des Spielplatzbetreuers um 15.30 Uhr nicht mehr möglich. Eltern, Kinder und alle andere Besuchergruppen des Kinderspielplatzes stehen vor verschlossenen Sanitäranlagen. Auch die wichtige Funktion des Spielplatzbetreuers als Ansprechpartner für Kinder und Aufsichtsperson ist am Nachmittag dann nicht mehr gegeben.
 
-
-
 **Ganzjährige Spielplatzbetreuung und Strom für die Sanitäranlage auf dem Blücherplatz**
 
 Der Magistrat wird gebeten, eine ganzjährige Spielplatzbetreuung auf dem Blücherplatz zu organisieren sowie die Sanitäranlage mit Stromanschlüssen auszustatten.
@@ -92,8 +86,6 @@ Der Ortsbeirat bittet den Magistrat um Prüfmaßnahmen zur Feststellung der Fein
 Begründung: Die seit Jahren viel zu hohen Feinstaubwerte in Wiesbaden belasten die Luftqualität und damit die Gesundheit der Bürgerinnen und Bürger. Das Westend ist besonders von dieser Form der Luftverschmutzung betroffen, da mehrere Hauptverkehrsachsen das Viertel durchschneiden.\
 [](<>)Im Rahmen von medialen Berichterstattungen (z.B. Frontal 21) wurde aufgedeckt, dass diese viel zu hohen Feinstaubwerte nicht nur an stationären Messstationen an den Straßen selbst festgestellt wurden, sondern ebenso in Schulgebäuden abseits dieser Hauptachsen.\
 Insofern erscheint es dringend erforderlich, im Westend mit mobilen Feinstaubmessgeräten Messungen in Schulgebäuden, Kindergärten und anderen öffentlichen Orten vorzunehmen, um die tatsächlichen Feinstaubbelastungen auch im Viertel selbst erheben zu können.
-
-
 
 **Nachmarkierungen der Parkflächen im Westend / Auftragen von Sperrflächen in Kreuzungen**
 
@@ -119,15 +111,11 @@ Darüber hinaus wird angeregt, auch weitergehende Maßnahmen (bspw. das Aufstell
 
 Gut sichtbare Markierungen sind zudem auch erforderlich, weil immer wieder einzelne PKW's so abgestellt werden, dass sie zwei Parkflächen besetzen. Damit wird der Parkdruck und Parksuchverkehr zusätzlich und unnötigerweise erhöht.
 
-
-
 **Rattenplage am Blücherplatz**
 
 Der Magistrat wird gebeten, unverzüglich alle notwendigen Maßnahmen zur Bekämpfung der Rattenplage rund um die Blücherschule einzuleiten.
 
 Begründung: In den vergangenen Monaten haben Anwohner im Kreuzungsbereich Blücherstraße/Scharnhorststraße und auf dem Spielplatz neben der Blücherschule verstärkt Ratten gesichtet. Über eine Schädlingsbekämpfung durch professionelle Kammerjäger und Pflege von Baumscheiben hinaus sind Aufklärungsmaßnahmen für AnwohnerInnen und weitere geeignete Schritte notwendig, um die Plage abzuwehren und den Tieren den Nährboden zu entziehen.
-
-
 
 **Altkleidercontainer im Kreuzungsbereich Blücherstraße/Scharnhorststraße entfernen**
 
@@ -135,15 +123,11 @@ Der Magistrat wird gebeten, unverzüglich den Altkleidercontainer im Kreuzungsbe
 
 Begründung: Der Altkleidercontainer ist an dieser Stelle eine Behinderung für Fußgänger, ein Schandfleck, ein Sichthindernis und bietet nach Aussagen von Anwohnern zudem auch einen zeitweiligen Unterschlupf für Ratten. Der Altkleidercontainer am nahen Elsässer Platz reicht völlig aus.
 
-
-
 **Sanierung der Sanitäranlage auf dem Blücherplatz**
 
 Der Magistrat wird gebeten, die Sanitäranlage auf dem Blücherplatz grundlegend zu sanieren und eine Öffnung ganztägig zu gewährleisten.
 
 Begründung: Der Spielplatz auf dem Blücherplatz ist die Grün- und Spielfläche im Westend, die von vielen Kindern und Erwachsenen ganzjährig genutzt wird. Umso wichtiger ist es, dass die NutzerInnen eine hygienisch einwandfreie Sanitäranlage vorfinden. Hygieneerziehung ist in der Gesundheitspolitik in aller Munde. Deshalb kann es nicht sein, dass gerade Kinder in einem baufälligen Toilettenhäuschen ihre Notdurft verrichten sollen und anschließend keine Hygienemittel vorfinden. Erschwerend hinzu kommt, dass die Sanitäranlage aufgrund des Personalengpasses oftmals geschlossen ist. Auch in den Sommermonaten standen die Kinder vor der verschlossenen Sanitäranlage, so dass Büsche und Bäume die letzte Lösung sind. Dies wiederum zieht Ratten und anderes Ungeziefer an.
-
-
 
 **Zunehmender illegal abgelegter Sperrmüll im Westend – Aufklärungskampagne notwendig!**
 
@@ -157,8 +141,6 @@ Der Magistrat wird gebeten, auf dem Sedanplatz ein Schild mit dem Hinweis anzubr
 
 Begründung:  Nach der erfolgreichen Eröffnung des „Westend Gardens“ ist es vielen BesucherInnen aufgefallen, dass auf dem Sedanplatz ein solches Hinweisschild genauso wie ein Hundekotbeutelspender fehlt. Ein Anbringen dieses Schildes sowie des Spenders wäre die erste Voraussetzung für einen sauberen Sedanplatz.
 
-
-
 **Sachstandsbericht Sedanplatz**
 
 Der Ortsbeirat Westend bittet den Magistrat um einen Sachstandsbericht, wann es geplant ist, den Kesselbach am Sedanplatz ans Licht zu holen.
@@ -168,8 +150,6 @@ Wie weit sind die offiziellen Planungen fortgeschritten? Ist eine Bürgerbeteili
 Begründung: Der Ortsbeirat hat einstimmig einer probeweisen gastronomischen Nutzung des Sedanplatzes zugestimmt, damit dieser zentrale Platz wieder aufgewertet wird. Die Eröffnung des „Westend Garden“ am 26. und 27. August erwies sich als großer Erfolg und wurde sehr gut angenommen.
 
 Derzeit wird eine „große Lösung“ für die gastronomische Nutzung des Platzes angestrebt. Gleichzeitig soll in den kommenden Jahren der Kesselbach an die Oberfläche geholt werden. In diesem Rahmen wäre die aktive Nutzung dieses Baches mit Wasserspiel- und Sportmöglichkeiten eine hervorragende Möglichkeit, Leben auf den Platz zu bringen. Der Ortsbeirat bittet darum, bei entsprechenden Planungen für Menschen aller Altersgruppen eine phantasievolle Nutzung des Bachlaufes mitzuplanen.
-
-
 
 **Infoladen**
 
@@ -289,10 +269,11 @@ Vor dem Hintergrund, dass in diesem Sommer noch etliche Erstklässler aufgenomme
 Der Ortsbeirat wünscht ferner Aufklärung darüber, wieso der Vorstand des bisherigen Trägervereins des Kinderhauses so plötzlich seine Selbstauflösung vorantreibt und die Stadt ein - strukturell und personell - qualitativ hochwertiges Betreuungsangebot zerschlägt. Welche Maßnahmen wurden ergriffen, um allen Grundschulkindern, die jetzt bereits angemeldet sind, eine durchgängige Betreuung zu gewährleisten.
 
 Begründung: \
+
 1. Die Stadt Wiesbaden hat angekündigt, die Trägerschaft für das Montessori-Kinderhaus Elsässer Platz zu übernehmen und das bisherige Hortangebot zum Schuljahr 2019/20120 einzustellen. Das hat das Kinderhaus den Hort-Eltern kurz vor den Sommerferien mitgeteilt. Davon betroffen rund 50 Kinder in zwei Hortgruppen: Die Stadt will die über Jahre gewachsene räumliche und personale Infrastruktur mit Bewegungsraum, Holz- und Kreativwerkstätten, einen naturnahen Garten, eine Bienenwerkstatt umfasst, aufgeben und dafür an gleicher Stelle mehrere Kitagruppen einrichten. Das in Hortpädagogik ausgebildete und sehr erfahrene Personal soll in den entstehenden Kita-Gruppen fast schon „fachfremd“ eingesetzt werden.\
-Unklar ist, was aus den bisherigen Stadtteil-Angeboten des Schülerclubs KiWi wird. Der Schülerclub besteht aus einer Hortgruppe und offenen Angeboten für alle Kinder der umliegenden Stadtteile, im Besonderen der Stadtteile Westend/Bleichstraße und Rheingau-Hollerborn. Hier bieten Fachkräfte offene Angebote und Projekte an.\
+   Unklar ist, was aus den bisherigen Stadtteil-Angeboten des Schülerclubs KiWi wird. Der Schülerclub besteht aus einer Hortgruppe und offenen Angeboten für alle Kinder der umliegenden Stadtteile, im Besonderen der Stadtteile Westend/Bleichstraße und Rheingau-Hollerborn. Hier bieten Fachkräfte offene Angebote und Projekte an.\
 2. Ziel war es, allen Kindern der Umgebung ein attraktives Angebot zur Freizeitgestaltung zu machen - gerade auch für solche aus sozial schwächeren Familien. Besonders beliebt ist der „active-park“, der während der Schulzeit jeden Freitag von 14 bis 18 Uhr und während dreier Wochen in den Sommerferien auf dem Platz vor dem Kinderhaus stattfindet. Außerdem werden in allen Schulferien spezielle Ferienprogramme angeboten. Nach Auskunft des Kinderhauses und des Elternbeirats ist völlig unklar, was aus diesen Angeboten wird, wenn das Hortangebot eingestellt wird.\
-Bereits im kommenden Jahr soll es nur noch eine Gruppen im Kinderhaus am Elsässer Platz geben und im darauffolgenden Jahr wird der Hort ganz schließen. Was passiert mit den Erstklässlern, die in diesem Sommer bereits neu im Hort aufgenommen wurden?\
+   Bereits im kommenden Jahr soll es nur noch eine Gruppen im Kinderhaus am Elsässer Platz geben und im darauffolgenden Jahr wird der Hort ganz schließen. Was passiert mit den Erstklässlern, die in diesem Sommer bereits neu im Hort aufgenommen wurden?\
 3. Die Betreuungsangebote an den innerstädtischen Grundschulen sind nicht beliebig erweiterbar. Bereits jetzt platzen sie vielerorts aus allen Nähten. Viele Eltern der Hortkinder haben sich bewusst für das Angebot des Kinderhauses entschieden, weil ihre Kinder dort schon die KiTa besucht haben. Die Schließung kam für sie unvermittelt und hat für erhebliche Verwunderung und auch Ärger gesorgt. Wieso haben die Vertreter der Ortsbeiräte der Stadtteile Westend und Rheingau-Viertel, die qua Satzung Teil des siebenköpfigen Vorstands sind, nicht zeitnah über die Pläne informiert, so dass mit der Leitung, dem Team der Hortbetreuung sowie den betroffenen Eltern gemeinsam nach einer praktikablen Lösung gesucht werden konnte.
 
 \
@@ -335,8 +316,6 @@ Der Magistrat wird gebeten, an oben genannter Stelle in beiden Richtungen Verkeh
 Begründung: Die Sicherung des Schulweges aus dem Inneren Westend in die Riederbergschule (Übergang Emser Straße/Riederbergstraße) ist unzureichend. Nur ein kleines und verdecktes Verkehrsschild in der Emser Straße (Ecke Riederbergstraße, stadtauswärts) macht die Autofahrer darauf aufmerksam, dass sich hier eine Grundschule befindet. Das Anbringen des Verkehrsschildes (siehe Anhang III) sowie die Straßenmarkierung (siehe Anhang IV) sollen die Aufmerksamkeit der Autofahrer für potentielle Gefahren für die Grundschulkinder erhöhen.\
 Eine weitere gefährliche Situation besteht darin, dass sich im Berufsverkehr der Verkehr auf der Emser Straße stadteinwärts staut, so dass die Autos trotz Grünphase für die Fußgänger weiter fahren, weil diese nicht erkennen können, dass die Ampel bereits auf Rot geschaltet hat. Dies birgt große Gefahren für die Grundschulkinder, die aus dem Inneren Westend in die Riederbergschule gehen. Eine Warnlicht-Beleuchtung (siehe Anhang I und II) an der Verkehrsampel signalisiert den Autofahrern, die sowohl aus der Riederbergstraße kommen und links in Emser Straße einbiegen wollen, als auch den Autofahrern, die vom Dürerplatz/Weißenburgstraße kommen, eine erhöhte Aufmerksamkeit.
 
-
-
 **Parkflächen in der oberen Walramstraße**
 
 Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat, die Fahrzeugaufstellung in der oberen Walramstraße (zwischen Sedanstraße und Emser Straße) von einer Längsaufstellung in eine Schrägaufstellung zu ändern und entsprechende Parkmarkierungen vorzunehmen.
@@ -354,15 +333,11 @@ Der Magistrat wird gebeten,
 4. dem Ortsbeirat mitzuteilen, wie er die Tatsache bewertet, dass im Inneren Westend Familien unter menschenunwürdigen Bedingungen in feuchten Kellern hausen und gleichzeitig das Gebäude Bismarckring 23 seit Jahren leersteht,
 5. dem Ortsbeirat mitzuteilen, welche legale Handhabe (Landesgesetze, Hamburger Modell, Zweckentfremdungsverordnung etc.) aus seiner Sicht notwendig wäre, um ein behördliches Eingreifen gegen Immobilienleerstand und zur Schaffung von dringend benötigtem Wohnraum für Wohnungssuchende, Obdachlose, Studierende und Flüchtlinge zu ermöglichen.
 
-
-
 **Illegales Parken auf dem Mittelstreifen des Bismarckrings unterbinden**
 
 Mit der Verlagerung der Glascontainer auf dem Mittelstreifen des Bismarckrings/Höhe Sedanplatz ist die neu geschaffene Freifläche regelmäßig von PKW‘s zugeparkt. Der Ortsbeirat bittet den Magistrat um eine Begrünung dieses Abschnitts nach dem Vorbild der Bepflanzung auf dem 1. Ring.
 
 Begründung: Die vor einiger Zeit erfolgte Verlagerung der Glascontainer hat dazu geführt, dass die auf dem Mittelstreifen frei gewordene Freifläche von PKW‘s als Parkplatz benutzt wird. Die Entsiegelung und Bepflanzung dieses Bereiches unterbindet das illegale Parken und komplettiert das historische Erscheinungsbild des 1. Rings.
-
-
 
 **Radschutzstreifen Emser Straße**
 
@@ -371,8 +346,6 @@ Das zuständige Dezernat wird gebeten, die aktuellen Planungen dazu dem Ortsbeir
 
 Begründung: Der Ortsbeirat hat sich bereits mehrfach mit dem Thema Radweg oder Radschutzstreifen in der Emser Straße beschäftigt. Nach intensiver Diskussion ist das Gremium mehrheitlich zu dem Ergebnis gelangt, dass beide Modelle für den Radverkehr in der Emser Straße zwar grundsätzlich wünschenswert, aber aufgrund der Straßenführung und der speziellen Topografie der Straße nicht realisierbar und für Radfahrer möglicherweise sogar mit zusätzlichen Gefahren verbunden sind. Es ist nicht nachvollziehbar, warum diese Überlegungen durch den neuen Dezernenten ignoriert werden und das Gremium in dieser wichtigen verkehrlichen Frage nicht vorab in den Entscheidungsprozess eingebunden wird. \
 Nachdem bereits in der Vergangenheit ein dubioses Treffen des damaligen Ortsvorstehers mit wenigen ausgewählten Mitgliedern des Ortsbeirats zur Entscheidungsgrundlage der Verwaltung gegen einen Radstreifen in der Emser Straße anberaumt wurde, scheint es nun umgekehrt zu sein. Auch jetzt wurde der Ortsbeirat in Gänze nicht darüber informiert, was in welcher Form geplant ist und warum jetzt möglich ist, was vor wenigen Monaten noch unmöglich war. So sehr die Fraktion grundsätzlich Überlegungen zur Verbesserung der Radverkehrs gerade auch in der Emser Straße begrüßt, kritisiert sie diese Hinterzimmer-Politik, die den Ortsbeirat letztlich vor vollendete Tatsachen stellt und dann allenfalls noch kosmetische Korrekturen zulässt.
-
-
 
 **Verlängerung Alkoholverbotszone am Platz der Deutschen Einheit?**
 
@@ -395,15 +368,11 @@ Begründung:
 * Eine Reaktivierung der Aartalbahn wäre nach Angaben des Vereins Nassauische Touristikbahn e.V. (NTB) mit einem relativ geringen Betrag finanzierbar sowie auch in einem relativ kurzen Zeitraum technisch machbar und sollte im Zusammenhang mit dem angedrohten Dieselfahrverbot in das Maßnahmenpaket der Landeshauptstadt Wiesbaden aufgenommen werden.
 * Mögliche Haltepunkte (und ggf. Bedarfshalte) in Dotzheim, Kohlheck und Waldstraße/Schiersteiner Straße hätten auch im Wiesbadener Stadtgebiet einen relativ großen Einzugsbereich. Das vom Ortsbeirat einstimmig begrüßte längerfristige Projekt einer City-Bahn steht einer zügigen Reaktivierung der Aartalbahn nicht im Wege und kann damit sinnvoll verknüpft werden.
 
-
-
 **Bachabschnitt auf dem Quartiersplatz**
 
 Der Magistrat wird gebeten zu berichten, wann mit der Wiederinbetriebnahme des Bachabschnitts auf dem Platz der Deutschen Einheit zu rechnen ist.
 
 Der stark frequentierte Quartiersplatz ist Treffpunkt für zahlreiche Menschen aus allen Bevölkerungsschichten. Er ist eine kleine grüne Oase mitten auf dem Platz der Deutschen Einheit und soll auch das Stadtklima verbessern. Insbesondere der Bachlauf ist attraktiv für Familien mit Kindern. Die Stadt gab in verschiedenen Pressemitteilungen an, dass der Platz „gut angenommen wird“. Damit dies auch so bleibt und der Quartiersplatz nicht „kippt“, ist die Pflege besonders wichtig. Wenn aufgrund des heißen Sommers die Wiese vertrocknet auch noch der Bachlauf ausgeschaltet ist, bietet der Platz ein katastrophales Erscheinungsbild. Die zunehmende Vermüllung senkt weiter die Attraktivität des Platzes, der insbesondere im Sommer ein Platz zum Verweilen sein sollte.
-
-
 
 **Gegen Immobilienleerstand**
 
@@ -450,8 +419,6 @@ Der Magistrat der LH Wiesbaden wird gebeten, bei der Deutschen Post AG darauf hi
 
 * dass die zur Verfügung stehenden Postagenturen an Werktagen nachmittags durchgehend bis 18 Uhr geöffnet sind,
 * die Qualität der Postzustellung verbessert wird.
-
-
 
 **Ergänzungsantrag Faulbrunnenplatz**
 
@@ -570,80 +537,69 @@ Der Magistrat der LH Wiesbaden wird gebeten, die Altkleidercontainer an der Ecke
 
 Begründung: Durch den Standort der Altkleidercontainer besteht für die Schulkinder, die hier die Straße in Richtung Bäckerei/Café überqueren, eine Einschränkung der frühzeitigen Erkennung von Gefahrensituation, die an dieser Ecke durch den Straßenverkehr an dieser Ecke entstehen könnten. Ohne Container könnten etwa auch die aus der Scharnhorststraße kommenden Autofahrer die Kinder früher wahrnehmen. So wäre ein Stück mehr Übersichtlichkeit vor allem für die kleinsten und schwächsten Verkehrsteilnehmer möglich.
 
+
+
 **Einfahrt in die Fußgängerzone Wellritzstraße**
 
 Antragstext:\
 Der Magistrat der Stadt Wiesbaden wird gebeten, den Ortsbeirat Westend/Bleichstraße darüber zu informieren, welche möglichen Maßnahmen ergriffen werden können, um die Einfahrt in die Fußgängerzone Wellritzstraße für von der Helenenstraße kommende Verkehre zu verhindern. Die Anbringung eines gut sichtbaren Verkehrsschildes „Durchfahrt verboten“ ist dringend geboten.\
 \
-**Begründung:**Die Beschilderung am Ende der Fußgängerzone Wellritzstraße ist nicht ausreichend. Autos, die von der Helenenstraße kommen, biegen links in die Wellritzstraße ein, obwohl dies eine Einbahnstraße ist und nur Rechtsabbiegen gestattet ist. In einigen Fällen fahren diese bis zur Schranke und müssen dann wieder umdrehen.\
+Begründung: Die Beschilderung am Ende der Fußgängerzone Wellritzstraße ist nicht ausreichend. Autos, die von der Helenenstraße kommen, biegen links in die Wellritzstraße ein, obwohl dies eine Einbahnstraße ist und nur Rechtsabbiegen gestattet ist. In einigen Fällen fahren diese bis zur Schranke und müssen dann wieder umdrehen.\
 \
 \
 \
-Sichere Überquerung für Fußgänger und Fahrradfahrer des Westends in Naherholungsgebiete\
+**Sichere Überquerung für Fußgänger und Fahrradfahrer des Westends in Naherholungsgebiete**\
 \
 Antragstext:\
 Der Magistrat der Stadt Wiesbaden wird gebeten, den Ortsbeirat Westend/Bleichstraße darüber zu informieren, welche möglichen Maßnahmen ergriffen werden können, um eine sichere Überquerung der stark befahrenen Straßen in Richtung der beiden Naherholungsgebiete (Wellritztal, Walkmühltalanlagen) zu ermöglichen.\
 \
-**Begründung:\
-Die Walkmühltalanlagen und das Wellritztal sind beliebte Naherholungsgebiete der Westend-Bewohner. Viele Familien mit Kindern nutzen die Parks. Die Überquerung von der Allee (Japanische Kirsche) an der Albrecht-Dürrer-Straße in die Walkmühltalanlagen ist sowohl für Fußgänger als auch für Fahrradfahrer gefährlich, da die L417 kurvenreich und nicht gut einsehbar ist. Die Straße wird auch von LKW stark befahren.\
-Um in das Wellritztal zu kommen (Eingang Friedrich-Naumann-Straße), muss zunächst der stark befahrene Kurt-Schumacher-Ring überquert werden.\
-Zebrastreifen bzw. Fußgängerampeln und Hinweisschilder sind wünschenswert.\*\***\
-Reparatur der schadhaften Fassade am Gebäude Blücherstraße 50***\*\
-Antragstext:\
-Der Magistrat der Stadt Wiesbaden wird gebeten, bei der GWW Wiesbaden mbH darauf einzuwirken, dass die schadhafte Außenfassade an der Westseite des Gebäudes Blücherstraße 50 umgehend repariert wird.\*\***\
-Begründung:\
-An der Fassade ist im Herbst 2019 der Putz auf einer größeren Fläche abgefallen. Um Gefahren für Fußgänger zu vermeiden, wurde die Stelle samt Fußgängerweg und Parkplätzen eingezäunt. Dieses „Provisorium“ stürzte zwischen Jahren bei einem Sturm ein. Eine Reparatur als Grundlage für die Entfernung der Zäune ist dringend notwendig.\*\*
+Begründung: Die Walkmühltalanlagen und das Wellritztal sind beliebte Naherholungsgebiete der Westend-Bewohner. Viele Familien mit Kindern nutzen die Parks. Die Überquerung von der Allee (Japanische Kirsche) an der Albrecht-Dürrer-Straße in die Walkmühltalanlagen ist sowohl für Fußgänger als auch für Fahrradfahrer gefährlich, da die L417 kurvenreich und nicht gut einsehbar ist. Die Straße wird auch von LKW stark befahren.Um in das Wellritztal zu kommen (Eingang Friedrich-Naumann-Straße), muss zunächst der stark befahrene Kurt-Schumacher-Ring überquert werden. Zebrastreifen bzw. Fußgängerampeln und Hinweisschilder sind wünschenswert.
 
-Leerstand in der Wellritzstraße
+\
+**Reparatur der schadhaften Fassade am Gebäude Blücherstraße 50**
 
-**Antragstext:\
-Der Magistrat der Stadt Wiesbaden wird gebeten zu berichten, ob von Seiten der Stadt Maßnahmen ergriffen werden, die Leerstände in der Wellritzstraße Nr. 42, 53 und Nr. 22-24 zu beseitigen.\*\***\
-Begründung:\
-Die genannten Immobilien stehen seit Jahren (teilweise) leer. Zur Schaffung von dringend benötigtem Wohnraum für Wohnungssuchende, Obdachlose, Studierende und Flüchtlinge müssen alle Anstengungen unternommen werden. Insbesondere die große Immobilie in der Fußgängerzone ist in einem desolaten Zustand. Die Beseitigung des Leerstands könnte auch zur weiteren Attraktivierung dieses Abschnitts in der Fußgängerzone beitragen.***\*\
-Übernahme bisheriger Securitas-Beschäftigter für die städtische Verkehrsüberwachung anbieten!\*\***\
-Antragstext:\
-Der Magistrat der LH Wiesbaden wird gebeten, den bisher in der Überwachung des ruhenden Verkehrs eingesetzten Beschäftigten des privaten Securitas-Konzerns eine Übernahme in ein Arbeitsverhältnis zu Bedingungen anzubieten, wie sie bisher bereits für Angehörige der Stadtpolizei gelten.***\*\
-Begründung:\
-Öffentliche Aufgaben gehören in die öffentliche Hand - und hoheitliche erst recht. Es liegt im Interesse aller Menschen in einem Stadtbezirk mit hohem Parkdruck und insbesondere der schwächsten VerkehrsteilnehmerInnen (Kinder, Behinderte, Fußgänger und Radfahrer), dass ausreichend Überwachungspersonal eingesetzt wird. Die Erfahrung der bisherigen Securitas-Beschäftigten darf nicht brach liegen und die Betroffenen brauchen eine sichere Lebensperspektive ohne Aussicht auf prekäre Arbeit und Altersarmut.\*\***\
-Schulwegsicherung Emser Straße (Ecke Hellmundstraße/ Querfeldstraße)\*\*
+Der Magistrat der Stadt Wiesbaden wird gebeten, bei der GWW Wiesbaden mbH darauf einzuwirken, dass die schadhafte Außenfassade an der Westseite des Gebäudes Blücherstraße 50 umgehend repariert wird.
 
-Antragstext:
+Begründung: An der Fassade ist im Herbst 2019 der Putz auf einer größeren Fläche abgefallen. Um Gefahren für Fußgänger zu vermeiden, wurde die Stelle samt Fußgängerweg und Parkplätzen eingezäunt. Dieses „Provisorium“ stürzte zwischen Jahren bei einem Sturm ein. Eine Reparatur als Grundlage für die Entfernung der Zäune ist dringend notwendig.
+
+
+
+**Leerstand in der Wellritzstraße**
+
+Der Magistrat der Stadt Wiesbaden wird gebeten zu berichten, ob von Seiten der Stadt Maßnahmen ergriffen werden, die Leerstände in der Wellritzstraße Nr. 42, 53 und Nr. 22-24 zu beseitigen. 
+
+Begründung: Die genannten Immobilien stehen seit Jahren (teilweise) leer. Zur Schaffung von dringend benötigtem Wohnraum für Wohnungssuchende, Obdachlose, Studierende und Flüchtlinge müssen alle Anstengungen unternommen werden. Insbesondere die große Immobilie in der Fußgängerzone ist in einem desolaten Zustand. Die Beseitigung des Leerstands könnte auch zur weiteren Attraktivierung dieses Abschnitts in der Fußgängerzone beitragen.
+
+**\
+Übernahme bisheriger Securitas-Beschäftigter für die städtische Verkehrsüberwachung anbieten!\*\***
+
+Der Magistrat der LH Wiesbaden wird gebeten, den bisher in der Überwachung des ruhenden Verkehrs eingesetzten Beschäftigten des privaten Securitas-Konzerns eine Übernahme in ein Arbeitsverhältnis zu Bedingungen anzubieten, wie sie bisher bereits für Angehörige der Stadtpolizei gelten.
+
+Begründung: Öffentliche Aufgaben gehören in die öffentliche Hand - und hoheitliche erst recht. Es liegt im Interesse aller Menschen in einem Stadtbezirk mit hohem Parkdruck und insbesondere der schwächsten VerkehrsteilnehmerInnen (Kinder, Behinderte, Fußgänger und Radfahrer), dass ausreichend Überwachungspersonal eingesetzt wird. Die Erfahrung der bisherigen Securitas-Beschäftigten darf nicht brach liegen und die Betroffenen brauchen eine sichere Lebensperspektive ohne Aussicht auf prekäre Arbeit und Altersarmut.
+
+\
+**Schulwegsicherung Emser Straße (Ecke Hellmundstraße/ Querfeldstraße)**
 
 Der Ortsbeirat Westend/Bleichstraße fordert den Magistrat auf, die Sicherung des Schulweges vom Inneren Westend zur Riederbergschule beim Übergang Emser Straße/Hellmundstraße/Querfeldstraße) zu verbessern. Angesichts der (langfristigen) Sperrung des Eingangs Riederbergstraße müssen alle Kinder des Inneren Westends den Weg in Richtung Querfeldstraße nehmen, um zur Riederbergschule zu gelangen. Der Magistrat wird gebeten, Schutzblinker anzubringen, um die Sicherheit der Kinder beim Überqueren der Fußgängerampel zu erhöhen. Der Magistrat wird außerdem gebeten zu prüfen, welche Maßnahmen ergriffen werden können, damit die Kinder auf dem Bürgersteig vor dem Straßenverkehr besser geschützt werden können. Eine bauliche Abgrenzung des Bürgersteigs zur Straße ist wünschenswert, da der Bürgersteig an genannter Stelle sehr eng ist.
 
 \
-\
-\
-Verlängerung der Fußgängerzone Wellritzstraße\
-\
-Antragstext:\
+**Verlängerung der Fußgängerzone Wellritzstraße**
+
 Der Magistrat wird gebeten, die Fußgängerzone in der Wellritzstraße von der Hellmund- zur Walramstraße zu verlängern.\
 \
-**Begründung:\
-Das Pilotprojekt Fußgängerzone Wellritzstraße hat sich nach Anfangsschwierigkeiten etabliert und ist für viele Bewohnerinnen und Bewohner des Inneren Westends nicht mehr wegzudenken. Auch wenn die Testphase bis Ende des Jahres verlängert worden ist, sollte der Ortsbeirat frühzeitig an eine Verlängerung denken, da auf Seiten der Gewerbetreibenden und Bewohnerinnen und Bewohner der Wunsch geäußert wurde, die Attraktivität der Wellritzstraße weiter auszubauen und die Straße lebenswerter zu machen. Eine Kritik an der vorhandenen Fußgängerzone war der zu kleine Straßenabschnitt. Eine Verlängerung würde dem Abhilfe schaffen und die Aufenthaltsqualität erhöhen.**
-
 **\
 Öffentliche Toilettenanlage auf dem Faulbrunnenplatz**
 
-Antragstext:
-
-Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat dafür zu sorgen, dass
-
-auf dem Faulbrunnenplatz (geeignet ist die Fläche des nicht gebauten Cafés)  eine kostenfreie öffentliche Toilettenanlage (Beispiel: WC-Anlage Warmer Damm) errichtet wird. Die restliche Fläche soll begrünt werden. Die Toilettenanlage ist in der Regie der Stadt Wiesbaden zu betreiben und die Beschäftigten sollen nach Tarif Öffentlicher Dienst angestellt werden. Der Rückzieher von Backwerk sollte Anlass sein, um ein für alle Mal solche Gedankenspiele mit Privatisierung aufzugeben. Öffentliche unentgeltliche Toiletten sind Teil der öffentlichen Daseinsvorsorge.
+Der Ortsbeirat Westend/Bleichstraße bittet den Magistrat dafür zu sorgen, dass auf dem Faulbrunnenplatz (geeignet ist die Fläche des nicht gebauten Cafés)  eine kostenfreie öffentliche Toilettenanlage (Beispiel: WC-Anlage Warmer Damm) errichtet wird. Die restliche Fläche soll begrünt werden. Die Toilettenanlage ist in der Regie der Stadt Wiesbaden zu betreiben und die Beschäftigten sollen nach Tarif Öffentlicher Dienst angestellt werden. Der Rückzieher von Backwerk sollte Anlass sein, um ein für alle Mal solche Gedankenspiele mit Privatisierung aufzugeben. Öffentliche unentgeltliche Toiletten sind Teil der öffentlichen Daseinsvorsorge.
 
 \
-Keine Bebauung des Elsässer Platzes\
+**Keine Bebauung des Elsässer Platzes**\
 \
-Antragstext:\
 Der Magistrat wird gebeten, von Plänen für eine teilweise Bebauung des Elsässer Platzes Abstand zu nehmen. Der Platz ist Teil einer Frischluftschneise für die Innenstadt und städtischer Grund und Boden darf nicht in private Hände gelangen.\
 \
 \
-Umgestaltung der Rad- und Fußwegquerung über den Elsässer Platz
+**Umgestaltung der Rad- und Fußwegquerung über den Elsässer Platz**
 
-\
-Antragstext:\
 Der Magistrat wird gebeten,  im Zuge des Ausbaus des Fahrradnetzes in Wiesbaden den Rad- und Fußweg von der Elsässer Straße, im Kreuzungsbereich Klarenthaler Straße sowie über den Elsässer Platz in Richtung  Nettelbeckstraße zu sanieren und baulich aufzuwerten, um ihn sicherer zu machen.  
 
-Begründung:
-
-Vor allem in den Abendstunden und angesichts vieler „wilder Parker“ ist der Überweg trotz Poller nur schwer zu erkennen, was regelmäßig zu heiklen Situationen führt. Auch die weitere Wegführung in die Nettelbeckstraße ist für Fahrradfahrer, Rollerfahrer oder Skater durch verschiedene  Asphaltdecken und Schotter nur schlecht nutzbar.
+Begründung: Vor allem in den Abendstunden und angesichts vieler „wilder Parker“ ist der Überweg trotz Poller nur schwer zu erkennen, was regelmäßig zu heiklen Situationen führt. Auch die weitere Wegführung in die Nettelbeckstraße ist für Fahrradfahrer, Rollerfahrer oder Skater durch verschiedene  Asphaltdecken und Schotter nur schlecht nutzbar.
