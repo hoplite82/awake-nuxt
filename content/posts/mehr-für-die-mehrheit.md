@@ -6,7 +6,7 @@ category:
   - firstpost
   - Lokales
 author: Stadtteilgruppe DIE LINKE IM WESTEND
-date: 2020-12-29T18:52:40.712Z
+date: 2021-01-11T20:29:12.091Z
 featureImage: /uploads/img_8348.jpg
 ---
 Zur Ortsbeiratswahl am 14. März 2021 tritt DIE LINKE IM WESTEND wieder mit [13 Kandidatinnen und Kandidaten](https://www.linke-im-westend.de/groups/lobm) an. Seit 2016 sind wir mit drei Mitgliedern im Ortsbeirat vertreten.\
