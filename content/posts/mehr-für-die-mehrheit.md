@@ -64,14 +64,13 @@ Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend/Bleichstra�
 **5. Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen umgestalten**
 
 * Mehr Sitzbänke und Sitzelemente im Viertel zur Erholung und für Ruhepausen.
-* Stadtplatz als eine generationsübergreifende Grün- und Spielfläche mit wetterfesten Trainigsgeräten für Jung und Alt nutzen.
 * Mehr Platz und Freiräume für die Jugend. Förderung und Ausbau der professionellen städtischen Kinder- und Jugendarbeit.
-* Schaffung von Grün-, Spiel- und Erholungsflächen auf dem Elsässer Platz zur Entlastung des Blücherplatzes. Dern geplanten Umbau des Elsässer Platzes zu einer Grünanlage, unterstützen wir zu 100 Prozen. Nicht akzeptieren werden wir allerdings, dass der letzte größere grüne Fleck in unserem Viertel zur Hälfte bebaut werden soll.
+* Stadtplatz als eine generationsübergreifende Grün- und Spielfläche mit wetterfesten Trainingsgeräten für Jung und Alt nutzen. Schaffung von Grün-, Spiel- und Erholungsflächen auf dem Elsässer Platz zur Entlastung des Blücherplatzes. Den geplanten Umbau des Elsässer Platzes zu einer Grünanlage, unterstützen wir zu 100 Prozent. Nicht akzeptieren werden wir allerdings, dass der letzte größere grüne Fleck in unserem Viertel zur Hälfte bebaut werden soll.
 * Bepflanzung von Verkehrsinseln. Mehr Baumscheiben begrünen.
 * Faulbrunnenplatz: Brunnen mit Zapfstelle für das Mineralwasser wieder installieren und der Öffentlichkeit zugänglich machen. Breite öffentliche Aufklärung über die gesundheitsfördernde Wirkung des Heilwassers.
 * Umgestaltung des Elsässer Platzes in eine generationsübergreifende Grün- und Spielfläche mit wetterfesten Trainingsgeräten für Jung und Alt.
 * Im Zuge des Projektes „Bäche ans Licht“ soll der Sedanplatz seinen Platzcharakter mit Aufenthaltsmöglichkeit zurückerhalten: Mit der Offenlegung des Kesselbachs soll auf dem Sedanplatz eine generationsübergreifende Grün- und Spielfläche entstehen. Umweltfreundliche Baumaßnahmen sollen den Platz vor den Verkehrsströmen auf dem 1. Ring schützen.
-* Ein großes Ärgernis im Viertel ist der zunehmende illegal abgelegte Sperrmüll. Dies ist u.a. auch den beengten bzw. überbelegten Wohnungen und dem starken Bevölkerungsaustausch geschuldet. Deshalb ist eine Aufklärungskampagne über die kostenlose Entsorgung des Sperrmülls mit Informationstafeln in mehreren Sprachen gegen illegal abgelegten Sperrmüll notwendig. Dieses Anliegen wurde aber vom Magistrat abgelehnt.
+* Ein großes Ärgernis im Viertel ist der zunehmende illegal abgelegte Sperrmüll. Dies ist u.a. auch den beengten bzw. überbelegten Wohnungen geschuldet. Deshalb ist eine Aufklärungskampagne über die kostenlose Entsorgung des Sperrmülls mit Informationstafeln in mehreren Sprachen gegen illegal abgelegten Sperrmüll notwendig. Dieses Anliegen wurde aber vom Magistrat abgelehnt.
 
 **6. Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
 
