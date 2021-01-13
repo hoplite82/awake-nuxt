@@ -23,6 +23,6 @@ Auch von der immer gleichen und ebenso falschen Behauptung der Stadt, dass ihr j
 **Seit der Kommunalwahl 2016 ist DIE LINKE IM WESTEND mit einem Stimmanteil von 17,3 Prozent und drei Sitzen auch drittgrößte Fraktion im Ortsbeirat.** Um Wählerinnen und Wählern des Westends gerade auch in Corona-Zeiten einen Einblick über ihre Arbeit geben zu können, hat die Fraktion ihre Arbeit ausführlich im Internet dokumentiert. **Auf einer runderneuerten Website sind die inhaltlichen [Schwerpunkte seit 2016](https://www.linke-im-westend.de/bilanz-2016-21), alle [eingebrachten Anträge samt Begründung](https://www.linke-im-westend.de/treibende-kraft-viel-bewegt) sowie ein ausführliches [Zehn-Punkte-Programm für die nächsten fünf Jahre](https://www.linke-im-westend.de/mehr-f%C3%BCr-die-mehrheit) eingestellt.** Außerdem stellen sich dort die Bewerberinnen und Bewerber in [Kurzporträts](https://www.linke-im-westend.de/groups/lobm) vor.[](http://www.linke-im-westend.de)
 
 **[www.linke-im-westend.de](http://www.linke-im-westend.de)**      \
-**https://www.facebook.com/dielinkeimwestend**
+**<https://www.facebook.com/dielinkeimwestend>**
 
 <!--EndFragment-->
