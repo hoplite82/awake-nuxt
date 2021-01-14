@@ -1,6 +1,6 @@
 ---
 title: DIE LINKE tritt wieder an
-subtitle: "Kandidaturen für den Ortsbeirat Westend/Bleichstraße "
+subtitle: Kandidaturen für den Ortsbeirat Westend/Bleichstraße
 category:
   - Wahlen 2021
   - Lokales
