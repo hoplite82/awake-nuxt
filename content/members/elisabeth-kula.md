@@ -8,5 +8,4 @@ isAuthor: false
 description: Kandidatin auf Listenplatz 13
 pos: 13
 ---
-
-Noch nicht eingepflegt.
+Inhalt und Foto folgen.
