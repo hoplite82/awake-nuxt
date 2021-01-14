@@ -8,4 +8,5 @@ isAuthor: false
 description: Kandidatin auf Listenplatz 13
 pos: 13
 ---
-Inhalt und Foto folgen.
+Inhalt und Foto folgen.\
+[Meine Website](https://www.elisabeth-kula.de/)
