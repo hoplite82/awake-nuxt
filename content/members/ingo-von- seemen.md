@@ -2,10 +2,10 @@
 name: Ingo von Seemen
 image: /uploads/nopic.jpg
 group:
-  - Die Linke im Westend
+  - DIE LINKE IM WESTEND
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
+description: Kandidat auf Listenplatz 11
 pos: 11
-description: 
 ---
-
-Noch nicht eingepflegt.
+Text und Foto folgen.
