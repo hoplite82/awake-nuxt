@@ -1,6 +1,6 @@
 ---
 name: Vladislav Golyschkin
-image: /uploads/nopic.jpg
+image: /uploads/vladi2.jpg
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
