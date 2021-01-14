@@ -23,6 +23,6 @@ Für die Wahl zum Ortsbeirat Westend/Bleichstraße am 14. März 2021 treten wied
 10. [Vladislav Golyschkin](https://www.linke-im-westend.de/members/vladislav-golyschkin)
 11. [Ingo von Seemen](https://www.linke-im-westend.de/members/ingo-von-%20seemen/)
 12. [Thomas Klein](https://www.linke-im-westend.de/members/thomas-klein)
-13. [Elisabeth Kula](https://www.elisabeth-kula.de/)
+13. [](https://www.linke-im-westend.de/members/thomas-klein)[Elisabeth Kula](https://www.elisabeth-kula.de/)
 
 siehe: [Die Linke im Westend](/groups/lobm)
