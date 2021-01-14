@@ -2,10 +2,11 @@
 name: Elisabeth Kula
 image: /uploads/nopic.jpg
 group:
-  - Die Linke im Westend
+  - DIE LINKE IM WESTEND
+  - DIE LINKE im Ortsbeirat Westend/Bleichstr.
 isAuthor: false
+description: Kandidatin auf Listenplatz 13
 pos: 13
-description: 
 ---
 
 Noch nicht eingepflegt.
