@@ -8,4 +8,4 @@ isAuthor: false
 description: Kandidat auf Listenplatz 12
 pos: 12
 ---
-Foto und Text folgen.
+Foto und Text folgen demnächst.
