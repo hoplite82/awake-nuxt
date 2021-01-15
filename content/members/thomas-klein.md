@@ -1,6 +1,6 @@
 ---
 name: Thomas Klein
-image: /uploads/nopic.jpg
+image: /uploads/tk00.jpg.jfif
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
