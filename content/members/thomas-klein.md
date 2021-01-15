@@ -8,4 +8,8 @@ isAuthor: false
 description: Kandidat auf Listenplatz 12
 pos: 12
 ---
-Foto und Text folgen demnächst.
+Ich bin 59 Jahre alt, Dipl.-Soziologe. Vater von einem Sohn (32) und einer Tochter (27). Das Eintreten für ein lebenswertes Westend heißt konkret: In Zeiten des Klimawandels fängt eine sozial-ökoligischen Verkehrswende ‘im Kleinen’ an. Und auch der Einsatz für bezahlbare Wohnungen und für ein solidarisches Miteinander sind zentrale Anliegen, die möglichst viel Unterstützung verdienen. Mit einer Fläche von nur 0,67 Quadratkilometern ist das Westend zwar der kleinste der 26 Ortsbezirke Wiesbadens, aber er ist auch einer der lebendigsten und spannendsten: So soll es bleiben.
+
+ 
+
+<!--EndFragment-->
