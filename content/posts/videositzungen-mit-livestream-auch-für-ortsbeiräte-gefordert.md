@@ -2,7 +2,6 @@
 title: Videositzungen mit Livestream auch für Ortsbeiräte gefordert
 subtitle: Mehr Transparent und Offenheit gerade auch in Corona-Zeiten
 category:
-  - Lokales
   - Wahlen 2021
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-01-15T19:41:32.786Z
