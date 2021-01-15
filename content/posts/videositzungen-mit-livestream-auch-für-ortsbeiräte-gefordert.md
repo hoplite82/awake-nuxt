@@ -6,7 +6,7 @@ category:
   - Wahlen 2021
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-01-15T19:41:32.786Z
-featureImage: /uploads/impressum_secred.jpg
+featureImage: /uploads/dsc055.jpg
 ---
 Die Fraktion DIE LINKE im Ortsbeirat Westend/Bleichstraße fordert, dass Sitzungen des Gremiums ab sofort auch mit einer öffentlichen Videoschalte möglich sein sollen. Hintergrund dieses aktuellen Vorstoßes ist die Tatsache, dass im vergangenen Jahr zwei von sieben regulären Sitzungen „wegen Corona“ kurzfristig ersatzlos abgeblasen wurden. Bei aller gebotenen Rücksicht auf unsere Gesundheit darf dies nicht auf Dauer einreißen, weil sonst die demokratische Willensbildung und Kontrolle des Magistrats leiden würde.
 
