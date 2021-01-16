@@ -1,5 +1,5 @@
 ---
-title: Videositzungen mit Livestream auch für Ortsbeiräte gefordert
+title: Videotagung und Livestream auch für den Ortsbeirat!
 subtitle: Mehr Transparent und Offenheit gerade auch in Corona-Zeiten
 category:
   - Wahlen 2021
