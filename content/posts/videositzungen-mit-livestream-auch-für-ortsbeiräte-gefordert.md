@@ -3,6 +3,7 @@ title: Videotagung und Livestream auch für den Ortsbeirat!
 subtitle: Mehr Transparent und Offenheit gerade auch in Corona-Zeiten
 category:
   - Wahlen 2021
+  - firstpost
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-01-15T19:41:32.786Z
 featureImage: /uploads/linkewimpel.jpg
