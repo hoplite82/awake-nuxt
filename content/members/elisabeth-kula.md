@@ -1,6 +1,6 @@
 ---
 name: Elisabeth Kula
-image: /uploads/nopic.jpg
+image: /uploads/lise.jpg
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
