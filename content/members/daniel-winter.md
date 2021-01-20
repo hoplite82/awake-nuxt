@@ -1,6 +1,6 @@
 ---
 name: Daniel Winter
-image: /uploads/20200124_090459.jpg
+image: /uploads/daniel.jpg
 group:
   - DIE LINKE IM WESTEND
   - DIE LINKE im Ortsbeirat Westend/Bleichstr.
