@@ -1,5 +1,5 @@
 ---
-title: "  Wozu wählen, wenn die Sitzung ausfällt?"
+title: "  Wozu wählen, wenn die Sitzung einfach ausfällt?"
 subtitle: Videositzungen und Transparenz müssen auch im Westend Einzug halten!
 category:
   - firstpost
