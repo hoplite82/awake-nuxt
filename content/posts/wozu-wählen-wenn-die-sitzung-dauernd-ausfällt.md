@@ -1,0 +1,26 @@
+---
+title: "  Wozu wählen, wenn die Sitzung dauernd ausfällt?"
+subtitle: Videositzungen und Transparenz müssen auch im Westend Einzug halten!
+category:
+  - firstpost
+  - Lokales
+  - Wahlen 2021
+author: Hans-Gerd Öfinger
+date: 2021-02-04T20:25:04.778Z
+featureImage: /uploads/livestream2_114941-1-.jpg
+---
+**Unsere [Forderung nach Videokonferenzen und öffentlichen Livestream-Übertragungen](https://www.linke-im-westend.de/videositzungen-mit-livestream-auch-f%C3%BCr-ortsbeir%C3%A4te-gefordert) der Sitzungen kommunaler Gremien findet ein Echo. Darüber berichteten in den letzten Wochen lokale, regionale und überregionale Medien. Bei der Ortsbeiratssitzung am 24. Februar 2021 werden wir einen entsprechendn Antrag einbringen.**
+
+Mehr als je zuvor sind in den vergangenen Monaten bundesweit zahlreiche Sitzungen von demokratisch gewählten kommunalen Gremien ersatzlos ausgefallen. „Wegen Corona“, so lautet meistens die Begründung, wenn eine Stadt- oder Gemeindeverwaltung eine in der Jahresplanung fest vorgemerkte Sitzung von Kommunalparlamenten, Ausschüssen oder Ortsbeiräten kurzerhand von der Tagesordnung streicht. Oder wenn Plenarsitzungen ausfallen und stattdessen kleine Ausschüsse faktisch alle Beschlüsse fassen.
+
+Wozu ehrenamtliche Gremien wählen, wenn sie eh laufend ausfallen? Wir fordern, dass Sitzungen und Beschlussfassungen ab sofort auch per Videokonferenz möglich sein sollen. Öffentliche Sitzungen per Video oder mit Hybridcharakter, also einer Mischung aus Präsenz und Videozuschaltung, könnten auch die technische Basis für eine öffentliche Übertragung aller Tagungen sein. Diese Form von Transparenz und Offenheit ist im 21. Jahrhundert längst überfällig. In Hessen werden inzwischen nicht nur Landtagssitzungen im Internet übertragen. Auch in der Opelstadt Rüsselsheim kann die Einwohnerschaft seit geraumer Zeit Sitzungen der Stadtverordnetenversammlung mit Einverständnis der Stadtverordneten live über einen lokalen Radiosender verfolgen.
+
+Doch in Wiesbaden tun sich die tonangebenden Politiker der amtierenden Rathauskooperation aus SPD, CDU und Grünen mit solchen Forderungen schwer. Hinter vorgehaltener Hand verweist man auf den benachbarten Landtag und die schwarz-grüne Landesregierung, die am Zuge sei und mit einer Änderung der Hessischen Gemeindeordnung (HGO) die rechtliche Grundlage für eine Beschlussfähigkeit per Fernschaltung und Video legen müsse. Der Hessische Städtetag drängt nach Insiderangaben seit Monaten darauf, mit einer geringfügigen Änderung der HGO grünes Licht für Videokonferenzen und Livestreams zu geben. Dies wäre technisch und rechtlich auch binnen weniger Wochen möglich. 
+
+Doch die Blockierer sitzen im CDU-geführten Innenministerium, dessen Ressortchef Peter Beuth offenbar starke Bedenken hegt. Ein entsprechener Antrag der Linksfraktion wurde von der schwarz-grünen Landtagsmehrheit abgelehnt. „Auch die Grünen bremsen, weil einige nicht wollen, dass die Basis mitkriegt, wie sich ihre Vertreter in den Gremien verhalten“, so der Landtagsabgeordnete Hermann Schaus (LINKE). Schaus erinnert daran, dass die einstige Ökopartei schon vor Jahren „aus Kostengründen“ den Livestream der Landtagssitzungen gestoppt habe. Inzwischen wurde nach jahrelanger Abstinenz und starkem Druck immerhin wieder ein neuer Livestream eingerichtet.
+
+200 Kilometer südlich von Wiesbaden teilt die grün-schwarze Landesregierung in Baden-Württemberg solche Bedenken ihrer hessischen Parteikollegen gegen mehr Transparenz offenbar nicht. Hier hat der Landtag schon im vergangenen Mai per Änderung der Gemeindeordnung und der Landkreisordnung die Basis für kommunale Gremiensitzungen als Schaltkonferenz mit Übertragung in den Ratssaal gelegt. Sitzungen können wie im hessischen Rüsselsheim auch im Südwesten im Internet übertragen werden.
+
+Auch in Brandenburg gehören Videokonferenzen inzwischen zum täglichen Brot kommunaler Gremien. So fasste der Ortsbeirat von Schildow in der Gemeinde Mühlenbecker Land (Kreis Oberhavel) dieser Tage in einer Hybrid-Sitzung seine Beschlüsse. Ein Gremienmitglied war zugeschaltet, die anderen Mitglieder saßen mit Abstand im Sitzungssaal und die Öffentlichkeit konnte alles auch im Internet verfolgen. Ein von der Gemeinde abgestellter IT-Mitarbeiter behielt nach Angaben der Kommune den Videostream im Blick, um auftretende Probleme schnell und vor Ort zu lösen. Auch in der Kreisstadt Oranienburg werden nach Angaben der Stadtverwaltung Sitzungen der Stadtverordnetenversammlung sowie auch einige Ausschusssitzungen live über die Internetseite der Kommune übertragen.
+
+**Wir haben keine Angst vor Transparenz und Öffentlichkeit. Wer demokratisch in ein kommunales Gremium gewählt wird, muss dazu stehen, was er oder sie dort sagt und muss die Öffentlichkeit wissen lassen, wie er oder sie dort abstimmt. Wir haben in der Corona-Zeit gelernt, mit Videokonferenzen umzugehen und dabei oftmals auch aus der Not eine Tugend gemacht. Dies muss jetzt und auch in der Nach-Corona-Zeit gelten. Transparenz und Offenheit - worauf warten wir noch?**
