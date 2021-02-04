@@ -1,17 +1,17 @@
 ---
-title: "  Wozu wählen, wenn die Sitzung dauernd ausfällt?"
+title: "  Wozu wählen, wenn die Sitzung ausfällt?"
 subtitle: Videositzungen und Transparenz müssen auch im Westend Einzug halten!
 category:
   - firstpost
   - Lokales
   - Wahlen 2021
-author: Hans-Gerd Öfinger
+author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-02-04T20:25:04.778Z
 featureImage: /uploads/livestream2_114941-1-.jpg
 ---
 **Unsere [Forderung nach Videokonferenzen und öffentlichen Livestream-Übertragungen](https://www.linke-im-westend.de/videositzungen-mit-livestream-auch-f%C3%BCr-ortsbeir%C3%A4te-gefordert) der Sitzungen kommunaler Gremien findet ein Echo. Darüber berichteten in den letzten Wochen lokale, regionale und überregionale Medien. Bei der Ortsbeiratssitzung am 24. Februar 2021 werden wir einen entsprechendn Antrag einbringen.**
 
-Mehr als je zuvor sind in den vergangenen Monaten bundesweit zahlreiche Sitzungen von demokratisch gewählten kommunalen Gremien ersatzlos ausgefallen. „Wegen Corona“, so lautet meistens die Begründung, wenn eine Stadt- oder Gemeindeverwaltung eine in der Jahresplanung fest vorgemerkte Sitzung von Kommunalparlamenten, Ausschüssen oder Ortsbeiräten kurzerhand von der Tagesordnung streicht. Oder wenn Plenarsitzungen ausfallen und stattdessen kleine Ausschüsse faktisch alle Beschlüsse fassen.
+Mehr als je zuvor sind in den vergangenen Monaten bundesweit zahlreiche Sitzungen von demokratisch gewählten kommunalen Gremien ersatzlos ausgefallen. „Wegen Corona“, so lautet meistens die Begründung, wenn eine Stadt- oder Gemeindeverwaltung eine in der Jahresplanung fest vorgemerkte Sitzung von Kommunalparlamenten, Ausschüssen oder Ortsbeiräten kurzerhand von der Tagesordnung streicht. Oder wenn Plenarsitzungen ausfallen und stattdessen kleine Ausschüsse faktisch alle Beschlüsse fassen. Auch im Westend sind letzten Jahr zwei von sieben Sitzung ausgefallen. 
 
 Wozu ehrenamtliche Gremien wählen, wenn sie eh laufend ausfallen? Wir fordern, dass Sitzungen und Beschlussfassungen ab sofort auch per Videokonferenz möglich sein sollen. Öffentliche Sitzungen per Video oder mit Hybridcharakter, also einer Mischung aus Präsenz und Videozuschaltung, könnten auch die technische Basis für eine öffentliche Übertragung aller Tagungen sein. Diese Form von Transparenz und Offenheit ist im 21. Jahrhundert längst überfällig. In Hessen werden inzwischen nicht nur Landtagssitzungen im Internet übertragen. Auch in der Opelstadt Rüsselsheim kann die Einwohnerschaft seit geraumer Zeit Sitzungen der Stadtverordnetenversammlung mit Einverständnis der Stadtverordneten live über einen lokalen Radiosender verfolgen.
 
