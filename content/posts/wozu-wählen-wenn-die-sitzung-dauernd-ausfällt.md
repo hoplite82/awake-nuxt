@@ -1,5 +1,5 @@
 ---
-title: "  Wozu wählen, wenn die Sitzung einfach ausfällt?"
+title: Keine Angst vor Transparenz und Offenheit!
 subtitle: Videositzungen und Transparenz müssen auch im Westend Einzug halten!
 category:
   - firstpost
@@ -9,7 +9,7 @@ author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-02-04T20:25:04.778Z
 featureImage: /uploads/livestream2_114941-1-.jpg
 ---
-**Unsere [Forderung nach Videokonferenzen und öffentlichen Livestream-Übertragungen](https://www.linke-im-westend.de/videositzungen-mit-livestream-auch-f%C3%BCr-ortsbeir%C3%A4te-gefordert) der Sitzungen kommunaler Gremien findet ein Echo. Darüber berichteten in den letzten Wochen lokale, regionale und überregionale Medien. Bei der Ortsbeiratssitzung am 24. Februar 2021 werden wir einen entsprechendn Antrag einbringen.**
+**Unsere [Forderung nach Videokonferenzen und Übertrag der Sitzungen per Livestream](https://www.linke-im-westend.de/videositzungen-mit-livestream-auch-f%C3%BCr-ortsbeir%C3%A4te-gefordert) findet ein Echo. Darüber berichteten in den letzten Wochen lokale, regionale und überregionale Medien. Bei der Ortsbeiratssitzung am 24. Februar 2021 werden wir einen entsprechendn Antrag einbringen.**
 
 Mehr als je zuvor sind in den vergangenen Monaten bundesweit zahlreiche Sitzungen von demokratisch gewählten kommunalen Gremien ersatzlos ausgefallen. „Wegen Corona“, so lautet meistens die Begründung, wenn eine Stadt- oder Gemeindeverwaltung eine in der Jahresplanung fest vorgemerkte Sitzung von Kommunalparlamenten, Ausschüssen oder Ortsbeiräten kurzerhand von der Tagesordnung streicht. Oder wenn Plenarsitzungen ausfallen und stattdessen kleine Ausschüsse faktisch alle Beschlüsse fassen. Auch im Westend sind letzten Jahr zwei von sieben Sitzung ausgefallen. 
 
