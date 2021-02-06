@@ -1,5 +1,5 @@
 ---
-title: Frauen besser vor Gewalt und Diskriminierung schützen!
+title: Frauen vor Gewalt und Diskriminierung besser schützen!
 subtitle: Mahnwache des Ausländerbeirats in der Wellritzstraße gegen Femizid
 category:
   - firstpost
