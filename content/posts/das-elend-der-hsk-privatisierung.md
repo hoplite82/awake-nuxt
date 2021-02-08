@@ -1,5 +1,5 @@
 ---
-title: Wer hat uns die HSK-Privatisierung eigebrockt?
+title: Wer hat uns die HSK-Privatisierung eingebrockt?
 subtitle: Das Krankenhaus gehört wieder voll in kommunalen Besitz!
 category:
   - firstpost
