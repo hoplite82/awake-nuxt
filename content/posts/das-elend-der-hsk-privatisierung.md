@@ -1,6 +1,6 @@
 ---
-title: Das Elend der HSK-Privatisierung
-subtitle: Das Krankenhaus gehört wieder in kommunalen Besitz
+title: Wer hat uns die HSK-Privatisierung eigebrockt?
+subtitle: Das Krankenhaus gehört wieder voll in kommunalen Besitz!
 category:
   - firstpost
   - Lokales
@@ -18,8 +18,7 @@ An den Privatisierungsfolgen knapsen Beschäftigte und Patienten immer mehr. „
 Für die Wiesbadener Linke ist dieser Hilferuf Ansporn, um das Thema HSK im Kommunalwahlkampf per Motivplakat mit der Parole "HSK: Medizinische Versorgung sicherstellen" zu skandalisieren. Die mit der Privatisierung verknüpften Versprechen sind nicht aufgegangen, sagt Spitzenkandidat Ingo von Seemen. „Von nachhaltiger Sanierung, Erhalt der Arbeitsplätze und Sicherstellung des gesetzlichen medizinischen Versorgungsauftrags auf höchstem Niveau kann keine Rede sein“, so sein Fazit. „Um eine gute Versorgung für alle Menschen unabhängig vom Geldbeutel zu erreichen, muss die Klinik sofort wieder in die öffentliche Hand überführt werden.“
 
 \
-**Nachfolgend eine kurze Chronik der HSK-Privatisierung:**\
-**Gegen das Vergessen. Wie es begann**
+**Nachfolgend eine kurze Chronik der HSK-Privatisierung: Gegen das Vergessen. Wie es begann**
 
 **2011**
 
