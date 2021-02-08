@@ -121,7 +121,7 @@ Darum packt DIE LINKE mit Ihrer Unterstützung im Ortsbeirat Westend/Bleichstra�
 5. **Naherholung im Viertel: Um jeden Quadratmeter Freifläche kämpfen, mehr Grünflächen, Elsässer Platz für alle Generationen**
 6. **Internationale Solidarität: Nein zu Rassismus und Racial Profiling, kein Platz für Neonazis**
 7. **Gegen Privatisierung, Tarifflucht und prekäre Arbeit**
-8. **Transparenz und Offenheit: Arbeit und Beschlüsse des Ortsbeirats transparent und publik machen, Schaukausten, Lifestream-Übertragung und Videokonferenzen, Selbstbewusst gegenüber dem Magistrat auftreten**
+8. **Transparenz und Offenheit: Arbeit und Beschlüsse des Ortsbeirats transparent und publik machen, Schaukausten, Livestream-Übertragung und Videokonferenzen, Selbstbewusst gegenüber dem Magistrat auftreten**
 9. **Hilfe zur Selbsthilfe und Selbstermächtigung: Keine Stellvertreterpolitik, Druck der Straße**
 10. **Die Probleme an der Wurzel packen: Wir können nicht alles im Stadtteil lösen. Aktiv werden, Gesellschaft verändern!**\
     \
