@@ -4,6 +4,7 @@ subtitle: Das Krankenhaus gehört wieder in kommunalen Besitz
 category:
   - firstpost
   - Lokales
+  - Wahlen 2021
 author: Hans-Gerd Öfinger
 date: 2021-02-08T20:14:29.828Z
 featureImage: /uploads/hsk_wiesbaden50208-1-.jpg
