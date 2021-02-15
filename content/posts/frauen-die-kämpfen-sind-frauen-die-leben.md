@@ -33,4 +33,6 @@ Daher sagen wir als „Neue Frau“, dass unsere Alternative eine neue Gesellsch
 
 * Ni una menos!
 * Frauen\*, die kämpfen sind Frauen\*, die leben – lasst uns das System aus den Angeln heben!
-* Gegen Patriarchat und Kapital – Frauenkampf international!
+* Gegen Patriarchat und Kapital – Frauenkampf international!\
+  \
+  Siehe auch: [Frauen vor Gewalt und Diskriminierung besser schützen!](https://www.linke-im-westend.de/frauen-besser-vor-gewalt-und-diskriminierung-sch%C3%BCtzen)
