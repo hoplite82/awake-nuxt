@@ -9,7 +9,7 @@ author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-02-13T09:31:00.000Z
 featureImage: /uploads/mahnw91_o.jpg
 ---
-Für Freitag hatten die Stadtteilkonferenz Westend und der Präventionsrat der Stadt Wiesbaden zu einer Mahnwache anlässlich des Femizides an Sevinc M. am 1. Februar aufgerufen. Nach den Redebeiträgen fand eine Lichterkette durch die Wellritzstraße statt. Die Kerzen wurden am Ende vor dem City Hotel platziert – also genau auf der Höhe des Tatorts. Hier können alle diejenigen innehalten, die an der Mahnwache nicht persönlich teilnehmen konnten.
+Für Freitag,12. Februar 2021, hatten die Stadtteilkonferenz Westend und der Präventionsrat der Stadt Wiesbaden zu einer Mahnwache anlässlich des Femizides an Sevinc M. am 1. Februar aufgerufen. Nach den Redebeiträgen fand eine Lichterkette in der Wellritzstraße statt. Die Kerzen wurden am Ende vor dem City Hotel platziert – also genau auf der Höhe des Tatorts. Hier können alle diejenigen innehalten, die an der Mahnwache nicht persönlich teilnehmen konnten.
 
 DIE LINKE. im Westend mahnt einmal mehr, die Ergebnisse und Selbstverpflichtungen aus der Istanbul-Konferenz ernst zu nehmen und tatkräftig umzusetzen. Insbesondere bei den Schutzräumen (Frauenhäuser) für Frauen braucht es auch in Wiesbaden einen deutlichen Kapazitätsausbau.
 
