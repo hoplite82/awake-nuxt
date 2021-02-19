@@ -1,5 +1,5 @@
 ---
-title: Gedenken heißt kämpfen!
+title: Hanau ist überall. Gedenken heißt kämpfen!
 subtitle: Rede von Adrian Gabriel (LINKE Wiesbaden) bei der Kundgebung zum 1.
   Jahrestag des rassistischen Terrors in Hanau
 category:
