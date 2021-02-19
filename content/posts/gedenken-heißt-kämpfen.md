@@ -42,6 +42,6 @@ Es bleibt nämlich auch zu fragen, warum rechtsradikale und militante Strukturen
 
 Und deswegen heißt Gedenken auch kämpfen! Der Nährboden für rechte Gewalt und rechten Terror ist in Hessen und Deutschland nach wie vor vorhanden. Am 4. März ist ein großer Wahlkampf-Auftritt des AfD-Faschisten Höcke in Offenbach geplant - in unmittelbarer Nachbarschaft zur verwundeten und geschändeten Stadt Hanau. Mit Höcke auf der Bühne ist dann auch der Wiesbadener AfD-Abgeordnete Schulz. Nur damit man weiß, wie knietief auch die Wiesbadener AfD im braunen Sumpf steht.
 
-[](<>)Und deshalb in Offenbach, in Wiesbaden oder sonst wo: Wir werden dem Faschismus die Stirn bieten müssen, wenn das Gedenken kein Lippenbekenntnis bleiben soll. Wiesbaden: Gegen Rassismus und Faschismus.
+[](<>)Und deshalb in Offenbach, in Wiesbaden oder sonst wo: Wir werden dem Faschismus die Stirn bieten müssen, wenn das Gedenken kein Lippenbekenntnis bleiben soll. Wiesbaden: Gegen Rassismus und Faschismus. (Foto: Johannes Lay)
 
 19. Februar 2021
