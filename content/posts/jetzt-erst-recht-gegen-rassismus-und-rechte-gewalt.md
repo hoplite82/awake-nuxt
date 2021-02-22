@@ -6,7 +6,7 @@ category:
   - Bilanz und Berichte
 author: Andreas Heimel
 date: 2021-02-22T18:23:06.338Z
-featureImage: /uploads/westend2.jpg
+featureImage: /uploads/andreasheimel.jpg
 ---
 Wenige Wochen vor der Kommunalwahl, und ein Jahr nach dem rassistischen Terroranschlag in Hanau, hängen sie an vielen Laternenmasten in Wiesbaden: die Wahlplakate der sogenannten „Alternative für Deutschland“, die dazu aufruft „unsere Kultur zu schützen“. Was uns die AfD damit sagen will, liegt auf der Hand: Menschen mit anderen Wurzeln, mit einem anderem, einem „nichtdeutschen“ kulturellen Hintergrund gehören nach Ansicht der AfD nicht hierher. Sie verbreitet ein jahrzehntealtes rassistisches Narrativ, dass nämlich angeblich „fremde“ Kulturen „unsere“ Kultur bedrohe. Dieses Narrativ war damals falsch, und das ist es heute noch viel mehr.
 
