@@ -1,6 +1,6 @@
 ---
 title: LINKE im Ortsbeirat Westend beantragt virtuelle Sitzungen und Livestream
-subtitle: Antrag an die letzte Sitzung vor der Kommunalwahl eingereicht
+subtitle: Antrag an die Sitzung am 24. Februar eingereicht
 category:
   - firstpost
 author: Stadtteilgruppe DIE LINKE IM WESTEND
