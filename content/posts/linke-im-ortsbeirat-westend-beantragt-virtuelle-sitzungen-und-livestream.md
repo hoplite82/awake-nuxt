@@ -5,7 +5,7 @@ category:
   - firstpost
 author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-02-22T18:35:18.729Z
-featureImage: /uploads/technik.png
+featureImage: /uploads/westend2.jpg
 ---
 **LINKE im Ortsbeirat Westend beantragt virtuelle Sitzungen und Livestream**
 
