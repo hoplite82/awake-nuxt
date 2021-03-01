@@ -1,23 +1,21 @@
 ---
-title: LINKE im Ortsbeirat Westend beantragt virtuelle Sitzungen und Livestream
-subtitle: Antrag an die Sitzung am 24. Februar eingereicht
+title: Transparenz und Offenheit im Ortsbeirat? Fehlanzeige!
+subtitle: Antrag zu virtuellen Sitzungen und Livestream abgelehnt
 category:
   - firstpost
 author: Stadtteilgruppe DIE LINKE IM WESTEND
-date: 2021-02-22T18:35:18.729Z
+date: 2021-03-01T18:08:48.879Z
 featureImage: /uploads/westend2.jpg
 ---
-**LINKE im Ortsbeirat Westend beantragt virtuelle Sitzungen und Livestream**
+Die letzten Sitzung des Ortsbeirats Westend/Bleichstraße vor der Kommunalwahl fand am Mittwoch, 24. Februar 2021, statt. 
 
-Der letzten Sitzung des Ortsbeirats Westend/Bleichstraße vor der Kommunalwahl am Mittwoch, 24. Februar 2021, liegen noch einmal insgesamt sechs Anträge der Fraktion DIE LINKE vor. Sie beziehen sich u.a. auf die Aartalbahn, Einbahnverkehr in der Scharnhorststraße, Parkmarkierungen in der Walramstraße, Lärmbelästigung durch Altglascontainer und die Zukunft von AWO-Einrichtungen.
-
-Ein weiterer Antrag fordert die Möglichkeit virtueller Ortsbeiratssitzungen per Videokonferenz und eine Übertragung der öffentlichen Beratungen per Livestream.
+Ein von uns eingebrachter Antrag forderte die Möglichkeit virtueller Ortsbeiratssitzungen per Videokonferenz und eine Übertragung der öffentlichen Beratungen per Livestream. Ausgangspunkt war, dass im vergangenen Jahr bereits zwei von sieben Sitzungen "wegen Corona" ausgefallen waren. In vielen Bundesländern sind Gremiensitzungen daher inzwischen auch per Internet möglich. 
 
 Wir dokumentieren diesen **Antrag** nachfolgend:
 
-**Virtuelle Sitzungen und Livestream garantieren die Arbeitsfähgikeit von Ortsbeiräten und sorgen für mehr Transparenz und Offenheit**
+**Virtuelle Sitzungen und Livestream garantieren die Arbeitsfähigkeit von Ortsbeiräten und sorgen für mehr Transparenz und Offenheit**
 
-1. Der Magistrat der LH Wiesbaden wird gebeten, sich bei der Hessischen Landesregierung und beim Hessischen Landtag dafür einzusetzen, dass durch eine zügige Änderung der Hessischen Gemeineordnung die Grundlage für virtuelle Sitzungen von Ortsbeiräten und anderen demokratisch gewählten Gremien geschaffen wird.
+1. Der Magistrat der Landeshauptstadt Wiesbaden wird gebeten, sich bei der Hessischen Landesregierung und beim Hessischen Landtag dafür einzusetzen, dass durch eine zügige Änderung der Hessischen Gemeindeordnung die Grundlage für virtuelle Sitzungen von Ortsbeiräten und anderen demokratisch gewählten Gremien geschaffen wird.
 2. Der Ortsbeirat Westend/Bleichstraße spricht sich grundsätzlich für Livestream-Übertragungen seiner öffentlichen Sitzungen aus.
 
 **Begründung:**
@@ -26,4 +24,8 @@ Parteitage, Gipfeltreffen und tausend andere Tagungen finden inzwischen per Vide
 
 Zudem werden auch in Hessen bereits Sitzungen von Gremien per Livestream übertragen (Beispiel Stadtverordnetenversammlung Rüsselsheim oder Landtag) oder zeitnah ins Internet gestellt (Kreistag Groß Gerau).
 
-Mit diesen Maßnahmen bleibt in Pandemiezeiten und darüber hinaus die Arbeitsfähigkeit der Gremien gewahrt. Livestream-Schaltungen sind ein wichtiger Beitrag zu mehr Transparenz und Offenheit.
+Mit diesen Maßnahmen bleibt in Pandemiezeiten und darüber hinaus die Arbeitsfähigkeit der Gremien gewahrt. Livestream-Schaltungen sind ein wichtiger Beitrag zu mehr Transparenz und Offenheit. **\[Ende Begründung]**
+
+Leider wurde dieser Antrag von allen anderen Vertretern im Ortsbeirat abgelehnt. Dafür wurde nicht mal eine Begründung gegeben. Während sich die Wiesbadener FDP publikumswirksam für diese Zielsetzung ausspricht, glänzte die FDP-Vertreterin durch Abwesenheit.
+
+Wir lassen uns dadurch nicht entmutigen und werden weiter kämpfen - für Transparenz und Arbeitsfähigkeit der Sitzungen. wir haben keine Angst davor, dass die Öffentlichkeit die Sitzungen verfolgt und die Menschen sich ein Bild machen können, wer wir abstimmt und wer was sagt. Wir demokratisch gewählt wurde, muss dazu stehen.
