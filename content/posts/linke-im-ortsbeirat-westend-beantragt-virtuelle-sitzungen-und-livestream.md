@@ -26,6 +26,6 @@ Zudem werden auch in Hessen bereits Sitzungen von Gremien per Livestream übertr
 
 Mit diesen Maßnahmen bleibt in Pandemiezeiten und darüber hinaus die Arbeitsfähigkeit der Gremien gewahrt. Livestream-Schaltungen sind ein wichtiger Beitrag zu mehr Transparenz und Offenheit. **\[Ende Begründung]**
 
-Leider wurde dieser Antrag von allen anderen Vertretern im Ortsbeirat abgelehnt. Dafür wurde nicht mal eine Begründung gegeben. Während sich die Wiesbadener FDP publikumswirksam für diese Zielsetzung ausspricht, glänzte die FDP-Vertreterin durch Abwesenheit.
+Leider wurde dieser Antrag von allen anderen Vertretern im Ortsbeirat quer durch die Bank abgelehnt. Dafür wurde nicht mal eine Begründung gegeben. Während sich die Wiesbadener FDP publikumswirksam für diese Zielsetzung ausspricht, glänzte die FDP-Vertreterin im Ortsbeirat durch Abwesenheit.
 
-Wir lassen uns dadurch nicht entmutigen und werden weiter kämpfen - für Transparenz und Arbeitsfähigkeit der Sitzungen. wir haben keine Angst davor, dass die Öffentlichkeit die Sitzungen verfolgt und die Menschen sich ein Bild machen können, wer wir abstimmt und wer was sagt. Wir demokratisch gewählt wurde, muss dazu stehen.
+Wir lassen uns dadurch nicht entmutigen und werden weiter kämpfen - für Transparenz und Arbeitsfähigkeit der Sitzungen. Wir haben keine Angst davor, dass die Öffentlichkeit die Sitzungen auch über das Internet verfolgt und die Menschen sich ein Bild machen können, wer wie abstimmt und wer was sagt. Wer demokratisch gewählt wurde, muss zu seinem Wort stehen.
