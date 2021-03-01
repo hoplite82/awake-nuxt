@@ -9,7 +9,7 @@ featureImage: /uploads/westend2.jpg
 ---
 Die letzte Sitzung des Ortsbeirats Westend/Bleichstraße vor der Kommunalwahl fand am Mittwoch, 24. Februar 2021, statt. 
 
-Ein von uns eingebrachter Antrag forderte die Möglichkeit virtueller Ortsbeiratssitzungen per Videokonferenz und eine Übertragung der öffentlichen Beratungen per Livestream. Ausgangspunkt war, dass im vergangenen Jahr bereits zwei von sieben Sitzungen "wegen Corona" ausgefallen waren. In vielen Bundesländern sind Gremiensitzungen daher inzwischen auch per Internet möglich. 
+Ein von uns eingebrachter Antrag forderte die Möglichkeit virtueller Ortsbeiratssitzungen per Videokonferenz und eine Übertragung der öffentlichen Beratungen per Livestream. Ausgangspunkt war, dass im vergangenen Jahr bereits zwei von sieben Sitzungen "wegen Corona" ausgefallen waren. In vielen Bundesländern sind Gremiensitzungen daher inzwischen auch per Internet möglich, um solchen Ausfall zu verhindern. 
 
 Wir dokumentieren diesen **Antrag** nachfolgend:
 
@@ -20,7 +20,7 @@ Wir dokumentieren diesen **Antrag** nachfolgend:
 
 **Begründung:**
 
-Parteitage, Gipfeltreffen und tausend andere Tagungen finden inzwischen per Videoschaltung oder Hybridsitzung statt. Virtuelle Sitzungen von kommunalen Gremien sind in Bundesländern wie Rheinland-Pfalz, Baden-Württemberg oder Brandenburg bereits möglich und werden praktiziert. Hessen darf nicht Schlusslicht bleiben.
+Parteitage, Gipfeltreffen und tausend andere Tagungen finden inzwischen per Videoschaltung oder Hybridsitzung statt. Virtuelle Sitzungen von kommunalen Gremien sind in Bundesländern wie Rheinland-Pfalz, Baden-Württemberg oder Brandenburg bereits möglich und werden praktiziert. Hessen darf nicht bundesweit Schlusslicht bleiben.
 
 Zudem werden auch in Hessen bereits Sitzungen von Gremien per Livestream übertragen (Beispiel Stadtverordnetenversammlung Rüsselsheim oder Landtag) oder zeitnah ins Internet gestellt (Kreistag Groß Gerau).
 
