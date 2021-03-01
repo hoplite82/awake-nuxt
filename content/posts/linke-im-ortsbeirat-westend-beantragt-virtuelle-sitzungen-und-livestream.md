@@ -7,7 +7,7 @@ author: Stadtteilgruppe DIE LINKE IM WESTEND
 date: 2021-03-01T18:08:48.879Z
 featureImage: /uploads/westend2.jpg
 ---
-Die letzten Sitzung des Ortsbeirats Westend/Bleichstraße vor der Kommunalwahl fand am Mittwoch, 24. Februar 2021, statt. 
+Die letzte Sitzung des Ortsbeirats Westend/Bleichstraße vor der Kommunalwahl fand am Mittwoch, 24. Februar 2021, statt. 
 
 Ein von uns eingebrachter Antrag forderte die Möglichkeit virtueller Ortsbeiratssitzungen per Videokonferenz und eine Übertragung der öffentlichen Beratungen per Livestream. Ausgangspunkt war, dass im vergangenen Jahr bereits zwei von sieben Sitzungen "wegen Corona" ausgefallen waren. In vielen Bundesländern sind Gremiensitzungen daher inzwischen auch per Internet möglich. 
 
