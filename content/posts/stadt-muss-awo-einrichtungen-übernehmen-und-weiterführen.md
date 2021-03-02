@@ -1,5 +1,5 @@
 ---
-title: Stadt muss AWO-Einrichtungen übernehmen und weiterführen!
+title: "Stadt muss AWO-Einrichtungen übernehmen und weiterführen! "
 subtitle: " Beschluss des Ortsbeirats Westend/Bleichstraße vom  24. Februar 2021"
 category:
   - firstpost
