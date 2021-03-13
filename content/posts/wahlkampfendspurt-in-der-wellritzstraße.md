@@ -10,7 +10,7 @@ featureImage: /uploads/weee05386_n.jpg
 ---
 Wir trotzten Wind und Wetter und waren wir am Samstag, 13. März,  noch einmal mit dem Lastenrad im Westend unterwegs, um Flyer zu verteilen und Gespräche zu führen. Jetzt gilt es auf das Wählervotum am Sonntag und die Auszählung ab 18 Uhr zu warten. Wir wollen hier schon mal denjenigen „Danke“ sagen, die in den Wahllokalen ihren Beitrag leisten und die uns als linke Alternative mit ihrer Stimmabgabe unterstützen.
 
-![](/uploads/wweee2868441_n.jpg)
+![Bis zuletzt um jede Stimme gekämpft](/uploads/wweee2868441_n.jpg "Die treibende Kraft im Westend")
 
 Wir halten alle auf dem Laufenden und werden in den kommenden Tagen über den Ausgang der Wahl berichten. Wegen des Wahlrechts kann es durchaus bis Mittwoch dauern, bis die endgültige Besetzung der kommunalen Gremien feststeht.
 
