@@ -11,7 +11,7 @@ featureImage: /uploads/westend_obr_vorlendergebnos.jpeg
 ---
 Hier ist es nun, das amtliche Endergebnis der Wahl vom letzten Sonntag. Wir sind mit 20,4 Prozent doch tatsächlich zweitstärkste Kraft im Ortsbeirat Westend geworden. Das honoriert unsere gute Arbeit in den letzten Jahren und den engagiert geführten Wahlkampf. Wir bedanken uns bei unseren Wählerinnen und Wählern. 
 
-Glückwünsche an die auf unserer Liste gewählten: [Bernd Schmid](https://www.linke-im-westend.de/members/bernd-schmid), [Hans-Gerd Öfinger](https://www.linke-im-westend.de/members/hans-gerd-oefinge) und [Sonja Thomas](https://www.linke-im-westend.de/members/sonja-thomas). Wir werden im Sinne [unseres Programms](https://www.linke-im-westend.de/programm-2021) und unserer [bisherigen Arbeit](https://www.linke-im-westend.de/bilanz-2016-21) weiter als treibende Kraft im Ortsbeirat wirken. Umso mehr freuen wir uns auf 
+Glückwünsche an die auf unserer Liste Gewählten: [Bernd Schmid](https://www.linke-im-westend.de/members/bernd-schmid), [Hans-Gerd Öfinger](https://www.linke-im-westend.de/members/hans-gerd-oefinge) und [Sonja Thomas](https://www.linke-im-westend.de/members/sonja-thomas). Wir werden im Sinne [unseres Programms](https://www.linke-im-westend.de/programm-2021) und unserer [bisherigen Arbeit](https://www.linke-im-westend.de/bilanz-2016-21) weiter als treibende Kraft im Ortsbeirat wirken. Umso mehr freuen wir uns auf 
 
 Ein Ausdruck unserer konsequenten Arbeit im Stadtteil neben anderen sind die  Wahlergebnisse bei Ortsbeiratswahlen für die LINKE seit 2006: 7,7% (2006), 9,2% (2011), 17,3% (2016) und jetzt 20,4% (2021) Also ein kontinuierlicher Anstieg. 
 
