@@ -2,8 +2,8 @@
 title: Nachruf auf Hans-Gerd Öfinger
 subtitle: Hans-Gerd Öfinger ("HG") ist tot
 category:
-  - Lokales
   - firstpost
+  - Lokales
 author: Andreas Heimel
 date: 2021-05-01T04:29:01.460Z
 featureImage: /uploads/cbc09737.jpg
