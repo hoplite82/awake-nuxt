@@ -3,6 +3,7 @@ title: Jetzt ist die Stadt am Zug!
 subtitle: Ortsbeirat Westend/Bleichstraße folgt LINKE-Antrag und fordert
   einstimmig bessere Betreuung auf dem Blücherspielplatz
 category:
+  - firstpost
   - Lokales
 author: Bernd Schmid
 date: 2021-05-04T18:25:07.192Z
