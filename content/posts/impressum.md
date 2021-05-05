@@ -3,7 +3,7 @@ title: Impressum
 subtitle: Kontakt
 category:
   - Grundsätzliches
-author: Hans-Gerd Öfinger
+author: Andreas Heimel
 date: 2020-11-27T19:59:59.000Z
 featureImage: /uploads/impressum_secred.jpg
 ---
