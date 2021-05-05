@@ -1,11 +1,12 @@
 ---
 title: Datenschutzerklärung
+subtitle: Pflichtinformationen gemäß Artikel 13 Datenschutzgrundverordnung
 category:
   - Administratives
-author: Hans-Gerd Öfinger
+author: Andreas Heimel
 date: 2020-12-05T19:59:59.000Z
+featureImage: /uploads/bildschirmfoto-vom-2021-05-04-20-24-01.png
 ---
-
 # Datenschutzerklärung
 
 Die folgenden Hinweise klären Sie auf über die Art, den Umfang und Zweck
@@ -17,13 +18,12 @@ identifizierbar sind.
 
 ## 1. Verantwortlicher und Kontakt
 
-Die Verarbeitung Ihrer personenbezogenen Daten erfolgt durch Hans-Gerd
-Öfinger, Postfach 2112, 65011 Wiesbaden.
+Die Verarbeitung Ihrer personenbezogenen Daten erfolgt durch Markus Gludovacz, c/o DIE LINKE. Wiesbaden Kreisvorstand  Büdingenstraße 4-6, 65183 Wiesbaden.
 
 Sollten Sie Fragen zu diesem Dokument haben oder eine Beschwerde in
 Bezug auf die Verarbeitung Ihrer personenbezogenen Daten durch den
 Verantwortlichen vorbringen wollen, kontaktieren Sie uns unter [<span
-class="underline">Oefinger@WEB.de</span>](mailto:Oefinger@WEB.de).
+class="underline">kreisvorstand@dielinke-wiesbaden.de</span>](mailto:Oefinger@WEB.de).
 
 ## 2. Datenkategorien, Verarbeitungszwecke und Rechtsgrundlage
 
@@ -33,17 +33,12 @@ In Server-Log-Dateien erhebt und speichert der Provider der Webseite
 automatisch Informationen, die Ihr Browser automatisch an uns
 übermittelt. Dies sind:
 
-- Browsertyp und Browserversion
-
-- Verwendetes Betriebssystem
-
-- Referrer URL
-
-- Hostname des zugreifenden Rechners
-
-- Uhrzeit der Serveranfrage
-
-- IP-Adresse
+* Browsertyp und Browserversion
+* Verwendetes Betriebssystem
+* Referrer URL
+* Hostname des zugreifenden Rechners
+* Uhrzeit der Serveranfrage
+* IP-Adresse
 
 Die Daten werden innerhalb von 30 Tagen gelöscht. Es findet keine
 Zusammenführung dieser Daten mit anderen Datenquellen statt.
@@ -113,7 +108,7 @@ Nutzer die berechtigten Interesse des Verantwortlichen nicht überwiegen.
 Die Webseite wird von einem Webhoster betrieben. Mit diesem hat der
 Verantwortliche eine DSGVO-konforme Vereinbarung zur
 Auftragsverarbeitung personenbezogener Daten getroffen. Siehe:
-[https://www.netlify.com/gdpr-ccpa](https://www.netlify.com/gdpr-ccpa)
+<https://www.netlify.com/gdpr-ccpa>
 
 ### 4.2 Weitere Empfänger / internationaler Datentransfer
 
@@ -129,9 +124,9 @@ Rechtmäßigkeit der aufgrund der Einwilligung erfolgten Verarbeitung
 berührt wird – die im folgenden unter a) - f) ausgeführten Rechte haben.
 Um Ihre Rechte auszuüben, kontaktieren Sie uns bitte
 
-- per Brief: *Hans-Gerd Öfinger, Postfach 2112, 65011 Wiesbaden*
-
-- per E-Mail: Oefinger@WEB.de
+* per Brief: DIE LINKE. Wiesbaden Kreisvorstand, Büdingenstraße 4-6, 65183  Wiesbaden
+* per E-Mail: [<span
+  class="underline">kreisvorstand@dielinke-wiesbaden.de</span>](mailto:Oefinger@WEB.de).
 
 **a) Auskunftsrecht.** Sie haben das Recht, von uns eine Bestätigung
 darüber zu verlangen, ob Sie betreffende personenbezogene Daten
@@ -180,5 +175,4 @@ widersprechen. Das Gleiche gilt hinsichtlich der Verarbeitung der
 personenbezogenen Daten, einschließlich der Profilbildung, soweit diese
 im Zusammenhang mit Direktwerbung steht.
 
-
-Letzte Anpassung: Dezember 2020
+Letzte Anpassung: Mai 2021
