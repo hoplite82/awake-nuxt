@@ -1,31 +1,31 @@
 ---
 title: Impressum
+subtitle: Kontakt
 category:
-  - Administratives
+  - Grundsätzliches
 author: Hans-Gerd Öfinger
 date: 2020-11-27T19:59:59.000Z
 featureImage: /uploads/impressum_secred.jpg
 ---
-
 ## Angaben gemäß § 5 TMG
 
-| | |
-:--- | ---:
-| Name: | Hans-Gerd Öfinger
-| Adresse:  | POSTFACH 2112   |
-|           | 65011 Wiesbaden |
-| Telefon:  |   |
-| E-Mail:   | Oefinger@WEB.de  |
+|          |                                         |
+| -------- | --------------------------------------- |
+| Name:    | Markus Gludovacz                        |
+| Adresse: | c/o DIE LINKE. Wiesbaden Kreisvorstand  |
+|          | Büdingenstraße 4-6, 65183 Wiesbaden     |
+| Telefon: | 0611/36024955                           |
+| E-Mail:  | kreisvorstand@dielinke-wiesbaden.de     |
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-|  |   |
-| :-------- | --------------: |
-| Name: | Hans-Gerd Öfinger |
-| Adresse:  | POSTFACH 2112  |
-|           | 65011 Wiesbaden |
-| Telefon:  |     |
-| E-Mail:   | Oefinger@WEB.de   |
+|          |                                         |
+| -------- | --------------------------------------- |
+| Name:    | Markus Gludovacz                        |
+| Adresse: | c/o DIE LINKE. Wiesbaden Kreisvorstand  |
+|          | Büdingenstraße 4-6, 65183 Wiesbaden     |
+| Telefon: | 0611/36024955                           |
+| E-Mail:  | kreisvorstand@dielinke-wiesbaden.de     |
 
 ## Haftungsausschluss
 
@@ -39,9 +39,9 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 ## Urheberrecht
 
-### Content  
+### Content
 
-[**Creative Commons BY | CC BY**](https://creativecommons.org/licenses/?lang=de)
+**[Creative Commons BY | CC BY](https://creativecommons.org/licenses/?lang=de)**
 
 ![CCBYPIC](/ccby.png)
 
