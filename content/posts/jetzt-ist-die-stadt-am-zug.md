@@ -7,7 +7,7 @@ category:
   - Lokales
 author: Bernd Schmid
 date: 2021-05-04T18:25:07.192Z
-featureImage: /uploads/bildschirmfoto-vom-2021-05-04-20-24-01.png
+featureImage: /uploads/spielplatz_72_2.jpg
 ---
 Der neu gewählte Ortsbeirat (OBR) ist nun auch offiziell handlungsfähig und nahm schon in der konstituierenden Sitzung am 27. April die Arbeit auf. Wie berichtet konnten wir die SPD als zweitstärkste Kraft ablösen - ein toller Erfolg und Auftrag an uns, uns weiterhin mit voller Kraft für ein sozialeres Westend einzusetzen. Stärkste Fraktion des 15-köpfigen Gremiums sind die Grünen mit sechs Sitzen. DIE LINKE und SPD erreichten jeweils 3 Sitze, CDU und FDP verloren Wählerstimmen und stagnierten deswegen bei zwei Abgeordneten (CDU) und bzw. einem die FPD mit einem.
 
