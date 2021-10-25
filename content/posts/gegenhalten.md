@@ -4,7 +4,7 @@ subtitle: Solidarisch gegen den Bundesparteitag der AfD vom 10. bis 12. Dezember
   in Wiesbaden
 category:
   - firstpost
-  - Lokales
+  - Grundsätzliches
 author: Andreas Heimel
 date: 2021-10-25T18:27:30.936Z
 featureImage: /uploads/aa2.jpg
