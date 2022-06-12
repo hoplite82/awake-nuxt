@@ -6,7 +6,7 @@ category:
   - Lokales
 author: Bernd Schmid
 date: 2021-12-10T22:05:42.027Z
-featureImage: /uploads/bildschirmfoto-vom-2021-05-04-20-24-01.png
+featureImage: /uploads/bildschirmfoto-vom-2022-06-12-13-04-04.png
 ---
 Wiesbaden erweitert allmählich seine stationären Impfangebote - das ist löblich. Im ehemaligen Bürgerbüro im Luisenforum, im Stadtteilzentrum Schelmengraben können sich Menschen ohne Voranmeldung impfen lassen. Noch vor Weihnachten sollen weitere Impfangebote in Erbenheim und Biebrich geschaffen  werden. Vom baulich hochverdichteten Westend hört man in dieser Hinsicht wenig - immerhin der Stadtteil mit dem höchsten Anteil armer Menschen, dem niedrigsten Lebensstandard hinsichtlich Wohnfläche und Wohnqualität und seiner Funktion als erster Wohnort für Migranten*innen aus aller Herren Länder. Seltsam, das könnte doch eigentlich auffallen. Und damit nicht genug: Damit alles seine Ordnung hat, listet die Verwaltung auf ihrer Homepage auch gleich ganz akkurat auf, was Impfwillige denn bitte mitzubringen hätten:  
 
