@@ -6,7 +6,7 @@ category:
   - Lokales
 author: Bernd Schmid
 date: 2021-12-27T13:47:10.039Z
-featureImage: /uploads/bildschirmfoto-vom-2021-05-04-20-24-01.png
+featureImage: /uploads/bildschirmfoto-vom-2022-06-12-12-43-01.png
 ---
 Als ignorant und angesichts der aktuellen Corona-Situation brandgefährlich kritisiert Die LINKE im Westend die Ablehnung von Bürgermeister Dr. Oliver Franz zum Einsatz mobiler Impfteams speziell im Inneren Westend. Der Ortsbeirat hatte in seiner jüngsten Sitzung Anfang Dezember einstimmig einem Dringlichkeitsantrag der Linken-Fraktion zugestimmt, der genau dies gefordert hatte. „Es ist im höchsten Maß unverständlich, dass Franz ganze Personengruppen von einer Impfmöglichkeit faktisch ausschließt und stattdessen auf die öffentliche Impfstation im alten Bürgerbüro im Luisenforum verweist“, sagte Sprecher Markus Gludovacz. Dies zeuge nicht nur von einer gravierenden Unkenntnis der Bevölkerungsstruktur und Lebensverhältnisse im Viertel, sondern gefährde darüber hinaus die gesamte Corona-Bekämpfung in Wiesbaden.
 
