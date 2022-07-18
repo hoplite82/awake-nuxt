@@ -11,7 +11,7 @@ Nachfolgend die Namen und Reihenfolge unserer Liste.
 1. [Bernd Schmid](https://www.linke-im-westend.de/members/bernd-schmid)
 2. [Hans-Gerd Öfinger](https://www.linke-im-westend.de/members/hans-gerd-oefinge)
 3. [Markus Gludowacz](https://linke-im-westend.de/members/markus-gludowacz)
-4. [Andreas Heimel](https://www.linke-im-westend.de/members/andreas-heimel)
+4. Andreas Heimel
 5. [Christoph Mürdter](https://www.linke-im-westend.de/members/christoph-murdter)
 6. [Daniel Winter](https://www.linke-im-westend.de/members/daniel-winter)
 7. [Sonja Thomas](https://www.linke-im-westend.de/members/sonja-thomas)
